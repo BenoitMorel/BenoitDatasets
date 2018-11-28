@@ -1,0 +1,25 @@
+########################
+#    PARGENES v1.0.1   #
+########################
+ParGenes was called as follow:
+/home/morelbt/github/phd_experiments/../pargenes/pargenes/pargenes.py -a ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/alignments -b 10 -o ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes -c 40 -R --model GTR
+
+[0:00:00] end of MSAs initializations
+Calling mpi-scheduler: mpiexec -n 40 /home/morelbt/github/pargenes/MPIScheduler/build/mpi-scheduler --split-scheduler /home/morelbt/github/pargenes/pargenes/../raxml-ng/bin/raxml-ng-mpi.so ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/parse_run/parse_command.txt ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/parse_run 0
+Logs will be redirected to ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/parse_run/logs.txt
+  Average number of taxa: 37
+  Max number of taxa: 115
+  Average number of sites: 132
+  Max number of sites: 200
+  Recommended number of cores: 27
+[0:00:00] end of parsing mpi-scheduler run
+[0:00:00] end of anlysing parsing results
+Calling mpi-scheduler: mpiexec -n 40 /home/morelbt/github/pargenes/MPIScheduler/build/mpi-scheduler --split-scheduler /home/morelbt/github/pargenes/pargenes/../raxml-ng/bin/raxml-ng-mpi.so ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/mlsearch_run/mlsearch_command.txt ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/mlsearch_run 0
+Logs will be redirected to ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/mlsearch_run/logs.txt
+[0:00:36] end of mlsearch mpi-scheduler run
+[0:00:36] end of bootstraps concatenation
+Writing supports commands in ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/supports_run/supports_commands.txt
+Calling mpi-scheduler: mpiexec -n 40 /home/morelbt/github/pargenes/MPIScheduler/build/mpi-scheduler --split-scheduler /home/morelbt/github/pargenes/pargenes/../raxml-ng/bin/raxml-ng-mpi.so ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/supports_run/supports_commands.txt ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/supports_run 0
+Logs will be redirected to ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/supports_run/logs.txt
+[0:00:37] end of supports mpi-scheduler run
+[0:00:37] END OF THE RUN OF pargenes.py

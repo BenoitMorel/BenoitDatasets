@@ -1,0 +1,89 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 228151
+Remaining commands: 40
+## Started parse_7_pruned_fasta on [0:0] 
+## Started parse_22_pruned_fasta on [19:19] 
+## Started parse_26_pruned_fasta on [9:9] 
+## Started parse_2_pruned_fasta on [4:4] 
+## Started parse_3_pruned_fasta on [2:2] 
+## Started parse_41_pruned_fasta on [1:1] 
+## Started parse_14_pruned_fasta on [29:29] 
+## Started parse_33_pruned_fasta on [24:24] 
+## Started parse_35_pruned_fasta on [21:21] 
+## Started parse_20_pruned_fasta on [20:20] 
+## Started parse_5_pruned_fasta on [14:14] 
+## Started parse_28_pruned_fasta on [11:11] 
+## Started parse_50_pruned_fasta on [10:10] 
+## Started parse_45_pruned_fasta on [6:6] 
+## Started parse_4_pruned_fasta on [5:5] 
+## Started parse_6_pruned_fasta on [3:3] 
+## Started parse_27_pruned_fasta on [34:34] 
+## Started parse_39_pruned_fasta on [31:31] 
+## Started parse_42_pruned_fasta on [30:30] 
+## Started parse_49_pruned_fasta on [26:26] 
+## Started parse_18_pruned_fasta on [25:25] 
+## Started parse_9_pruned_fasta on [22:22] 
+## Started parse_10_pruned_fasta on [16:16] 
+## Started parse_31_pruned_fasta on [15:15] 
+## Started parse_1_pruned_fasta on [12:12] 
+## Started parse_13_pruned_fasta on [7:7] 
+## Started parse_19_pruned_fasta on [36:36] 
+## Started parse_34_pruned_fasta on [35:35] 
+## Started parse_21_pruned_fasta on [32:32] 
+## Started parse_46_pruned_fasta on [27:27] 
+## Started parse_24_pruned_fasta on [23:23] 
+## Started parse_48_pruned_fasta on [17:17] 
+## Started parse_32_pruned_fasta on [13:13] 
+## Started parse_30_pruned_fasta on [8:8] 
+## Started parse_23_pruned_fasta on [37:37] 
+## Started parse_38_pruned_fasta on [33:33] 
+## Started parse_40_pruned_fasta on [28:28] 
+## Started parse_37_pruned_fasta on [18:18] 
+## Started parse_16_pruned_fasta on [38:38] 
+End of parse_32_pruned_fasta after 18ms  (1/40)
+## Started parse_36_pruned_fasta on [13:13] 
+All commands were launched
+End of parse_6_pruned_fasta after 18ms  (2/40)
+End of parse_22_pruned_fasta after 18ms  (3/40)
+End of parse_42_pruned_fasta after 18ms  (4/40)
+End of parse_4_pruned_fasta after 18ms  (5/40)
+End of parse_2_pruned_fasta after 18ms  (6/40)
+End of parse_48_pruned_fasta after 18ms  (7/40)
+End of parse_7_pruned_fasta after 19ms  (8/40)
+End of parse_18_pruned_fasta after 19ms  (9/40)
+End of parse_24_pruned_fasta after 19ms  (10/40)
+End of parse_46_pruned_fasta after 19ms  (11/40)
+End of parse_50_pruned_fasta after 19ms  (12/40)
+End of parse_19_pruned_fasta after 20ms  (13/40)
+End of parse_13_pruned_fasta after 20ms  (14/40)
+End of parse_10_pruned_fasta after 20ms  (15/40)
+End of parse_31_pruned_fasta after 20ms  (16/40)
+End of parse_34_pruned_fasta after 20ms  (17/40)
+End of parse_1_pruned_fasta after 20ms  (18/40)
+End of parse_38_pruned_fasta after 20ms  (19/40)
+End of parse_5_pruned_fasta after 20ms  (20/40)
+End of parse_14_pruned_fasta after 20ms  (21/40)
+End of parse_41_pruned_fasta after 20ms  (22/40)
+End of parse_3_pruned_fasta after 20ms  (23/40)
+End of parse_37_pruned_fasta after 20ms  (24/40)
+End of parse_35_pruned_fasta after 20ms  (25/40)
+End of parse_23_pruned_fasta after 20ms  (26/40)
+End of parse_45_pruned_fasta after 20ms  (27/40)
+End of parse_28_pruned_fasta after 20ms  (28/40)
+End of parse_27_pruned_fasta after 20ms  (29/40)
+End of parse_21_pruned_fasta after 20ms  (30/40)
+End of parse_30_pruned_fasta after 20ms  (31/40)
+End of parse_33_pruned_fasta after 20ms  (32/40)
+End of parse_16_pruned_fasta after 20ms  (33/40)
+End of parse_39_pruned_fasta after 20ms  (34/40)
+End of parse_26_pruned_fasta after 20ms  (35/40)
+End of parse_49_pruned_fasta after 20ms  (36/40)
+End of parse_20_pruned_fasta after 20ms  (37/40)
+End of parse_36_pruned_fasta after 2ms  (38/40)
+End of parse_9_pruned_fasta after 21ms  (39/40)
+End of parse_40_pruned_fasta after 22ms  (40/40)
+Finished running commands. Total elasped time: 0s
+Load balance ratio: 0.853958
+Saving svg output in ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/parse_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

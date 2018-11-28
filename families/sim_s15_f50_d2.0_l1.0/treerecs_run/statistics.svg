@@ -1,0 +1,55 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="600" height="600">
+<rect x="0%" y="0%" height="100%" width="100%" style="fill: #ffffff"/>
+<svg x="0" y="0">
+  <text fill="dark" font-size="35" transform="translate(250, 30)">cores</text>
+</svg>
+<svg x="0" y="0"> 
+  <text fill="dark" font-size="35" transform="translate(30, 300) rotate(270)">time</text>
+</svg>
+<svg x = "50" y="550">
+  <text fill="blue" font-size="30" transform="translate(0, 35)">t = 8s, lb = 0.232030</text>
+</svg>
+<svg x="50" y="50" width="500" height="500" >
+  <rect x="0%" y="0%" height="100%" width="100%" style="fill: #eeeeee"/>
+    <rect x="0"  y="1.19332" height="169.153" width="12.5" style="fill: #dab2b3"/>
+    <rect x="12.5"  y="1.19332" height="34.6659" width="12.5" style="fill: #6c248b"/>
+    <rect x="25"  y="1.19332" height="90.3938" width="12.5" style="fill: #87d6ae"/>
+    <rect x="37.5"  y="1.19332" height="29.0573" width="12.5" style="fill: #33f9a6"/>
+    <rect x="50"  y="1.19332" height="41.7661" width="12.5" style="fill: #2d7183"/>
+    <rect x="62.5"  y="1.19332" height="247.971" width="12.5" style="fill: #a5d578"/>
+    <rect x="75"  y="1.19332" height="179.296" width="12.5" style="fill: #9e4b2d"/>
+    <rect x="87.5"  y="1.19332" height="15.6325" width="12.5" style="fill: #6b441e"/>
+    <rect x="100"  y="1.19332" height="47.852" width="12.5" style="fill: #2411dc"/>
+    <rect x="112.5"  y="1.19332" height="109.069" width="12.5" style="fill: #709e11"/>
+    <rect x="125"  y="1.19332" height="28.043" width="12.5" style="fill: #1c7e1e"/>
+    <rect x="137.5"  y="1.19332" height="77.864" width="12.5" style="fill: #7acb6f"/>
+    <rect x="150"  y="1.19332" height="244.391" width="12.5" style="fill: #8cac0b"/>
+    <rect x="162.5"  y="1.19332" height="27.2076" width="12.5" style="fill: #b2fc4c"/>
+    <rect x="175"  y="1.19332" height="255.907" width="12.5" style="fill: #8bc2ae"/>
+    <rect x="187.5"  y="1.19332" height="146.897" width="12.5" style="fill: #3baaab"/>
+    <rect x="200"  y="1.19332" height="60.7995" width="12.5" style="fill: #9165cc"/>
+    <rect x="212.5"  y="1.19332" height="59.4869" width="12.5" style="fill: #458e19"/>
+    <rect x="225"  y="1.19332" height="129.296" width="12.5" style="fill: #9cb89f"/>
+    <rect x="237.5"  y="1.19332" height="35.2029" width="12.5" style="fill: #51b135"/>
+    <rect x="250"  y="1.19332" height="49.5227" width="12.5" style="fill: #f7091a"/>
+    <rect x="262.5"  y="1.19332" height="148.986" width="12.5" style="fill: #5abb08"/>
+    <rect x="275"  y="1.19332" height="99.7017" width="12.5" style="fill: #74df3e"/>
+    <rect x="287.5"  y="1.19332" height="70.2267" width="12.5" style="fill: #8cb454"/>
+    <rect x="300"  y="1.19332" height="32.2196" width="12.5" style="fill: #3a5eb9"/>
+    <rect x="312.5"  y="1.19332" height="64.7375" width="12.5" style="fill: #3b0441"/>
+    <rect x="325"  y="1.19332" height="63.7232" width="12.5" style="fill: #e9ca4c"/>
+    <rect x="337.5"  y="1.19332" height="195.704" width="12.5" style="fill: #2b0fb3"/>
+    <rect x="350"  y="1.19332" height="203.699" width="12.5" style="fill: #d30875"/>
+    <rect x="362.5"  y="1.19332" height="91.4081" width="12.5" style="fill: #cbf29a"/>
+    <rect x="375"  y="1.19332" height="49.642" width="12.5" style="fill: #bd5b1a"/>
+    <rect x="387.5"  y="1.19332" height="369.153" width="12.5" style="fill: #cf3898"/>
+    <rect x="400"  y="1.19332" height="109.964" width="12.5" style="fill: #4b35ae"/>
+    <rect x="412.5"  y="1.19332" height="64.9761" width="12.5" style="fill: #882809"/>
+    <rect x="425"  y="1.19332" height="187.291" width="12.5" style="fill: #dd4cfe"/>
+    <rect x="437.5"  y="1.19332" height="67.0048" width="12.5" style="fill: #7abc5c"/>
+    <rect x="450"  y="1.19332" height="58.2339" width="12.5" style="fill: #61baa5"/>
+    <rect x="462.5"  y="1.19332" height="498.747" width="12.5" style="fill: #2e053b"/>
+    <rect x="475"  y="1.19332" height="24.105" width="12.5" style="fill: #4c3643"/>
+    <rect x="87.5"  y="18.0788" height="45.5847" width="12.5" style="fill: #f204ef"/>
+</svg>
+</svg>

@@ -1,0 +1,2 @@
+GTR
+/home/morelbt/github/BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/families/3_pruned/alignment.msa

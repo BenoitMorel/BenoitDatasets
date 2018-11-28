@@ -1,0 +1,169 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 228235
+Remaining commands: 80
+## Started 9_pruned_fasta_bs0 on [0:0] 
+## Started 20_pruned_fasta_bs0 on [19:19] 
+## Started 39_pruned_fasta_bs0 on [9:9] 
+## Started 30_pruned_fasta_bs0 on [4:4] 
+## Started 26_pruned_fasta_bs0 on [2:2] 
+## Started 16_pruned_fasta_bs0 on [1:1] 
+## Started 23_pruned_fasta_bs0 on [29:29] 
+## Started 40_pruned_fasta_bs0 on [24:24] 
+## Started 27_pruned_fasta_bs0 on [21:21] 
+## Started 36_pruned_fasta_bs0 on [20:20] 
+## Started 33_pruned_fasta_bs0 on [14:14] 
+## Started 37_pruned_fasta_bs0 on [11:11] 
+## Started 49_pruned_fasta_bs0 on [10:10] 
+## Started 35_pruned_fasta_bs0 on [6:6] 
+## Started 31_pruned_fasta_bs0 on [5:5] 
+## Started 34_pruned_fasta_bs0 on [3:3] 
+## Started 21_pruned_fasta_bs0 on [34:34] 
+## Started 42_pruned_fasta_bs0 on [31:31] 
+## Started 46_pruned_fasta_bs0 on [30:30] 
+## Started 45_pruned_fasta_bs0 on [26:26] 
+## Started 10_pruned_fasta_bs0 on [25:25] 
+## Started 19_pruned_fasta_bs0 on [22:22] 
+## Started 14_pruned_fasta_bs0 on [16:16] 
+## Started 3_pruned_fasta_bs0 on [15:15] 
+## Started 24_pruned_fasta_bs0 on [12:12] 
+## Started 41_pruned_fasta_bs0 on [7:7] 
+## Started 28_pruned_fasta_bs0 on [36:36] 
+## Started mlsearch_9_pruned_fasta_0 on [35:35] 
+## Started 38_pruned_fasta_bs0 on [32:32] 
+## Started 6_pruned_fasta_bs0 on [27:27] 
+## Started 2_pruned_fasta_bs0 on [23:23] 
+## Started mlsearch_20_pruned_fasta_0 on [17:17] 
+## Started 1_pruned_fasta_bs0 on [13:13] 
+## Started 13_pruned_fasta_bs0 on [8:8] 
+## Started 32_pruned_fasta_bs0 on [37:37] 
+## Started mlsearch_39_pruned_fasta_0 on [33:33] 
+## Started mlsearch_30_pruned_fasta_0 on [28:28] 
+## Started mlsearch_26_pruned_fasta_0 on [18:18] 
+## Started 18_pruned_fasta_bs0 on [38:38] 
+End of 18_pruned_fasta_bs0 after 722ms  (1/80)
+## Started 5_pruned_fasta_bs0 on [38:38] 
+End of 32_pruned_fasta_bs0 after 822ms  (2/80)
+## Started 50_pruned_fasta_bs0 on [37:37] 
+End of 1_pruned_fasta_bs0 after 1108ms  (3/80)
+## Started mlsearch_16_pruned_fasta_0 on [13:13] 
+End of 6_pruned_fasta_bs0 after 1181ms  (4/80)
+## Started mlsearch_23_pruned_fasta_0 on [27:27] 
+End of 13_pruned_fasta_bs0 after 1211ms  (5/80)
+## Started 7_pruned_fasta_bs0 on [8:8] 
+End of 2_pruned_fasta_bs0 after 1332ms  (6/80)
+## Started 4_pruned_fasta_bs0 on [23:23] 
+End of 38_pruned_fasta_bs0 after 1534ms  (7/80)
+## Started mlsearch_40_pruned_fasta_0 on [32:32] 
+End of 50_pruned_fasta_bs0 after 730ms  (8/80)
+## Started mlsearch_27_pruned_fasta_0 on [37:37] 
+End of 5_pruned_fasta_bs0 after 837ms  (9/80)
+## Started mlsearch_36_pruned_fasta_0 on [38:38] 
+End of mlsearch_26_pruned_fasta_0 after 1677ms  (10/80)
+## Started mlsearch_33_pruned_fasta_0 on [18:18] 
+End of 28_pruned_fasta_bs0 after 1856ms  (11/80)
+## Started mlsearch_37_pruned_fasta_0 on [36:36] 
+End of 7_pruned_fasta_bs0 after 688ms  (12/80)
+## Started mlsearch_49_pruned_fasta_0 on [8:8] 
+End of 4_pruned_fasta_bs0 after 584ms  (13/80)
+## Started 48_pruned_fasta_bs0 on [23:23] 
+End of 41_pruned_fasta_bs0 after 1934ms  (14/80)
+## Started mlsearch_35_pruned_fasta_0 on [7:7] 
+End of mlsearch_30_pruned_fasta_0 after 1935ms  (15/80)
+## Started mlsearch_31_pruned_fasta_0 on [28:28] 
+End of mlsearch_39_pruned_fasta_0 after 2090ms  (16/80)
+## Started mlsearch_34_pruned_fasta_0 on [33:33] 
+End of 3_pruned_fasta_bs0 after 2241ms  (17/80)
+## Started mlsearch_21_pruned_fasta_0 on [15:15] 
+End of 24_pruned_fasta_bs0 after 2307ms  (18/80)
+## Started mlsearch_42_pruned_fasta_0 on [12:12] 
+End of 48_pruned_fasta_bs0 after 393ms  (19/80)
+## Started 22_pruned_fasta_bs0 on [23:23] 
+End of 10_pruned_fasta_bs0 after 2329ms  (20/80)
+## Started mlsearch_46_pruned_fasta_0 on [25:25] 
+End of 19_pruned_fasta_bs0 after 2348ms  (21/80)
+## Started mlsearch_45_pruned_fasta_0 on [22:22] 
+End of 14_pruned_fasta_bs0 after 2355ms  (22/80)
+## Started mlsearch_10_pruned_fasta_0 on [16:16] 
+End of mlsearch_35_pruned_fasta_0 after 545ms  (23/80)
+## Started mlsearch_19_pruned_fasta_0 on [7:7] 
+End of 45_pruned_fasta_bs0 after 2496ms  (24/80)
+## Started mlsearch_14_pruned_fasta_0 on [26:26] 
+End of mlsearch_23_pruned_fasta_0 after 1333ms  (25/80)
+## Started mlsearch_3_pruned_fasta_0 on [27:27] 
+End of mlsearch_36_pruned_fasta_0 after 965ms  (26/80)
+## Started mlsearch_24_pruned_fasta_0 on [38:38] 
+End of mlsearch_16_pruned_fasta_0 after 1430ms  (27/80)
+## Started mlsearch_41_pruned_fasta_0 on [13:13] 
+End of 22_pruned_fasta_bs0 after 230ms  (28/80)
+## Started mlsearch_28_pruned_fasta_0 on [23:23] 
+End of mlsearch_33_pruned_fasta_0 after 888ms  (29/80)
+## Started mlsearch_38_pruned_fasta_0 on [18:18] 
+End of mlsearch_31_pruned_fasta_0 after 655ms  (30/80)
+## Started mlsearch_6_pruned_fasta_0 on [28:28] 
+End of mlsearch_40_pruned_fasta_0 after 1110ms  (31/80)
+## Started mlsearch_2_pruned_fasta_0 on [32:32] 
+End of mlsearch_45_pruned_fasta_0 after 299ms  (32/80)
+## Started mlsearch_1_pruned_fasta_0 on [22:22] 
+End of mlsearch_10_pruned_fasta_0 after 300ms  (33/80)
+## Started mlsearch_13_pruned_fasta_0 on [16:16] 
+End of mlsearch_34_pruned_fasta_0 after 575ms  (34/80)
+## Started mlsearch_32_pruned_fasta_0 on [33:33] 
+End of mlsearch_46_pruned_fasta_0 after 343ms  (35/80)
+## Started mlsearch_18_pruned_fasta_0 on [25:25] 
+End of 46_pruned_fasta_bs0 after 2680ms  (36/80)
+## Started mlsearch_5_pruned_fasta_0 on [30:30] 
+End of mlsearch_49_pruned_fasta_0 after 803ms  (37/80)
+## Started mlsearch_50_pruned_fasta_0 on [8:8] 
+End of mlsearch_38_pruned_fasta_0 after 155ms  (38/80)
+## Started mlsearch_7_pruned_fasta_0 on [18:18] 
+End of mlsearch_37_pruned_fasta_0 after 876ms  (39/80)
+## Started mlsearch_4_pruned_fasta_0 on [36:36] 
+End of mlsearch_28_pruned_fasta_0 after 208ms  (40/80)
+## Started mlsearch_48_pruned_fasta_0 on [23:23] 
+End of mlsearch_32_pruned_fasta_0 after 92ms  (41/80)
+## Started mlsearch_22_pruned_fasta_0 on [33:33] 
+All commands were launched
+End of mlsearch_6_pruned_fasta_0 after 171ms  (42/80)
+End of mlsearch_18_pruned_fasta_0 after 90ms  (43/80)
+End of mlsearch_3_pruned_fasta_0 after 260ms  (44/80)
+End of mlsearch_22_pruned_fasta_0 after 21ms  (45/80)
+End of mlsearch_42_pruned_fasta_0 after 473ms  (46/80)
+End of mlsearch_5_pruned_fasta_0 after 102ms  (47/80)
+End of mlsearch_13_pruned_fasta_0 after 128ms  (48/80)
+End of mlsearch_1_pruned_fasta_0 after 143ms  (49/80)
+End of mlsearch_48_pruned_fasta_0 after 42ms  (50/80)
+End of mlsearch_41_pruned_fasta_0 after 255ms  (51/80)
+End of mlsearch_4_pruned_fasta_0 after 62ms  (52/80)
+End of mlsearch_14_pruned_fasta_0 after 299ms  (53/80)
+End of mlsearch_7_pruned_fasta_0 after 82ms  (54/80)
+End of mlsearch_19_pruned_fasta_0 after 324ms  (55/80)
+End of mlsearch_50_pruned_fasta_0 after 100ms  (56/80)
+End of mlsearch_20_pruned_fasta_0 after 2805ms  (57/80)
+End of mlsearch_27_pruned_fasta_0 after 1257ms  (58/80)
+End of mlsearch_21_pruned_fasta_0 after 573ms  (59/80)
+End of mlsearch_24_pruned_fasta_0 after 323ms  (60/80)
+End of mlsearch_2_pruned_fasta_0 after 229ms  (61/80)
+End of 42_pruned_fasta_bs0 after 3403ms  (62/80)
+End of 34_pruned_fasta_bs0 after 4008ms  (63/80)
+End of mlsearch_9_pruned_fasta_0 after 4289ms  (64/80)
+End of 21_pruned_fasta_bs0 after 4310ms  (65/80)
+End of 31_pruned_fasta_bs0 after 4496ms  (66/80)
+End of 35_pruned_fasta_bs0 after 4694ms  (67/80)
+End of 49_pruned_fasta_bs0 after 6184ms  (68/80)
+End of 37_pruned_fasta_bs0 after 6556ms  (69/80)
+End of 33_pruned_fasta_bs0 after 6900ms  (70/80)
+End of 36_pruned_fasta_bs0 after 8189ms  (71/80)
+End of 40_pruned_fasta_bs0 after 9767ms  (72/80)
+End of 27_pruned_fasta_bs0 after 10546ms  (73/80)
+End of 23_pruned_fasta_bs0 after 10790ms  (74/80)
+End of 16_pruned_fasta_bs0 after 12084ms  (75/80)
+End of 26_pruned_fasta_bs0 after 12964ms  (76/80)
+End of 30_pruned_fasta_bs0 after 14158ms  (77/80)
+End of 39_pruned_fasta_bs0 after 15692ms  (78/80)
+End of 20_pruned_fasta_bs0 after 23037ms  (79/80)
+End of 9_pruned_fasta_bs0 after 34829ms  (80/80)
+Finished running commands. Total elasped time: 34s
+Load balance ratio: 0.186124
+Saving svg output in ../BenoitDatasets/families/sim_s15_f50_d2.0_l1.0/pargenes/mlsearch_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run
