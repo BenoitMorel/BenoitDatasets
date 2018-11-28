@@ -1,0 +1,3 @@
+event(14,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/595_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(14,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/595_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(20,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/595_pruned_fasta_modified/phyldog/phyldog",loss)

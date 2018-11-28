@@ -1,0 +1,6 @@
+event(16,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(16,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(25,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(16,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(16,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",duplication)
+event(24,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/1074_pruned_fasta_modified/phyldog/phyldog",loss)

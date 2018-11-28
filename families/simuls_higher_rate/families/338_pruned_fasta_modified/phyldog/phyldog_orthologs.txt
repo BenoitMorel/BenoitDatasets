@@ -1,0 +1,9 @@
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	DUPLICATIONS : 2	LOSSES : 1
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n278@338_101 <===> n277@338_100
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n278@338_109 <===> n278@338_108
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n277@338_102 <===> n278@338_109, n278@338_108
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n278@338_101, n277@338_100 <===> n277@338_102, n278@338_109, n278@338_108
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n300@338_113 <===> n299@338_112
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n292@338_111 <===> n300@338_113, n299@338_112
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n292@338_111, n300@338_113, n299@338_112 <===> n280@338_105
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/338_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n278@338_101, n277@338_100, n277@338_102, n278@338_109, n278@338_108 <===> n292@338_111, n300@338_113, n299@338_112, n280@338_105

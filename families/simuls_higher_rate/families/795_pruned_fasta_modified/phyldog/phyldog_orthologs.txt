@@ -1,0 +1,11 @@
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	DUPLICATIONS : 4	LOSSES : 2
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n265@795_334 <===> n266@795_335
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n286@795_339 <===> n285@795_338
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n286@795_339, n285@795_338 <===> n285@795_340
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n265@795_334, n266@795_335 <===> n286@795_339, n285@795_338, n285@795_340
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n266@795_343 <===> n266@795_342
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n266@795_343, n266@795_342 <===> n265@795_330
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n266@795_333 <===> n266@795_343, n266@795_342, n265@795_330
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n285@795_336 <===> n286@795_337
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n266@795_333, n266@795_343, n266@795_342, n265@795_330 <===> n285@795_336, n286@795_337
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/795_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n265@795_334, n266@795_335, n286@795_339, n285@795_338, n285@795_340 <===> n266@795_333, n266@795_343, n266@795_342, n265@795_330, n285@795_336, n286@795_337

@@ -1,0 +1,10 @@
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	DUPLICATIONS : 7	LOSSES : 0
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n255@884_492 <===> n255@884_493
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n255@884_488 <===> n255@884_492, n255@884_493
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n255@884_488, n255@884_492, n255@884_493 <===> n251@884_482
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@884_479 <===> n244@884_481
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@884_469 <===> n244@884_479, n244@884_481
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@884_484 <===> n244@884_485
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@884_475 <===> n244@884_484, n244@884_485
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@884_469, n244@884_479, n244@884_481 <===> n244@884_475, n244@884_484, n244@884_485
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/884_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n255@884_488, n255@884_492, n255@884_493, n251@884_482 <===> n244@884_469, n244@884_479, n244@884_481, n244@884_475, n244@884_484, n244@884_485

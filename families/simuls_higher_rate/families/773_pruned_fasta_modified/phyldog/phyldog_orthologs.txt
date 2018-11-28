@@ -1,0 +1,10 @@
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	DUPLICATIONS : 6	LOSSES : 0
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@773_253 <===> n244@773_251
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@773_247 <===> n244@773_245
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@773_243 <===> n244@773_247, n244@773_245
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@773_253, n244@773_251 <===> n244@773_243, n244@773_247, n244@773_245
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@773_249 <===> n244@773_253, n244@773_251, n244@773_243, n244@773_247, n244@773_245
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n255@773_260 <===> n251@773_256
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n255@773_258 <===> n251@773_254
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n255@773_260, n251@773_256 <===> n255@773_258, n251@773_254
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/773_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n244@773_249, n244@773_253, n244@773_251, n244@773_243, n244@773_247, n244@773_245 <===> n255@773_260, n251@773_256, n255@773_258, n251@773_254

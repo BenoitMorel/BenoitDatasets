@@ -1,0 +1,10 @@
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	DUPLICATIONS : 5	LOSSES : 0
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n251@408_640 <===> n255@408_648
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n251@408_652 <===> n251@408_653
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n251@408_652, n251@408_653 <===> n255@408_656
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n255@408_655 <===> n255@408_657
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n251@408_638 <===> n255@408_655, n255@408_657
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n251@408_652, n251@408_653, n255@408_656 <===> n251@408_638, n255@408_655, n255@408_657
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n251@408_640, n255@408_648 <===> n251@408_652, n251@408_653, n255@408_656, n251@408_638, n255@408_655, n255@408_657
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	PARALOGY RELATIONSHIP: n244@408_621 <===> n244@408_625
+/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/408_pruned_fasta_modified/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n251@408_640, n255@408_648, n251@408_652, n251@408_653, n255@408_656, n251@408_638, n255@408_655, n255@408_657 <===> n244@408_621, n244@408_625
