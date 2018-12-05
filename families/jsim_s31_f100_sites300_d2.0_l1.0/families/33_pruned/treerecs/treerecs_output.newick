@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 12, duplications = 6, losses = 0, contraction threshold = no, ALE logLk = -10.3747, libpll logLk = -2821.15, execution time = 0 s.)
+(((G4_27:0.082081,G3_27:0.223482)62:0.485116,(G0_27:0.029696,G1_27:0.426806)100:1.84232):0.348211,(G11_28:0.335763,((G8_28:0.066264,G7_28:0.235156)81:0.597125,G10_28:0.568165):0.167944):0.348211);
+> family 1 tree 1 (total cost = 12, duplications = 6, losses = 0, contraction threshold = 57, ALE logLk = -10.3747, libpll logLk = -2821.15, execution time = 0 s.)
+((G11_28:0.335763,((G8_28:0.066264,G7_28:0.235156):0.597125,G10_28:0.568165):0.167944):0.34821,((G4_27:0.082081,G3_27:0.223482):0.485116,(G0_27:0.029696,G1_27:0.426806):1.84232):0.34821);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 61.3333, ALE logLk = -11.8705, libpll logLk = -2821.84, execution time = 0 s.)
+(((G4_27:0.082081,G3_27:0.223482):0.833327,((G8_28:0.066264,G7_28:0.235156):0.597125,G10_28:0.568165):0.516154):1e-06,(G11_28:0.683974,(G0_27:0.029696,G1_27:0.426806):2.19053):1e-06);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 62, ALE logLk = -12.165, libpll logLk = -2868.46, execution time = 0 s.)
+(((G8_28:0.066264,G7_28:0.235156):1.19257,G3_27:0.977515):1e-06,((G11_28:0.683974,(G0_27:0.029696,G1_27:0.426806):2.19053):1e-06,(G10_28:1.19004,G4_27:0.809683):1e-06):1e-06);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 74.6667, ALE logLk = -12.165, libpll logLk = -2868.49, execution time = 0 s.)
+((G10_28:1.19004,G4_27:0.809683):1e-06,((G11_28:0.683974,(G0_27:0.029696,G1_27:0.426806):2.19053):1e-06,((G8_28:0.066264,G7_28:0.235156):1.19257,G3_27:0.977515):1e-06):1e-06);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 87.3333, ALE logLk = -12.165, libpll logLk = -2868.31, execution time = 0 s.)
+((G11_28:0.683974,(G0_27:0.029696,G1_27:0.426806):2.19053):1e-06,((G10_28:1.19004,G4_27:0.809683):1e-06,(G3_27:0.977515,(G8_28:0.066264,G7_28:0.235156):1.19257):1e-06):1e-06);
+> family 1 tree 1 (total cost = 6, duplications = 3, losses = 0, contraction threshold = 100, ALE logLk = -12.9668, libpll logLk = -2977.35, execution time = 0 s.)
+((G8_28:1.42786,G0_27:1.97191):1e-06,((G7_28:1.49999,G1_27:2.46579):1e-06,((G11_28:0.764826,G3_27:0.975956):1e-06,(G10_28:1.06565,G4_27:0.934074):1e-06):1.55709):1e-06);

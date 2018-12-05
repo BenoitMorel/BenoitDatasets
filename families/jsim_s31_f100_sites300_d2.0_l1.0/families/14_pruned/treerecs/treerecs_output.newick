@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = no, ALE logLk = -5.71825, libpll logLk = -2434.85, execution time = 0 s.)
+((((G5_28:0.944237,G7_28:1.15218)46:0.415256,G0_28:0.389704)41:0.602133,G2_28:0.462152):0.133295,(G9_28:2.12861,G1_28:0.195653):0.133295);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 28.3333, ALE logLk = -5.71825, libpll logLk = -2434.85, execution time = 0 s.)
+(((G2_28:0.462152,(G9_28:2.12861,G1_28:0.195653):0.26659)41:0.602133,G0_28:0.389704):0.207628,(G5_28:0.944237,G7_28:1.15218):0.207628);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 34.6667, ALE logLk = -5.71825, libpll logLk = -2434.86, execution time = 0 s.)
+(G5_28:0.472118,(((G2_28:0.462152,(G9_28:2.12861,G1_28:0.195653):0.26659)41:0.602133,G0_28:0.389704):0.415256,G7_28:1.15218):0.472118);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 41, ALE logLk = -5.71825, libpll logLk = -2434.85, execution time = 0 s.)
+((G2_28:0.462152,((G5_28:0.944237,G7_28:1.15218):0.415256,G0_28:0.389704):0.602133):0.133295,(G9_28:2.12861,G1_28:0.195653):0.133295);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 42.6667, ALE logLk = -5.71825, libpll logLk = -2434.85, execution time = 0 s.)
+((G2_28:0.462152,((G5_28:0.944237,G7_28:1.15218):0.415256,G0_28:0.389704):0.602133):0.133295,(G9_28:2.12861,G1_28:0.195653):0.133295);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 44.3333, ALE logLk = -5.71825, libpll logLk = -2434.88, execution time = 0 s.)
+(G7_28:0.57609,((G0_28:0.389704,(G2_28:0.462152,(G9_28:2.12861,G1_28:0.195653):0.26659):0.602133):0.415256,G5_28:0.944237):0.57609);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 46, ALE logLk = -5.71825, libpll logLk = -2434.89, execution time = 0 s.)
+((G2_28:0.462152,(G0_28:0.389704,(G5_28:0.944237,G7_28:1.15218):0.415256):0.602133):0.133295,(G9_28:2.12861,G1_28:0.195653):0.133295);

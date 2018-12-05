@@ -1,0 +1,77 @@
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/parse_run/results/17_fasta/17_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/mlsearch_run/results/17_fasta/17_fasta --threads 1 --seed 1 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/parse_run/results/17_fasta/17_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/mlsearch_run/results/17_fasta/17_fasta --threads 1 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/parse_run/results/17_fasta/17_fasta.raxml.rba
+[00:00:00] Alignment comprises 4 taxa, 1 partitions and 89 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 300 / 89
+Gaps: 0.00 %
+Invariant sites: 1.33 %
+
+
+[00:00:00] Generating 1 random starting tree(s) with 4 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 89 / 356
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -1540.889674] Initial branch length optimization
+[00:00:00 -1278.664414] Model parameter optimization (eps = 10.000000)
+[00:00:00 -1270.850233] SPR radius for FAST iterations: 5 (autodetect)
+[00:00:00 -1270.850233] Model parameter optimization (eps = 3.000000)
+[00:00:00 -1270.615669] FAST spr round 1 (radius: 5)
+[00:00:00 -1270.592658] Model parameter optimization (eps = 1.000000)
+[00:00:00 -1270.578625] SLOW spr round 1 (radius: 5)
+[00:00:00 -1270.564963] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] ML tree search #1, logLikelihood: -1270.555482
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.253615 0.210528 0.258203 0.277654 
+   Substitution rates (ML): 1.147393 0.656119 1.093998 0.615871 0.507661 1.000000 
+
+Final LogLikelihood: -1270.555482
+
+Best ML tree saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/mlsearch_run/results/17_fasta/17_fasta.raxml.bestTree
+Optimized model saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/mlsearch_run/results/17_fasta/17_fasta.raxml.bestModel
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/mlsearch_run/results/17_fasta/17_fasta.raxml.log
+
+Analysis started: 05-Dec-2018 13:33:01 / finished: 05-Dec-2018 13:33:01
+
+Elapsed time: 0.013 seconds
+

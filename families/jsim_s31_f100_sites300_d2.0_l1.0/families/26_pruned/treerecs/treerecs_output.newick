@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = no, ALE logLk = -5.71825, libpll logLk = -2149.92, execution time = 0 s.)
+(G2_27:0.178931,(((G3_27:0.24732,(G4_27:0.220113,G5_27:0.19225)71:0.085106)46:0.089864,G1_27:0.77245):0.098915,G0_27:1.5789):0.178931);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 44, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+(G1_27:0.386225,((G3_27:0.24732,(G4_27:0.220113,G5_27:0.19225)71:0.085106):0.089864,(G0_27:1.5789,G2_27:0.357863):0.098915):0.386225);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 45, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+((G3_27:0.24732,(G4_27:0.220113,G5_27:0.19225)71:0.085106):0.044932,(G1_27:0.77245,(G0_27:1.5789,G2_27:0.357863):0.098915):0.044932);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 46, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+((G3_27:0.24732,(G1_27:0.77245,(G0_27:1.5789,G2_27:0.357863):0.098915):0.089864):0.042553,(G4_27:0.220113,G5_27:0.19225):0.042553);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 54.3333, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+(G4_27:0.110057,((G3_27:0.24732,(G1_27:0.77245,(G0_27:1.5789,G2_27:0.357863):0.098915):0.089864):0.085106,G5_27:0.19225):0.110057);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 62.6667, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+(G3_27:0.12366,((G4_27:0.220113,G5_27:0.19225):0.085106,(G1_27:0.77245,(G0_27:1.5789,G2_27:0.357863):0.098915):0.089864):0.12366);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 71, ALE logLk = -5.71825, libpll logLk = -2149.93, execution time = 0 s.)
+((G3_27:0.24732,(G1_27:0.77245,(G0_27:1.5789,G2_27:0.357863):0.098915):0.089864):0.042553,(G4_27:0.220113,G5_27:0.19225):0.042553);

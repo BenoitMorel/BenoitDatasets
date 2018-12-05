@@ -1,0 +1,37 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --parse --log DEBUG --msa ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/alignments/19.fasta --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/pargenes/parse_run/results/19_fasta/19_fasta --threads 1
+
+Analysis options:
+  run mode: Alignment parsing and compression
+  start tree(s): 
+  random seed: 1544012959
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+|noname|   |GTR+FO|   ||
+[00:00:00] Reading alignment from file: ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/alignments/19.fasta
+Failed to load as IPHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/alignments/19.fasta
+Failed to load as PHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/alignments/19.fasta
+[00:00:00] Loaded alignment with 3 taxa and 300 sites
+[00:00:00] Extracting partitions... 
+[00:00:00] Validating alignment... 
+[00:00:00] Checking the alignment...
+
+ERROR: Your alignment contains less than 4 sequences! 
+
+ERROR: Alignment check failed (see details above)!
+
