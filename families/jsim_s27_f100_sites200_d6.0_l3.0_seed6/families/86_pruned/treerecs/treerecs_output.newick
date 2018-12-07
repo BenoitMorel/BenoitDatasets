@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 12, duplications = 6, losses = 0, contraction threshold = no, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+(G1_25:0.0343645,((((G5_25:0.011516,G6_25:0.024468)100:0.141425,(G10_25:0.161274,G9_25:0.169865)99:0.084562)97:0.044883,G0_25:0.098647):0.020509,G2_25:0.036922):0.0343645);
+> family 1 tree 1 (total cost = 12, duplications = 6, losses = 0, contraction threshold = 97.5, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+((G2_25:0.036922,G1_25:0.068729):0.0102545,(G0_25:0.098647,((G5_25:0.011516,G6_25:0.024468):0.141425,(G10_25:0.161274,G9_25:0.169865):0.084562):0.044883):0.0102545);
+> family 1 tree 1 (total cost = 12, duplications = 6, losses = 0, contraction threshold = 98, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+((G2_25:0.036922,G1_25:0.068729):0.0102545,(G0_25:0.098647,((G5_25:0.011516,G6_25:0.024468):0.141425,(G10_25:0.161274,G9_25:0.169865):0.084562):0.044883):0.0102545);
+> family 1 tree 1 re-rooting (total cost = 12, duplications = 6, losses = 0, contraction threshold = 98.5, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+(G5_25:0.005758,(((G10_25:0.161274,G9_25:0.169865):0.084562,(G0_25:0.098647,(G2_25:0.036922,G1_25:0.068729):0.020509):0.044883):0.141425,G6_25:0.024468):0.005758);
+> family 1 tree 1 re-rooting (total cost = 12, duplications = 6, losses = 0, contraction threshold = 99, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+(G6_25:0.012234,(((G10_25:0.161274,G9_25:0.169865):0.084562,(G0_25:0.098647,(G2_25:0.036922,G1_25:0.068729):0.020509):0.044883):0.141425,G5_25:0.011516):0.012234);
+> family 1 tree 1 (total cost = 12, duplications = 6, losses = 0, contraction threshold = 99.5, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+(((G5_25:0.011516,G6_25:0.024468):0.141425,(G10_25:0.161274,G9_25:0.169865):0.084562):0.0224415,(G0_25:0.098647,(G2_25:0.036922,G1_25:0.068729):0.020509):0.0224415);
+> family 1 tree 1 (total cost = 12, duplications = 6, losses = 0, contraction threshold = 100, ALE logLk = -6.17771, libpll logLk = -940.897, execution time = 0 s.)
+(G0_25:0.0493235,(((G5_25:0.011516,G6_25:0.024468):0.141425,(G10_25:0.161274,G9_25:0.169865):0.084562):0.044883,(G2_25:0.036922,G1_25:0.068729):0.020509):0.0493235);

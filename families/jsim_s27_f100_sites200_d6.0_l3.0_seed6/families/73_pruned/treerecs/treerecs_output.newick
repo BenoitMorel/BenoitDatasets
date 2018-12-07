@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = no, ALE logLk = -5.57503, libpll logLk = -1117.1, execution time = 0 s.)
+(G6_25:0.0025335,((((G1_25:0.106094,G2_25:1e-06)77:0.56056,G0_25:0.340525)100:1.1781,G5_25:0.451376):0.185405,G7_25:1e-06):0.0025335);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 83.3333, ALE logLk = -5.57503, libpll logLk = -1117.1, execution time = 0 s.)
+(G0_25:0.170262,((G5_25:0.451376,(G7_25:1e-06,G6_25:0.005067)96:0.185405):1.1781,(G1_25:0.106094,G2_25:1e-06):0.56056):0.170262);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 89.6667, ALE logLk = -5.57503, libpll logLk = -1117.05, execution time = 0 s.)
+(((G5_25:0.451376,(G7_25:1e-06,G6_25:0.005067)96:0.185405):1.1781,G0_25:0.340525):0.28028,(G1_25:0.106094,G2_25:1e-06):0.28028);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 96, ALE logLk = -5.57503, libpll logLk = -1117.16, execution time = 0 s.)
+(((G0_25:0.340525,(G1_25:0.106094,G2_25:1e-06):0.56056):1.1781,G5_25:0.451376):0.0927025,(G7_25:1e-06,G6_25:0.005067):0.0927025);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 97.3333, ALE logLk = -5.57503, libpll logLk = -1117.17, execution time = 0 s.)
+(G6_25:0.0025335,(G7_25:1e-06,((G0_25:0.340525,(G1_25:0.106094,G2_25:1e-06):0.56056):1.1781,G5_25:0.451376):0.185405):0.0025335);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 98.6667, ALE logLk = -5.57503, libpll logLk = -1117.12, execution time = 0 s.)
+((G5_25:0.451376,(G7_25:1e-06,G6_25:0.005067):0.185405):0.58905,(G0_25:0.340525,(G1_25:0.106094,G2_25:1e-06):0.56056):0.58905);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 100, ALE logLk = -5.57503, libpll logLk = -1117.18, execution time = 0 s.)
+((G7_25:1e-06,G6_25:0.005067):0.0927025,(G5_25:0.451376,(G0_25:0.340525,(G1_25:0.106094,G2_25:1e-06):0.56056):1.1781):0.0927025);

@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 3, losses = 2, contraction threshold = no, ALE logLk = -17.334, libpll logLk = -1409.38, execution time = 0.003 s.)
+(G11_25:0.746581,(((((G4_1:0.020018,G5_1:0.026011)97:0.169642,G2_1:0.165453)64:0.013758,G0_0:0.500859)75:0.150226,G1_1:0.056813):0.95749,G9_3:1e-06):0.746582);
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 3, losses = 2, contraction threshold = 69.5, ALE logLk = -17.334, libpll logLk = -1409.38, execution time = 0.003 s.)
+(G11_25:0.746581,(((G0_0:0.500859,((G4_1:0.020018,G5_1:0.026011):0.169642,G2_1:0.165453):0.013758)75:0.150226,G1_1:0.056813):0.95749,G9_3:1e-06):0.746582);
+> family 1 tree 1 re-rooting (total cost = 7, duplications = 3, losses = 1, contraction threshold = 75, ALE logLk = -15.0595, libpll logLk = -1412.42, execution time = 0.003 s.)
+(G11_25:0.746581,((G0_0:0.651084,(G1_1:0.106888,((G4_1:0.020018,G5_1:0.026011):0.169642,G2_1:0.165453):0.113909):1e-06):1.0326,G9_3:1e-06):0.746582);
+> family 1 tree 1 re-rooting (total cost = 7, duplications = 3, losses = 1, contraction threshold = 82, ALE logLk = -15.0595, libpll logLk = -1412.42, execution time = 0.003 s.)
+(G11_25:0.746581,((G0_0:0.651084,(G1_1:0.106888,((G4_1:0.020018,G5_1:0.026011):0.169642,G2_1:0.165453):0.113909):1e-06):1.0326,G9_3:1e-06):0.746582);
+> family 1 tree 1 (total cost = 7, duplications = 3, losses = 1, contraction threshold = 89, ALE logLk = -15.0595, libpll logLk = -1412.42, execution time = 0.003 s.)
+(G11_25:0.746581,(G9_3:1e-06,(G0_0:0.651084,(G1_1:0.106888,((G4_1:0.020018,G5_1:0.026011):0.169642,G2_1:0.165453):0.113909):1e-06):1.0326):0.746582);
+> family 1 tree 1 (total cost = 7, duplications = 3, losses = 1, contraction threshold = 93, ALE logLk = -15.0595, libpll logLk = -1412.42, execution time = 0.003 s.)
+(G11_25:0.746581,(G9_3:1e-06,(G0_0:0.651084,(G1_1:0.106888,((G4_1:0.020018,G5_1:0.026011):0.169642,G2_1:0.165453):0.113909):1e-06):1.0326):0.746582);
+> family 1 tree 1 (total cost = 7, duplications = 3, losses = 1, contraction threshold = 97, ALE logLk = -15.0595, libpll logLk = -1412.42, execution time = 0.003 s.)
+(G11_25:0.746581,(G9_3:1e-06,(G0_0:0.651084,(G1_1:0.106888,(G2_1:0.165453,(G4_1:0.020018,G5_1:0.026011):0.169642):0.113909):1e-06):1.0326):0.746582);

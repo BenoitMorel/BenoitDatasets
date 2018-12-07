@@ -1,0 +1,1 @@
+8 100 1000 6.0 3.0 0.0 ../BenoitDatasets/families/jsim_s8_f100_sites1000_d6.0_l3.0_seed6 6

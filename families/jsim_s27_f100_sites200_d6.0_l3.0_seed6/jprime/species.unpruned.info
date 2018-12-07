@@ -1,0 +1,10 @@
+# HOSTTREEGEN
+Arguments:	[-nox, 8, -s, 6, 1, 0, ../BenoitDatasets/families/jsim_s8_f100_sites1000_d6.0_l3.0_seed6/jprime/species]
+Attempts:	12
+No. of vertices:	27
+No. of extant leaves:	14
+No. of births:	13
+No. of deaths:	0
+Total branch time:	14.943474
+Birth ML estimate:	0.86994497
+Death ML estimate:	0.0

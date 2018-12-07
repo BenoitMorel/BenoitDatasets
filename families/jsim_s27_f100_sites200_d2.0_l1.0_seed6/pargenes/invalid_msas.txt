@@ -1,0 +1,6 @@
+34_fasta
+82_fasta
+11_fasta
+45_fasta
+49_fasta
+12_fasta

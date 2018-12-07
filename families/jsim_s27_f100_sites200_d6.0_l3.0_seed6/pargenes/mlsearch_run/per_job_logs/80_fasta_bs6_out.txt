@@ -1,0 +1,69 @@
+mpi-scheduler --bootstrap --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/parse_run/results/80_fasta/80_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/mlsearch_run/bootstraps/80_fasta/80_fasta_bs6 --threads 1 --seed 7 --bs-trees 10 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --bootstrap --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/parse_run/results/80_fasta/80_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/mlsearch_run/bootstraps/80_fasta/80_fasta_bs6 --threads 1 --seed 7 --bs-trees 10
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 10
+  random seed: 7
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/parse_run/results/80_fasta/80_fasta.raxml.rba
+[00:00:00] Alignment comprises 9 taxa, 1 partitions and 168 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 168
+Gaps: 0.00 %
+Invariant sites: 2.00 %
+
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 168 / 672
+[00:00:00] Starting bootstrapping analysis with 10 replicates.
+
+[00:00:00] Bootstrap tree #1, logLikelihood: -1486.949140
+[00:00:00] Bootstrap tree #2, logLikelihood: -1547.396633
+[00:00:00] Bootstrap tree #3, logLikelihood: -1473.787459
+[00:00:00] Bootstrap tree #4, logLikelihood: -1556.667496
+[00:00:00] Bootstrap tree #5, logLikelihood: -1579.618854
+[00:00:00] Bootstrap tree #6, logLikelihood: -1545.145937
+[00:00:00] Bootstrap tree #7, logLikelihood: -1544.606236
+[00:00:00] Bootstrap tree #8, logLikelihood: -1476.725332
+[00:00:00] Bootstrap tree #9, logLikelihood: -1476.616516
+[00:00:00] Bootstrap tree #10, logLikelihood: -1497.938017
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.239716 0.289045 0.243967 0.227272 
+   Substitution rates (ML): 0.524980 0.688848 0.942009 0.434462 1.154494 1.000000 
+Bootstrap trees saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/mlsearch_run/bootstraps/80_fasta/80_fasta_bs6.raxml.bootstraps
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d6.0_l3.0_seed6/pargenes/mlsearch_run/bootstraps/80_fasta/80_fasta_bs6.raxml.log
+
+Analysis started: 07-Dec-2018 15:32:57 / finished: 07-Dec-2018 15:32:58
+
+Elapsed time: 0.812 seconds
+

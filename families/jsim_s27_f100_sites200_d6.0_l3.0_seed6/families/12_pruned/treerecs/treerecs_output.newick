@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 4, losses = 0, contraction threshold = no, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+(G5_25:0.051477,(((G2_25:0.015004,G1_25:1e-06)89:0.128346,G0_25:0.704958):0.215526,G4_25:0.053073):0.051477);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 90.8333, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+((G2_25:0.015004,G1_25:1e-06):0.064173,((G4_25:0.053073,G5_25:0.102954):0.215526,G0_25:0.704958):0.064173);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 92.6667, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+((G4_25:0.053073,G5_25:0.102954):0.107763,(G0_25:0.704958,(G2_25:0.015004,G1_25:1e-06):0.128346):0.107763);
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 4, losses = 0, contraction threshold = 94.5, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+(G4_25:0.0265365,((G0_25:0.704958,(G2_25:0.015004,G1_25:1e-06):0.128346):0.215526,G5_25:0.102954):0.0265365);
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 4, losses = 0, contraction threshold = 96.3333, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+((G0_25:0.704958,(G2_25:0.015004,G1_25:1e-06):0.128346):0.107763,(G4_25:0.053073,G5_25:0.102954):0.107763);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 98.1667, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+((G4_25:0.053073,G5_25:0.102954):0.107763,(G0_25:0.704958,(G2_25:0.015004,G1_25:1e-06):0.128346):0.107763);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 100, ALE logLk = -5.00659, libpll logLk = -836.007, execution time = 0 s.)
+((G4_25:0.053073,G5_25:0.102954):0.107763,(G0_25:0.704958,(G2_25:0.015004,G1_25:1e-06):0.128346):0.107763);

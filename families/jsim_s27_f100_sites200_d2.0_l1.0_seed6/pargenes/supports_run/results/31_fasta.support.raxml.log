@@ -1,0 +1,38 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --support --tree ../BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/mlsearch_run/results/31_fasta/31_fasta.raxml.bestTree --bs-trees ../BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/concatenated_bootstraps/31_fasta.bs --threads 1 --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/supports_run/results/31_fasta.support
+
+Analysis options:
+  run mode: Compute bipartition support
+  start tree(s): user
+  random seed: 1544192883
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+Reading reference tree from file: ../BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/mlsearch_run/results/31_fasta/31_fasta.raxml.bestTree
+Reference tree size: 50
+
+Reading bootstrap trees from file: ../BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/concatenated_bootstraps/31_fasta.bs
+Bootstrap trees found: 100
+
+Best ML tree with bootstrap support values saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/supports_run/results/31_fasta.support.raxml.support
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d2.0_l1.0_seed6/pargenes/supports_run/results/31_fasta.support.raxml.log
+
+Analysis started: 07-Dec-2018 15:28:03 / finished: 07-Dec-2018 15:28:03
+
+Elapsed time: 0.012 seconds
+

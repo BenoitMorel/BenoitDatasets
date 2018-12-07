@@ -1,0 +1,8 @@
+> family 1 tree 1 re-rooting (total cost = 8, duplications = 4, losses = 0, contraction threshold = no, ALE logLk = -8.68857, libpll logLk = -891.736, execution time = 0 s.)
+(((G0_19:1e-06,(G1_19:0.030769,G2_19:0.025353)70:0.020208)100:1.0911,G5_19:0.221605):0.160292,(G7_20:0.019997,G6_20:0.033037):0.160292);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 80, ALE logLk = -8.68857, libpll logLk = -891.736, execution time = 0 s.)
+((G7_20:0.019997,G6_20:0.033037):0.160292,((G0_19:1e-06,(G1_19:0.030769,G2_19:0.025353):0.020208):1.0911,G5_19:0.221605):0.160292);
+> family 1 tree 1 (total cost = 8, duplications = 4, losses = 0, contraction threshold = 90, ALE logLk = -8.68857, libpll logLk = -891.736, execution time = 0 s.)
+((G7_20:0.019997,G6_20:0.033037):0.160292,((G0_19:1e-06,(G1_19:0.030769,G2_19:0.025353):0.020208):1.0911,G5_19:0.221605):0.160292);
+> family 1 tree 1 (total cost = 6, duplications = 3, losses = 0, contraction threshold = 100, ALE logLk = -10.1765, libpll logLk = -894.94, execution time = 0 s.)
+((G6_20:0.193329,(G0_19:1e-06,(G1_19:0.030769,G2_19:0.025353):0.020208):1.2514):1e-06,(G7_20:0.180289,G5_19:0.381896):1e-06);

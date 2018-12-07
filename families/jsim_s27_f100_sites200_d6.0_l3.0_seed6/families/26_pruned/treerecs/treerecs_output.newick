@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = no, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G3_25:0.033785,((((G8_25:1e-06,G7_25:0.137095)100:0.943968,G0_25:0.426653)61:0.239192,G1_25:0.026672):0.046375,G2_25:0.069502):0.033785);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 63.3333, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G7_25:0.0685475,((G0_25:0.426653,(G1_25:0.026672,(G2_25:0.069502,G3_25:0.06757):0.046375):0.239192):0.943968,G8_25:1e-06):0.0685475);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 65.6667, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G7_25:0.0685475,((G0_25:0.426653,(G1_25:0.026672,(G2_25:0.069502,G3_25:0.06757):0.046375):0.239192):0.943968,G8_25:1e-06):0.0685475);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 68, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G1_25:0.013336,(((G8_25:1e-06,G7_25:0.137095):0.943968,G0_25:0.426653):0.239192,(G2_25:0.069502,G3_25:0.06757):0.046375):0.013336);
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 5, losses = 0, contraction threshold = 78.6667, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G2_25:0.034751,(G3_25:0.06757,(G1_25:0.026672,((G8_25:1e-06,G7_25:0.137095):0.943968,G0_25:0.426653):0.239192):0.046375):0.034751);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 89.3333, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G7_25:0.0685475,((G0_25:0.426653,(G1_25:0.026672,(G2_25:0.069502,G3_25:0.06757):0.046375):0.239192):0.943968,G8_25:1e-06):0.0685475);
+> family 1 tree 1 (total cost = 10, duplications = 5, losses = 0, contraction threshold = 100, ALE logLk = -5.57503, libpll logLk = -1055.34, execution time = 0 s.)
+(G2_25:0.034751,(G3_25:0.06757,(G1_25:0.026672,(G0_25:0.426653,(G8_25:1e-06,G7_25:0.137095):0.943968):0.239192):0.046375):0.034751);

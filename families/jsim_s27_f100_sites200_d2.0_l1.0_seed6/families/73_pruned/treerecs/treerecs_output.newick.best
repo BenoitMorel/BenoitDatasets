@@ -1,0 +1,2 @@
+> family 1 tree 1 (total cost = 6, duplications = 3, losses = 0, contraction threshold = 64, ALE logLk = -4.53753, libpll logLk = -803.248, execution time = 0 s.)
+(G3_25:0.012732,(G2_25:0.026288,(G0_25:1.1989,G1_25:0.298549):0.186717):0.012732);
