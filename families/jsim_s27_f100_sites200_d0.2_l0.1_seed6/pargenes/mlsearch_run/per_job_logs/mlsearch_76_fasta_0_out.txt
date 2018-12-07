@@ -1,0 +1,83 @@
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/76_fasta/76_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/76_fasta/76_fasta --threads 1 --seed 1 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/76_fasta/76_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/76_fasta/76_fasta --threads 1 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/76_fasta/76_fasta.raxml.rba
+[00:00:00] Alignment comprises 13 taxa, 1 partitions and 200 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 200
+Gaps: 0.00 %
+Invariant sites: 0.00 %
+
+
+[00:00:00] Generating 1 random starting tree(s) with 13 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 200 / 800
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -4002.328907] Initial branch length optimization
+[00:00:00 -3150.806988] Model parameter optimization (eps = 10.000000)
+[00:00:00 -3134.668662] AUTODETECT spr round 1 (radius: 5)
+[00:00:00 -2910.299983] AUTODETECT spr round 2 (radius: 10)
+[00:00:00 -2910.254374] SPR radius for FAST iterations: 5 (autodetect)
+[00:00:00 -2910.254374] Model parameter optimization (eps = 3.000000)
+[00:00:00 -2907.189374] FAST spr round 1 (radius: 5)
+[00:00:00 -2905.014257] FAST spr round 2 (radius: 5)
+[00:00:00 -2904.704425] FAST spr round 3 (radius: 5)
+[00:00:00 -2904.430382] FAST spr round 4 (radius: 5)
+[00:00:00 -2904.429568] Model parameter optimization (eps = 1.000000)
+[00:00:00 -2904.347465] SLOW spr round 1 (radius: 5)
+[00:00:00 -2904.303221] SLOW spr round 2 (radius: 10)
+[00:00:00 -2904.295367] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] ML tree search #1, logLikelihood: -2904.290696
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.251691 0.249966 0.257627 0.240717 
+   Substitution rates (ML): 0.950512 1.028959 1.872403 1.330722 1.288512 1.000000 
+
+Final LogLikelihood: -2904.290696
+
+Best ML tree saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/76_fasta/76_fasta.raxml.bestTree
+Optimized model saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/76_fasta/76_fasta.raxml.bestModel
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/76_fasta/76_fasta.raxml.log
+
+Analysis started: 07-Dec-2018 16:06:19 / finished: 07-Dec-2018 16:06:20
+
+Elapsed time: 0.386 seconds
+

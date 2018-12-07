@@ -1,0 +1,207 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 425456
+Remaining commands: 99
+## Started support_37_fasta on [0:0] 
+## Started support_98_fasta on [19:19] 
+## Started support_78_fasta on [9:9] 
+## Started support_84_fasta on [4:4] 
+## Started support_88_fasta on [2:2] 
+## Started support_47_fasta on [1:1] 
+## Started support_69_fasta on [29:29] 
+## Started support_99_fasta on [24:24] 
+## Started support_45_fasta on [21:21] 
+## Started support_94_fasta on [20:20] 
+## Started support_81_fasta on [14:14] 
+## Started support_32_fasta on [11:11] 
+## Started support_83_fasta on [10:10] 
+## Started support_13_fasta on [6:6] 
+## Started support_93_fasta on [5:5] 
+## Started support_71_fasta on [3:3] 
+## Started support_85_fasta on [34:34] 
+## Started support_95_fasta on [31:31] 
+## Started support_96_fasta on [30:30] 
+## Started support_92_fasta on [26:26] 
+## Started support_9_fasta on [25:25] 
+## Started support_67_fasta on [22:22] 
+## Started support_59_fasta on [16:16] 
+## Started support_16_fasta on [15:15] 
+## Started support_35_fasta on [12:12] 
+## Started support_70_fasta on [7:7] 
+## Started support_51_fasta on [36:36] 
+## Started support_26_fasta on [35:35] 
+## Started support_75_fasta on [32:32] 
+## Started support_24_fasta on [27:27] 
+## Started support_80_fasta on [23:23] 
+## Started support_91_fasta on [17:17] 
+## Started support_52_fasta on [13:13] 
+## Started support_12_fasta on [8:8] 
+## Started support_4_fasta on [37:37] 
+## Started support_25_fasta on [33:33] 
+## Started support_31_fasta on [28:28] 
+## Started support_46_fasta on [18:18] 
+## Started support_21_fasta on [38:38] 
+End of support_45_fasta after 2ms  (1/99)
+## Started support_73_fasta on [21:21] 
+End of support_9_fasta after 3ms  (2/99)
+## Started support_55_fasta on [25:25] 
+End of support_26_fasta after 4ms  (3/99)
+## Started support_6_fasta on [35:35] 
+End of support_98_fasta after 4ms  (4/99)
+## Started support_27_fasta on [19:19] 
+End of support_4_fasta after 4ms  (5/99)
+## Started support_76_fasta on [37:37] 
+End of support_96_fasta after 4ms  (6/99)
+## Started support_28_fasta on [30:30] 
+End of support_67_fasta after 4ms  (7/99)
+## Started support_58_fasta on [22:22] 
+End of support_88_fasta after 4ms  (8/99)
+## Started support_8_fasta on [2:2] 
+End of support_93_fasta after 4ms  (9/99)
+## Started support_79_fasta on [5:5] 
+End of support_95_fasta after 4ms  (10/99)
+## Started support_82_fasta on [31:31] 
+End of support_91_fasta after 4ms  (11/99)
+## Started support_29_fasta on [17:17] 
+End of support_78_fasta after 4ms  (12/99)
+## Started support_22_fasta on [9:9] 
+End of support_12_fasta after 5ms  (13/99)
+## Started support_60_fasta on [8:8] 
+End of support_59_fasta after 5ms  (14/99)
+## Started support_68_fasta on [16:16] 
+End of support_70_fasta after 5ms  (15/99)
+## Started support_41_fasta on [7:7] 
+End of support_80_fasta after 6ms  (16/99)
+## Started support_30_fasta on [23:23] 
+End of support_52_fasta after 6ms  (17/99)
+## Started support_44_fasta on [13:13] 
+End of support_32_fasta after 6ms  (18/99)
+## Started support_2_fasta on [11:11] 
+End of support_21_fasta after 6ms  (19/99)
+## Started support_77_fasta on [38:38] 
+End of support_71_fasta after 6ms  (20/99)
+## Started support_62_fasta on [3:3] 
+End of support_69_fasta after 6ms  (21/99)
+## Started support_23_fasta on [29:29] 
+End of support_83_fasta after 6ms  (22/99)
+## Started support_53_fasta on [10:10] 
+End of support_22_fasta after 1ms  (23/99)
+## Started support_11_fasta on [9:9] 
+End of support_84_fasta after 6ms  (24/99)
+## Started support_87_fasta on [4:4] 
+End of support_75_fasta after 6ms  (25/99)
+## Started support_63_fasta on [32:32] 
+End of support_99_fasta after 7ms  (26/99)
+## Started support_50_fasta on [24:24] 
+End of support_81_fasta after 7ms  (27/99)
+## Started support_20_fasta on [14:14] 
+End of support_46_fasta after 7ms  (28/99)
+## Started support_49_fasta on [18:18] 
+End of support_85_fasta after 7ms  (29/99)
+## Started support_14_fasta on [34:34] 
+End of support_94_fasta after 7ms  (30/99)
+## Started support_89_fasta on [20:20] 
+End of support_25_fasta after 7ms  (31/99)
+## Started support_48_fasta on [33:33] 
+End of support_16_fasta after 7ms  (32/99)
+## Started support_19_fasta on [15:15] 
+End of support_6_fasta after 3ms  (33/99)
+## Started support_18_fasta on [35:35] 
+End of support_55_fasta after 4ms  (34/99)
+## Started support_72_fasta on [25:25] 
+End of support_76_fasta after 3ms  (35/99)
+## Started support_90_fasta on [37:37] 
+End of support_37_fasta after 7ms  (36/99)
+## Started support_15_fasta on [0:0] 
+End of support_24_fasta after 7ms  (37/99)
+## Started support_56_fasta on [27:27] 
+End of support_82_fasta after 3ms  (38/99)
+## Started support_10_fasta on [31:31] 
+End of support_79_fasta after 3ms  (39/99)
+## Started support_65_fasta on [5:5] 
+End of support_8_fasta after 3ms  (40/99)
+## Started support_36_fasta on [2:2] 
+End of support_58_fasta after 3ms  (41/99)
+## Started support_39_fasta on [22:22] 
+End of support_35_fasta after 8ms  (42/99)
+## Started support_43_fasta on [12:12] 
+End of support_31_fasta after 8ms  (43/99)
+## Started support_40_fasta on [28:28] 
+End of support_41_fasta after 2ms  (44/99)
+## Started support_66_fasta on [7:7] 
+End of support_13_fasta after 9ms  (45/99)
+## Started support_74_fasta on [6:6] 
+End of support_29_fasta after 4ms  (46/99)
+## Started support_33_fasta on [17:17] 
+End of support_68_fasta after 3ms  (47/99)
+## Started support_57_fasta on [16:16] 
+End of support_60_fasta after 4ms  (48/99)
+## Started support_1_fasta on [8:8] 
+End of support_92_fasta after 9ms  (49/99)
+## Started support_3_fasta on [26:26] 
+End of support_73_fasta after 6ms  (50/99)
+## Started support_38_fasta on [21:21] 
+End of support_51_fasta after 9ms  (51/99)
+## Started support_42_fasta on [36:36] 
+End of support_28_fasta after 5ms  (52/99)
+## Started support_0_fasta on [30:30] 
+End of support_47_fasta after 9ms  (53/99)
+## Started support_17_fasta on [1:1] 
+End of support_30_fasta after 3ms  (54/99)
+## Started support_86_fasta on [23:23] 
+End of support_44_fasta after 3ms  (55/99)
+## Started support_5_fasta on [13:13] 
+End of support_2_fasta after 3ms  (56/99)
+## Started support_54_fasta on [11:11] 
+End of support_23_fasta after 3ms  (57/99)
+## Started support_34_fasta on [29:29] 
+End of support_53_fasta after 3ms  (58/99)
+## Started support_61_fasta on [10:10] 
+End of support_87_fasta after 3ms  (59/99)
+## Started support_97_fasta on [4:4] 
+End of support_63_fasta after 3ms  (60/99)
+## Started support_7_fasta on [32:32] 
+All commands were launched
+End of support_14_fasta after 3ms  (61/99)
+End of support_62_fasta after 4ms  (62/99)
+End of support_48_fasta after 3ms  (63/99)
+End of support_11_fasta after 4ms  (64/99)
+End of support_27_fasta after 6ms  (65/99)
+End of support_15_fasta after 3ms  (66/99)
+End of support_36_fasta after 3ms  (67/99)
+End of support_39_fasta after 3ms  (68/99)
+End of support_20_fasta after 4ms  (69/99)
+End of support_19_fasta after 4ms  (70/99)
+End of support_72_fasta after 4ms  (71/99)
+End of support_18_fasta after 4ms  (72/99)
+End of support_10_fasta after 4ms  (73/99)
+End of support_40_fasta after 3ms  (74/99)
+End of support_50_fasta after 5ms  (75/99)
+End of support_43_fasta after 4ms  (76/99)
+End of support_65_fasta after 4ms  (77/99)
+End of support_33_fasta after 3ms  (78/99)
+End of support_66_fasta after 3ms  (79/99)
+End of support_77_fasta after 6ms  (80/99)
+End of support_49_fasta after 5ms  (81/99)
+End of support_34_fasta after 2ms  (82/99)
+End of support_57_fasta after 3ms  (83/99)
+End of support_89_fasta after 5ms  (84/99)
+End of support_86_fasta after 3ms  (85/99)
+End of support_1_fasta after 3ms  (86/99)
+End of support_54_fasta after 3ms  (87/99)
+End of support_42_fasta after 4ms  (88/99)
+End of support_38_fasta after 4ms  (89/99)
+End of support_56_fasta after 5ms  (90/99)
+End of support_0_fasta after 4ms  (91/99)
+End of support_74_fasta after 4ms  (92/99)
+End of support_3_fasta after 5ms  (93/99)
+End of support_7_fasta after 4ms  (94/99)
+End of support_61_fasta after 5ms  (95/99)
+End of support_97_fasta after 5ms  (96/99)
+End of support_90_fasta after 8ms  (97/99)
+End of support_5_fasta after 7ms  (98/99)
+End of support_17_fasta after 8ms  (99/99)
+Finished running commands. Total elasped time: 0s
+Load balance ratio: 0.622132
+Saving svg output in ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/supports_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

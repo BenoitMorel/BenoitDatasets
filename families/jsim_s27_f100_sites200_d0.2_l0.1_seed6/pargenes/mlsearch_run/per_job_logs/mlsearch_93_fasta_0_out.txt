@@ -1,0 +1,84 @@
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/93_fasta/93_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/93_fasta/93_fasta --threads 1 --seed 1 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --msa ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/93_fasta/93_fasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/93_fasta/93_fasta --threads 1 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/parse_run/results/93_fasta/93_fasta.raxml.rba
+[00:00:00] Alignment comprises 17 taxa, 1 partitions and 200 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 200
+Gaps: 0.00 %
+Invariant sites: 0.50 %
+
+
+[00:00:00] Generating 1 random starting tree(s) with 17 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 200 / 800
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -5078.029693] Initial branch length optimization
+[00:00:00 -4062.344792] Model parameter optimization (eps = 10.000000)
+[00:00:00 -4055.552908] AUTODETECT spr round 1 (radius: 5)
+[00:00:00 -3708.435161] AUTODETECT spr round 2 (radius: 10)
+[00:00:00 -3680.603230] AUTODETECT spr round 3 (radius: 15)
+[00:00:00 -3680.559429] SPR radius for FAST iterations: 10 (autodetect)
+[00:00:00 -3680.559429] Model parameter optimization (eps = 3.000000)
+[00:00:00 -3680.185026] FAST spr round 1 (radius: 10)
+[00:00:00 -3644.444942] FAST spr round 2 (radius: 10)
+[00:00:00 -3642.975170] FAST spr round 3 (radius: 10)
+[00:00:00 -3642.897426] Model parameter optimization (eps = 1.000000)
+[00:00:00 -3642.507887] SLOW spr round 1 (radius: 5)
+[00:00:00 -3642.506210] SLOW spr round 2 (radius: 10)
+[00:00:00 -3642.506026] SLOW spr round 3 (radius: 15)
+[00:00:00 -3642.506003] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] ML tree search #1, logLikelihood: -3642.499396
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.249203 0.247242 0.260917 0.242639 
+   Substitution rates (ML): 0.998829 0.730150 1.224715 0.715581 0.921617 1.000000 
+
+Final LogLikelihood: -3642.499396
+
+Best ML tree saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/93_fasta/93_fasta.raxml.bestTree
+Optimized model saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/93_fasta/93_fasta.raxml.bestModel
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites200_d0.2_l0.1_seed6/pargenes/mlsearch_run/results/93_fasta/93_fasta.raxml.log
+
+Analysis started: 07-Dec-2018 16:06:18 / finished: 07-Dec-2018 16:06:19
+
+Elapsed time: 0.552 seconds
+
