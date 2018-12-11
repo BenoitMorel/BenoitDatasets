@@ -1,0 +1,8 @@
+parse_37_prunedfasta
+parse_7_prunedfasta
+parse_54_prunedfasta
+parse_36_prunedfasta
+parse_45_prunedfasta
+parse_35_prunedfasta
+parse_42_prunedfasta
+parse_19_prunedfasta

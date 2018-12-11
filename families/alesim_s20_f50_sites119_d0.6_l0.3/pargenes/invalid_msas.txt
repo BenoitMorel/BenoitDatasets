@@ -1,0 +1,6 @@
+29_prunedfasta
+2_prunedfasta
+30_prunedfasta
+48_prunedfasta
+11_prunedfasta
+0_prunedfasta

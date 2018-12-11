@@ -1,0 +1,14 @@
+> family 1 tree 1 re-rooting (total cost = 0, duplications = 0, losses = 0, contraction threshold = no, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+(((11_7241:0.046866,16_7242:0.041742)91:0.009761,19_7284:0.041556):0.016126,((9_7361:0.005686,12_7360:0.014616):0.036726,14_7253:0.05206):0.016126);
+> family 1 tree 1 (total cost = 0, duplications = 0, losses = 0, contraction threshold = 92.6667, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+(((9_7361:0.005686,12_7360:0.014616)96:0.036726,14_7253:0.05206):0.016126,(19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126);
+> family 1 tree 1 (total cost = 0, duplications = 0, losses = 0, contraction threshold = 94.3333, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+(((9_7361:0.005686,12_7360:0.014616)96:0.036726,14_7253:0.05206):0.016126,(19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126);
+> family 1 tree 1 re-rooting (total cost = 0, duplications = 0, losses = 0, contraction threshold = 96, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+((19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126,(14_7253:0.05206,(9_7361:0.005686,12_7360:0.014616):0.036726):0.016126);
+> family 1 tree 1 re-rooting (total cost = 0, duplications = 0, losses = 0, contraction threshold = 97.3333, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+((19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126,(14_7253:0.05206,(9_7361:0.005686,12_7360:0.014616):0.036726):0.016126);
+> family 1 tree 1 (total cost = 0, duplications = 0, losses = 0, contraction threshold = 98.6667, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+((14_7253:0.05206,(9_7361:0.005686,12_7360:0.014616):0.036726):0.016126,(19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126);
+> family 1 tree 1 (total cost = 0, duplications = 0, losses = 0, contraction threshold = 100, ALE logLk = -14.6218, libpll logLk = -565.267, execution time = 0.001 s.)
+((14_7253:0.05206,(9_7361:0.005686,12_7360:0.014616):0.036726):0.016126,(19_7284:0.041556,(11_7241:0.046866,16_7242:0.041742):0.009761):0.016126);

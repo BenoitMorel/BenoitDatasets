@@ -1,0 +1,79 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --msa ../BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/parse_run/results/4_prunedfasta/4_prunedfasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/mlsearch_run/results/4_prunedfasta/4_prunedfasta --threads 1 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/parse_run/results/4_prunedfasta/4_prunedfasta.raxml.rba
+[00:00:00] Alignment comprises 9 taxa, 1 partitions and 89 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 89
+Gaps: 0.00 %
+Invariant sites: 2.00 %
+
+
+[00:00:00] Generating 1 random starting tree(s) with 9 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 89 / 356
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -1335.853536] Initial branch length optimization
+[00:00:00 -1187.931775] Model parameter optimization (eps = 10.000000)
+[00:00:00 -1175.994861] AUTODETECT spr round 1 (radius: 5)
+[00:00:00 -929.402530] SPR radius for FAST iterations: 5 (autodetect)
+[00:00:00 -929.402530] Model parameter optimization (eps = 3.000000)
+[00:00:00 -928.374689] FAST spr round 1 (radius: 5)
+[00:00:00 -925.992633] FAST spr round 2 (radius: 5)
+[00:00:00 -925.850865] FAST spr round 3 (radius: 5)
+[00:00:00 -925.823531] Model parameter optimization (eps = 1.000000)
+[00:00:00 -925.797127] SLOW spr round 1 (radius: 5)
+[00:00:00 -925.797122] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] ML tree search #1, logLikelihood: -925.795838
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.333854 0.229342 0.231279 0.205525 
+   Substitution rates (ML): 1.163692 1.184752 1.232005 1.372701 2.241242 1.000000 
+
+Final LogLikelihood: -925.795838
+
+Best ML tree saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/mlsearch_run/results/4_prunedfasta/4_prunedfasta.raxml.bestTree
+Optimized model saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/mlsearch_run/results/4_prunedfasta/4_prunedfasta.raxml.bestModel
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s20_f50_sites200_d0.6_l0.3_seed42/pargenes/mlsearch_run/results/4_prunedfasta/4_prunedfasta.raxml.log
+
+Analysis started: 11-Dec-2018 15:14:00 / finished: 11-Dec-2018 15:14:00
+
+Elapsed time: 0.069 seconds
+
