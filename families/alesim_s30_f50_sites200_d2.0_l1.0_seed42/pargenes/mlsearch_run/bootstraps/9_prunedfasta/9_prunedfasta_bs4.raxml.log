@@ -1,0 +1,68 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --bootstrap --msa ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/9_prunedfasta/9_prunedfasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/bootstraps/9_prunedfasta/9_prunedfasta_bs4 --threads 1 --seed 5 --bs-trees 10
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 10
+  random seed: 5
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/9_prunedfasta/9_prunedfasta.raxml.rba
+[00:00:00] Alignment comprises 12 taxa, 1 partitions and 48 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 48
+Gaps: 0.00 %
+Invariant sites: 2.00 %
+
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 48 / 192
+[00:00:00] Starting bootstrapping analysis with 10 replicates.
+
+[00:00:00] Bootstrap tree #1, logLikelihood: -594.605882
+[00:00:00] Bootstrap tree #2, logLikelihood: -535.480070
+[00:00:00] Bootstrap tree #3, logLikelihood: -613.555741
+[00:00:00] Bootstrap tree #4, logLikelihood: -552.843771
+[00:00:00] Bootstrap tree #5, logLikelihood: -593.463309
+[00:00:00] Bootstrap tree #6, logLikelihood: -520.499856
+[00:00:00] Bootstrap tree #7, logLikelihood: -547.253631
+[00:00:00] Bootstrap tree #8, logLikelihood: -537.915745
+[00:00:00] Bootstrap tree #9, logLikelihood: -550.454540
+[00:00:00] Bootstrap tree #10, logLikelihood: -552.814870
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.309449 0.254619 0.314426 0.121507 
+   Substitution rates (ML): 0.923040 1.707549 4.028420 1.851356 5.198516 1.000000 
+Bootstrap trees saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/bootstraps/9_prunedfasta/9_prunedfasta_bs4.raxml.bootstraps
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/bootstraps/9_prunedfasta/9_prunedfasta_bs4.raxml.log
+
+Analysis started: 11-Dec-2018 20:58:05 / finished: 11-Dec-2018 20:58:05
+
+Elapsed time: 0.360 seconds
+

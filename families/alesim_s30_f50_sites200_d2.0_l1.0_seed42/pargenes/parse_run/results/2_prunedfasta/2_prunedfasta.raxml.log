@@ -1,0 +1,120 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --parse --log DEBUG --msa ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/2_prunedfasta --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/2_prunedfasta/2_prunedfasta --threads 1
+
+Analysis options:
+  run mode: Alignment parsing and compression
+  start tree(s): 
+  random seed: 1544555752
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+|noname|   |GTR+FO|   ||
+[00:00:00] Reading alignment from file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/2_prunedfasta
+Failed to load as IPHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/2_prunedfasta
+Failed to load as PHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/2_prunedfasta
+[00:00:00] Loaded alignment with 1051 taxa and 200 sites
+[00:00:00] Extracting partitions... 
+[00:00:00] Validating alignment... 
+[00:00:00] Checking the alignment...
+
+WARNING: Sequences 0_34852 and 17_34853 are exactly identical!
+WARNING: Sequences 2_34938 and 6_34939 are exactly identical!
+WARNING: Sequences 0_34870 and 17_34871 are exactly identical!
+WARNING: Sequences 0_34866 and 17_34867 are exactly identical!
+WARNING: Sequences 0_34916 and 17_34917 are exactly identical!
+WARNING: Sequences 0_34930 and 17_34931 are exactly identical!
+WARNING: Sequences 1_34806 and 19_34807 are exactly identical!
+WARNING: Sequences 20_34770 and 16_34771 are exactly identical!
+WARNING: Sequences 27_34495 and 17_34875 are exactly identical!
+WARNING: Sequences 2_34960 and 6_34961 are exactly identical!
+WARNING: Sequences 0_34884 and 17_34885 are exactly identical!
+WARNING: Sequences 1_34818 and 19_34819 are exactly identical!
+WARNING: Sequences 1_34846 and 19_34847 are exactly identical!
+WARNING: Sequences 2_35004 and 6_35005 are exactly identical!
+WARNING: Sequences 0_34922 and 17_34923 are exactly identical!
+WARNING: Sequences 2_34988 and 6_34989 are exactly identical!
+WARNING: Sequences 1_34820 and 10_34441 are exactly identical!
+WARNING: Sequences 1_34824 and 19_34825 are exactly identical!
+WARNING: Sequences 2_34940 and 6_34941 are exactly identical!
+WARNING: Sequences 2_34984 and 6_34985 are exactly identical!
+WARNING: Sequences 20_34744 and 16_34745 are exactly identical!
+WARNING: Sequences 0_34890 and 17_34891 are exactly identical!
+WARNING: Sequences 2_34974 and 6_34975 are exactly identical!
+WARNING: Sequences 2_35016 and 6_35017 are exactly identical!
+WARNING: Sequences 2_34972 and 6_34973 are exactly identical!
+WARNING: Sequences 1_34804 and 19_34805 are exactly identical!
+WARNING: Sequences 2_34948 and 6_34949 are exactly identical!
+WARNING: Sequences 2_34954 and 6_34955 are exactly identical!
+WARNING: Sequences 20_34772 and 16_34773 are exactly identical!
+WARNING: Sequences 2_34982 and 6_34983 are exactly identical!
+WARNING: Sequences 0_34904 and 17_34905 are exactly identical!
+WARNING: Sequences 2_34994 and 6_34995 are exactly identical!
+WARNING: Sequences 20_34766 and 16_34767 are exactly identical!
+WARNING: Sequences 2_34970 and 6_34971 are exactly identical!
+WARNING: Sequences 0_34900 and 17_34901 are exactly identical!
+WARNING: Sequences 2_34986 and 6_34987 are exactly identical!
+WARNING: Sequences 20_34782 and 16_34783 are exactly identical!
+WARNING: Sequences 0_34860 and 17_34861 are exactly identical!
+WARNING: Sequences 0_34880 and 17_34881 are exactly identical!
+WARNING: Sequences 2_34966 and 6_34967 are exactly identical!
+WARNING: Sequences 2_34990 and 6_34991 are exactly identical!
+WARNING: Sequences 2_34996 and 6_34997 are exactly identical!
+WARNING: Sequences 2_34978 and 6_34979 are exactly identical!
+WARNING: Sequences 1_34842 and 19_34843 are exactly identical!
+WARNING: Sequences 2_34962 and 6_34963 are exactly identical!
+WARNING: Sequences 2_35010 and 6_35011 are exactly identical!
+WARNING: Sequences 0_34864 and 17_34865 are exactly identical!
+WARNING: Sequences 2_34950 and 6_34951 are exactly identical!
+WARNING: Sequences 0_34856 and 17_34857 are exactly identical!
+WARNING: Sequences 2_35002 and 6_35003 are exactly identical!
+WARNING: Sequences 1_34828 and 10_34449 are exactly identical!
+WARNING: Duplicate sequences found: 51
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/2_prunedfasta/2_prunedfasta.raxml.reduced.phy
+[00:00:00] Compressing alignment patterns... 
+
+Alignment comprises 1 partitions and 200 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 200
+Gaps: 0.00 %
+Invariant sites: 0.00 %
+
+
+NOTE: Binary MSA file created: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/2_prunedfasta/2_prunedfasta.raxml.rba
+
+* Per-taxon CLV size (elements)                : 800
+* Estimated memory requirements                : 7 MB
+
+* Recommended number of threads / MPI processes: 1
+* Maximum     number of threads / MPI processes: 1
+* Minimum     number of threads / MPI processes: 1
+
+Please note that numbers given above are rough estimates only. 
+Actual memory consumption and parallel performance on your system may differ!
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/2_prunedfasta/2_prunedfasta.raxml.log
+
+Analysis started: 11-Dec-2018 20:15:52 / finished: 11-Dec-2018 20:15:52
+
+Elapsed time: 0.013 seconds
+

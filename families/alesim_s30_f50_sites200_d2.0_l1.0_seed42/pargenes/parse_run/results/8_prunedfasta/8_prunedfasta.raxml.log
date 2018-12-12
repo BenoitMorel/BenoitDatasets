@@ -1,0 +1,92 @@
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --parse --log DEBUG --msa ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/8_prunedfasta --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta --threads 1
+
+Analysis options:
+  run mode: Alignment parsing and compression
+  start tree(s): 
+  random seed: 1544555752
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+|noname|   |GTR+FO|   ||
+[00:00:00] Reading alignment from file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/8_prunedfasta
+Failed to load as IPHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/8_prunedfasta
+Failed to load as PHYLIP: Unable to parse PHYLIP file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/alignments/8_prunedfasta
+[00:00:00] Loaded alignment with 425 taxa and 200 sites
+[00:00:00] Extracting partitions... 
+[00:00:00] Validating alignment... 
+[00:00:00] Checking the alignment...
+
+WARNING: Sequences 0_31898 and 17_31899 are exactly identical!
+WARNING: Sequences 20_31748 and 16_31749 are exactly identical!
+WARNING: Sequences 17_31871 and 0_31916 are exactly identical!
+WARNING: Sequences 17_31871 and 17_31917 are exactly identical!
+WARNING: Sequences 2_31922 and 6_31923 are exactly identical!
+WARNING: Sequences 1_31856 and 19_31857 are exactly identical!
+WARNING: Sequences 0_31884 and 17_31885 are exactly identical!
+WARNING: Sequences 1_31838 and 19_31839 are exactly identical!
+WARNING: Sequences 0_31872 and 17_31873 are exactly identical!
+WARNING: Sequences 0_31910 and 17_31911 are exactly identical!
+WARNING: Sequences 0_31914 and 17_31915 are exactly identical!
+WARNING: Sequences 1_31826 and 19_31827 are exactly identical!
+WARNING: Sequences 18_31296 and 16_31761 are exactly identical!
+WARNING: Sequences 1_31834 and 10_31567 are exactly identical!
+WARNING: Sequences 0_31876 and 17_31877 are exactly identical!
+WARNING: Sequences 2_31958 and 6_31959 are exactly identical!
+WARNING: Sequences 0_31908 and 17_31909 are exactly identical!
+WARNING: Sequences 2_31944 and 6_31945 are exactly identical!
+WARNING: Sequences 2_31942 and 6_31943 are exactly identical!
+WARNING: Sequences 2_31954 and 6_31955 are exactly identical!
+WARNING: Sequences 2_31960 and 6_31961 are exactly identical!
+WARNING: Sequences 7_31490 and 5_31491 are exactly identical!
+WARNING: Sequences 1_31836 and 19_31837 are exactly identical!
+WARNING: Duplicate sequences found: 23
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.reduced.phy
+[00:00:00] Compressing alignment patterns... 
+
+Alignment comprises 1 partitions and 200 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 200
+Gaps: 0.00 %
+Invariant sites: 0.00 %
+
+
+NOTE: Binary MSA file created: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.rba
+
+* Per-taxon CLV size (elements)                : 800
+* Estimated memory requirements                : 3 MB
+
+* Recommended number of threads / MPI processes: 1
+* Maximum     number of threads / MPI processes: 1
+* Minimum     number of threads / MPI processes: 1
+
+Please note that numbers given above are rough estimates only. 
+Actual memory consumption and parallel performance on your system may differ!
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.log
+
+Analysis started: 11-Dec-2018 20:15:52 / finished: 11-Dec-2018 20:15:52
+
+Elapsed time: 0.013 seconds
+

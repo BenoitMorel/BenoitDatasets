@@ -1,0 +1,97 @@
+mpi-scheduler --msa ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/results/8_prunedfasta/8_prunedfasta --threads 1 --seed 1 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --msa ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.rba --blopt nr_safe --model GTR --prefix ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/results/8_prunedfasta/8_prunedfasta --threads 1 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000
+  branch lengths: linked (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (GTR) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/parse_run/results/8_prunedfasta/8_prunedfasta.raxml.rba
+[00:00:00] Alignment comprises 425 taxa, 1 partitions and 200 patterns
+
+Partition 0: noname
+Model: GTR+FO
+Alignment sites / patterns: 200 / 200
+Gaps: 0.00 %
+Invariant sites: 0.00 %
+
+
+[00:00:00] Generating 1 random starting tree(s) with 425 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 200 / 800
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -139304.513325] Initial branch length optimization
+[00:00:00 -105624.690451] Model parameter optimization (eps = 10.000000)
+[00:00:00 -105565.108573] AUTODETECT spr round 1 (radius: 5)
+[00:00:02 -80999.190631] AUTODETECT spr round 2 (radius: 10)
+[00:00:04 -62936.672714] AUTODETECT spr round 3 (radius: 15)
+[00:00:07 -48652.078896] AUTODETECT spr round 4 (radius: 20)
+[00:00:11 -42829.651842] AUTODETECT spr round 5 (radius: 25)
+[00:00:15 -42427.438747] SPR radius for FAST iterations: 25 (autodetect)
+[00:00:15 -42427.438747] Model parameter optimization (eps = 3.000000)
+[00:00:15 -42418.842947] FAST spr round 1 (radius: 25)
+[00:00:17 -32621.204243] FAST spr round 2 (radius: 25)
+[00:00:19 -31915.347991] FAST spr round 3 (radius: 25)
+[00:00:21 -31865.021515] FAST spr round 4 (radius: 25)
+[00:00:22 -31863.674771] FAST spr round 5 (radius: 25)
+[00:00:23 -31863.595418] Model parameter optimization (eps = 1.000000)
+[00:00:24 -31861.601595] SLOW spr round 1 (radius: 5)
+[00:00:28 -31858.137853] SLOW spr round 2 (radius: 5)
+[00:00:31 -31858.137242] SLOW spr round 3 (radius: 10)
+[00:00:36 -31852.498720] SLOW spr round 4 (radius: 5)
+[00:00:43 -31851.453853] SLOW spr round 5 (radius: 5)
+[00:00:49 -31846.596391] SLOW spr round 6 (radius: 5)
+[00:00:53 -31843.530890] SLOW spr round 7 (radius: 5)
+[00:00:57 -31843.299092] SLOW spr round 8 (radius: 5)
+[00:01:01 -31843.299060] SLOW spr round 9 (radius: 10)
+[00:01:06 -31843.299057] SLOW spr round 10 (radius: 15)
+[00:01:16 -31843.299057] SLOW spr round 11 (radius: 20)
+[00:01:31 -31843.299057] SLOW spr round 12 (radius: 25)
+[00:01:41 -31843.299057] Model parameter optimization (eps = 0.100000)
+
+[00:01:41] ML tree search #1, logLikelihood: -31843.210632
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.252137 0.254779 0.249068 0.244015 
+   Substitution rates (ML): 0.990992 1.000703 0.998693 1.055617 1.026467 1.000000 
+
+Final LogLikelihood: -31843.210632
+
+Best ML tree saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/results/8_prunedfasta/8_prunedfasta.raxml.bestTree
+Optimized model saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/results/8_prunedfasta/8_prunedfasta.raxml.bestModel
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s30_f50_sites200_d2.0_l1.0_seed42/pargenes/mlsearch_run/results/8_prunedfasta/8_prunedfasta.raxml.log
+
+Analysis started: 11-Dec-2018 20:57:43 / finished: 11-Dec-2018 20:59:25
+
+Elapsed time: 101.719 seconds
+
