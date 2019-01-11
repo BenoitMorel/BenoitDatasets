@@ -39,20 +39,20 @@ Writing an alignment for PLL with 6 sequences. File: tmpPLL_alignment_alignment.
 WARNING!!! Parameter codon.partition not specified. Default used instead: 0
 LikelihoodEvaluator::libpllEvaluateFromScratch
 Libpll-2 will use avx vectorization
-LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -1156.04
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -398.845
 Genes in the tree: 6
-LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -811.583 (3 iterations)
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -395.322 (2 iterations)
 WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
 gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/50_pruned/raxmlGeneTree.newick
 
-		Total initial logLikelihood value: -821.005
-		Sequence loglk: -811.583 and scenario loglk: -9.42254
+		Total initial logLikelihood value: -404.744
+		Sequence loglk: -395.322 and scenario loglk: -9.42254
 WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
 WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
 Reconciled tree: 
 (((16_20724:0.00496[&&NHX:Ev=S:S=16:ND=0],20_20723:0.010385[&&NHX:Ev=S:S=15:ND=1]):0.004824[&&NHX:Ev=S:S=8:ND=2],18_20261:0.015808[&&NHX:Ev=S:S=7:ND=3]):0.0262655[&&NHX:Ev=S:S=3:ND=4],(18_20273:1e-06[&&NHX:Ev=S:S=7:ND=5],(16_20736:1e-06[&&NHX:Ev=S:S=16:ND=6],20_20735:1e-06[&&NHX:Ev=S:S=15:ND=7]):0.02017[&&NHX:Ev=S:S=8:ND=8]):0.0262655[&&NHX:Ev=S:S=3:ND=9])[&&NHX:Ev=D:S=3:ND=10];
 
-		Total final logLikelihood value: -821.005
-		Sequence loglk: -811.583 and scenario loglk: -9.42254
+		Total final logLikelihood value: -404.744
+		Sequence loglk: -395.322 and scenario loglk: -9.42254
 PHYLDOG_LIGHT's done. Bye.
 Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.

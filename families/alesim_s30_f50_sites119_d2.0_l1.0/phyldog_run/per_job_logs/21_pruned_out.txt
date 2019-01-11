@@ -39,20 +39,20 @@ Writing an alignment for PLL with 13 sequences. File: tmpPLL_alignment_alignment
 WARNING!!! Parameter codon.partition not specified. Default used instead: 0
 LikelihoodEvaluator::libpllEvaluateFromScratch
 Libpll-2 will use avx vectorization
-LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -2278.5
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -719.563
 Genes in the tree: 13
-LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -1637.75 (5 iterations)
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -715.69 (2 iterations)
 WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
 gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/21_pruned/raxmlGeneTree.newick
 
-		Total initial logLikelihood value: -1651.58
-		Sequence loglk: -1637.75 and scenario loglk: -13.8368
+		Total initial logLikelihood value: -729.527
+		Sequence loglk: -715.69 and scenario loglk: -13.8368
 WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
 WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
 Reconciled tree: 
 ((8_3486:0.05314[&&NHX:Ev=S:S=31:ND=0],(((27_3514:0.00503[&&NHX:Ev=S:S=56:ND=1],21_3513:1e-06[&&NHX:Ev=S:S=55:ND=2]):0.013575[&&NHX:Ev=S:S=49:ND=3],(17_3522:1e-06[&&NHX:Ev=S:S=58:ND=4],0_3521:1e-06[&&NHX:Ev=S:S=57:ND=5]):0.007916[&&NHX:Ev=S:S=50:ND=6]):0.014087[&&NHX:Ev=S:S=41:ND=7],14_3493:0.025625[&&NHX:Ev=S:S=42:ND=8]):0.009413[&&NHX:Ev=S:S=32:ND=9]):0.0379005[&&NHX:Ev=S:S=19:ND=10],(((28_3508:0.005041[&&NHX:Ev=S:S=44:ND=11],4_3507:0.01528[&&NHX:Ev=S:S=43:ND=12]):0.010119[&&NHX:Ev=S:S=33:ND=13],(4_3503:0.005075[&&NHX:Ev=S:S=43:ND=14],28_3504:0.025562[&&NHX:Ev=S:S=44:ND=15]):1e-06[&&NHX:Ev=S:S=33:ND=16]):0.028771[&&NHX:Ev=D:S=33:ND=17],(22_3483:0.025713[&&NHX:Ev=S:S=45:ND=18],(2_3525:1e-06[&&NHX:Ev=S:S=51:ND=19],6_3526:0.005019[&&NHX:Ev=S:S=52:ND=20]):0.047199[&&NHX:Ev=S:S=46:ND=21]):0.04056[&&NHX:Ev=S:S=34:ND=22]):0.0379005[&&NHX:Ev=S:S=20:ND=23])[&&NHX:Ev=S:S=10:ND=24];
 
-		Total final logLikelihood value: -1651.58
-		Sequence loglk: -1637.75 and scenario loglk: -13.8368
+		Total final logLikelihood value: -729.527
+		Sequence loglk: -715.69 and scenario loglk: -13.8368
 PHYLDOG_LIGHT's done. Bye.
 Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.

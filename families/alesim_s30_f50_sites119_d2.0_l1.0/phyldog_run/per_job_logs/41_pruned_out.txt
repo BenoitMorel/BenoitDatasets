@@ -103,4 +103,4 @@ Reconciled tree:
 		Total final logLikelihood value: -14136.8
 		Sequence loglk: -13736.3 and scenario loglk: -400.421
 PHYLDOG_LIGHT's done. Bye.
-Total execution time: 0.000000d, 0.000000h, 0.000000m, 30.000000s.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 34.000000s.

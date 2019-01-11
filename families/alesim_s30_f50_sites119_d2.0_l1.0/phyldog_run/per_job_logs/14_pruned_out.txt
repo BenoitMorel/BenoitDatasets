@@ -38,3 +38,325 @@ Number of leaves.......................: 505
 Writing an alignment for PLL with 505 sequences. File: tmpPLL_alignment_alignment.fasta
 WARNING!!! Parameter codon.partition not specified. Default used instead: 0
 LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -36048.8
+Genes in the tree: 505
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -35785.8 (3 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/14_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -37553.4
+		Sequence loglk: -35785.8 and scenario loglk: -1767.59
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -37542.6 compared to -37553.4
+among all spr tried, a better tree has been found -37542.6
+new rb max size 2
+Better tree overall: -37531.7 compared to -37542.6
+among all spr tried, a better tree has been found -37531.7
+new rb max size 3
+Better tree overall: -37530.1 compared to -37531.7
+among all spr tried, a better tree has been found -37530.1
+new rb max size 4
+Better tree overall: -37519.3 compared to -37530.1
+among all spr tried, a better tree has been found -37519.3
+new rb max size 5
+Better tree overall: -37508.4 compared to -37519.3
+among all spr tried, a better tree has been found -37508.4
+new rb max size 6
+Better tree overall: -37506.9 compared to -37508.4
+among all spr tried, a better tree has been found -37506.9
+new rb max size 7
+Better tree overall: -37506 compared to -37506.9
+among all spr tried, a better tree has been found -37506
+new rb max size 8
+Better tree overall: -37492.2 compared to -37506
+among all spr tried, a better tree has been found -37492.2
+new rb max size 9
+Better tree overall: -37481.8 compared to -37492.2
+among all spr tried, a better tree has been found -37481.8
+new rb max size 10
+Better tree overall: -37477 compared to -37481.8
+among all spr tried, a better tree has been found -37477
+new rb max size 11
+Better tree overall: -37465.6 compared to -37477
+among all spr tried, a better tree has been found -37465.6
+new rb max size 12
+Better tree overall: -37456.1 compared to -37465.6
+among all spr tried, a better tree has been found -37456.1
+new rb max size 13
+Better tree overall: -37454.5 compared to -37456.1
+among all spr tried, a better tree has been found -37454.5
+new rb max size 14
+Better tree overall: -37452.2 compared to -37454.5
+among all spr tried, a better tree has been found -37452.2
+new rb max size 15
+Better tree overall: -37450 compared to -37452.2
+among all spr tried, a better tree has been found -37450
+new rb max size 16
+Better tree overall: -37445 compared to -37450
+among all spr tried, a better tree has been found -37445
+new rb max size 17
+Better tree overall: -37442.6 compared to -37445
+among all spr tried, a better tree has been found -37442.6
+new rb max size 18
+Better tree overall: -37441.2 compared to -37442.6
+among all spr tried, a better tree has been found -37441.2
+new rb max size 19
+Better tree overall: -37433.3 compared to -37441.2
+among all spr tried, a better tree has been found -37433.3
+new rb max size 20
+Better tree overall: -37416.1 compared to -37433.3
+among all spr tried, a better tree has been found -37416.1
+new rb max size 21
+Better tree overall: -37401.5 compared to -37416.1
+among all spr tried, a better tree has been found -37401.5
+new rb max size 22
+Better tree overall: -37399.3 compared to -37401.5
+among all spr tried, a better tree has been found -37399.3
+new rb max size 23
+Better tree overall: -37386.8 compared to -37399.3
+among all spr tried, a better tree has been found -37386.8
+new rb max size 24
+Better tree overall: -37376 compared to -37386.8
+among all spr tried, a better tree has been found -37376
+new rb max size 25
+Better tree overall: -37359.7 compared to -37376
+among all spr tried, a better tree has been found -37359.7
+new rb max size 26
+Better tree overall: -37345.4 compared to -37359.7
+among all spr tried, a better tree has been found -37345.4
+new rb max size 27
+Better tree overall: -37330.9 compared to -37345.4
+among all spr tried, a better tree has been found -37330.9
+new rb max size 28
+Better tree overall: -37302 compared to -37330.9
+among all spr tried, a better tree has been found -37302
+new rb max size 29
+Better tree overall: -37301.9 compared to -37302
+Better tree overall: -37289.5 compared to -37301.9
+among all spr tried, a better tree has been found -37289.5
+new rb max size 30
+Better tree overall: -37279.5 compared to -37289.5
+among all spr tried, a better tree has been found -37279.5
+new rb max size 31
+Better tree overall: -37276.7 compared to -37279.5
+among all spr tried, a better tree has been found -37276.7
+new rb max size 32
+Better tree overall: -37244.2 compared to -37276.7
+among all spr tried, a better tree has been found -37244.2
+new rb max size 33
+Better tree overall: -37233.3 compared to -37244.2
+among all spr tried, a better tree has been found -37233.3
+new rb max size 34
+Better tree overall: -37222.5 compared to -37233.3
+among all spr tried, a better tree has been found -37222.5
+new rb max size 35
+Better tree overall: -37208.4 compared to -37222.5
+among all spr tried, a better tree has been found -37208.4
+new rb max size 36
+Better tree overall: -37208.1 compared to -37208.4
+Better tree overall: -37203.2 compared to -37208.1
+among all spr tried, a better tree has been found -37203.2
+new rb max size 37
+Better tree overall: -37192.9 compared to -37203.2
+among all spr tried, a better tree has been found -37192.9
+new rb max size 38
+Better tree overall: -37182.6 compared to -37192.9
+among all spr tried, a better tree has been found -37182.6
+new rb max size 39
+Better tree overall: -37179.4 compared to -37182.6
+among all spr tried, a better tree has been found -37179.4
+new rb max size 40
+Better tree overall: -37167.8 compared to -37179.4
+among all spr tried, a better tree has been found -37167.8
+new rb max size 41
+Better tree overall: -37166.1 compared to -37167.8
+among all spr tried, a better tree has been found -37166.1
+new rb max size 42
+Better tree overall: -37158.7 compared to -37166.1
+among all spr tried, a better tree has been found -37158.7
+new rb max size 43
+Better tree overall: -37155.6 compared to -37158.7
+among all spr tried, a better tree has been found -37155.6
+new rb max size 44
+Better tree overall: -37145.3 compared to -37155.6
+among all spr tried, a better tree has been found -37145.3
+new rb max size 45
+Better tree overall: -37143.9 compared to -37145.3
+among all spr tried, a better tree has been found -37143.9
+new rb max size 46
+Better tree overall: -37133.1 compared to -37143.9
+among all spr tried, a better tree has been found -37133.1
+new rb max size 47
+Better tree overall: -37122.3 compared to -37133.1
+among all spr tried, a better tree has been found -37122.3
+new rb max size 48
+Better tree overall: -37108.8 compared to -37122.3
+among all spr tried, a better tree has been found -37108.8
+new rb max size 49
+Better tree overall: -37103.9 compared to -37108.8
+among all spr tried, a better tree has been found -37103.9
+new rb max size 50
+Better tree overall: -37091.8 compared to -37103.9
+among all spr tried, a better tree has been found -37091.8
+new rb max size 51
+Better tree overall: -37085.6 compared to -37091.8
+among all spr tried, a better tree has been found -37085.6
+new rb max size 52
+Better tree overall: -37073.2 compared to -37085.6
+among all spr tried, a better tree has been found -37073.2
+new rb max size 53
+Better tree overall: -37062.3 compared to -37073.2
+among all spr tried, a better tree has been found -37062.3
+new rb max size 54
+Better tree overall: -37060.7 compared to -37062.3
+among all spr tried, a better tree has been found -37060.7
+new rb max size 55
+Better tree overall: -37055.3 compared to -37060.7
+among all spr tried, a better tree has been found -37055.3
+new rb max size 56
+Better tree overall: -37054.4 compared to -37055.3
+among all spr tried, a better tree has been found -37054.4
+new rb max size 57
+Better tree overall: -37054.4 compared to -37054.4
+among all spr tried, a better tree has been found -37054.4
+new rb max size 58
+Better tree overall: -37047.7 compared to -37054.4
+among all spr tried, a better tree has been found -37047.7
+new rb max size 59
+Better tree overall: -37036.8 compared to -37047.7
+among all spr tried, a better tree has been found -37036.8
+new rb max size 60
+Better tree overall: -37034.6 compared to -37036.8
+among all spr tried, a better tree has been found -37034.6
+new rb max size 61
+Better tree overall: -37033.3 compared to -37034.6
+among all spr tried, a better tree has been found -37033.3
+new rb max size 62
+Better tree overall: -37025.7 compared to -37033.3
+among all spr tried, a better tree has been found -37025.7
+new rb max size 63
+Better tree overall: -37013.7 compared to -37025.7
+among all spr tried, a better tree has been found -37013.7
+new rb max size 64
+Better tree overall: -37002.9 compared to -37013.7
+among all spr tried, a better tree has been found -37002.9
+new rb max size 65
+Better tree overall: -36993.7 compared to -37002.9
+among all spr tried, a better tree has been found -36993.7
+new rb max size 66
+Better tree overall: -36992.8 compared to -36993.7
+among all spr tried, a better tree has been found -36992.8
+new rb max size 67
+Better tree overall: -36983.5 compared to -36992.8
+among all spr tried, a better tree has been found -36983.5
+new rb max size 68
+Better tree overall: -36973.9 compared to -36983.5
+among all spr tried, a better tree has been found -36973.9
+new rb max size 69
+Better tree overall: -36972.5 compared to -36973.9
+among all spr tried, a better tree has been found -36972.5
+new rb max size 70
+Better tree overall: -36967.2 compared to -36972.5
+among all spr tried, a better tree has been found -36967.2
+new rb max size 71
+Better tree overall: -36965.4 compared to -36967.2
+among all spr tried, a better tree has been found -36965.4
+new rb max size 72
+Better tree overall: -36964.2 compared to -36965.4
+among all spr tried, a better tree has been found -36964.2
+new rb max size 73
+Better tree overall: -36962.6 compared to -36964.2
+among all spr tried, a better tree has been found -36962.6
+new rb max size 74
+Better tree overall: -36950.6 compared to -36962.6
+among all spr tried, a better tree has been found -36950.6
+new rb max size 75
+Better tree overall: -36949.5 compared to -36950.6
+among all spr tried, a better tree has been found -36949.5
+new rb max size 76
+Better tree overall: -36946.7 compared to -36949.5
+among all spr tried, a better tree has been found -36946.7
+new rb max size 77
+Better tree overall: -36936.8 compared to -36946.7
+among all spr tried, a better tree has been found -36936.8
+new rb max size 78
+Better tree overall: -36923.2 compared to -36936.8
+among all spr tried, a better tree has been found -36923.2
+new rb max size 79
+Better tree overall: -36911 compared to -36923.2
+among all spr tried, a better tree has been found -36911
+new rb max size 80
+Better tree overall: -36905 compared to -36911
+Better tree overall: -36904.7 compared to -36905
+among all spr tried, a better tree has been found -36904.7
+new rb max size 81
+Better tree overall: -36901 compared to -36904.7
+among all spr tried, a better tree has been found -36901
+new rb max size 82
+Better tree overall: -36899.4 compared to -36901
+among all spr tried, a better tree has been found -36899.4
+new rb max size 83
+Better tree overall: -36891.8 compared to -36899.4
+among all spr tried, a better tree has been found -36891.8
+new rb max size 84
+Better tree overall: -36888.4 compared to -36891.8
+among all spr tried, a better tree has been found -36888.4
+new rb max size 85
+Better tree overall: -36883.9 compared to -36888.4
+among all spr tried, a better tree has been found -36883.9
+new rb max size 86
+Better tree overall: -36882.3 compared to -36883.9
+among all spr tried, a better tree has been found -36882.3
+new rb max size 87
+Better tree overall: -36881.3 compared to -36882.3
+among all spr tried, a better tree has been found -36881.3
+new rb max size 88
+Better tree overall: -36878 compared to -36881.3
+among all spr tried, a better tree has been found -36878
+new rb max size 89
+Better tree overall: -36875.1 compared to -36878
+among all spr tried, a better tree has been found -36875.1
+new rb max size 90
+Better tree overall: -36871.2 compared to -36875.1
+among all spr tried, a better tree has been found -36871.2
+new rb max size 91
+Better tree overall: -36870.6 compared to -36871.2
+among all spr tried, a better tree has been found -36870.6
+new rb max size 92
+Better tree overall: -36854.1 compared to -36870.6
+among all spr tried, a better tree has been found -36854.1
+new rb max size 93
+Better tree overall: -36852.1 compared to -36854.1
+among all spr tried, a better tree has been found -36852.1
+new rb max size 94
+Better tree overall: -36852.1 compared to -36852.1
+Better tree overall: -36842.3 compared to -36852.1
+among all spr tried, a better tree has been found -36842.3
+new rb max size 95
+Better tree overall: -36841.2 compared to -36842.3
+among all spr tried, a better tree has been found -36841.2
+new rb max size 96
+Better tree overall: -36829.6 compared to -36841.2
+among all spr tried, a better tree has been found -36829.6
+new rb max size 97
+Better tree overall: -36828.8 compared to -36829.6
+among all spr tried, a better tree has been found -36828.8
+new rb max size 98
+Better tree overall: -36827.2 compared to -36828.8
+among all spr tried, a better tree has been found -36827.2
+new rb max size 99
+Better tree overall: -36826.5 compared to -36827.2
+among all spr tried, a better tree has been found -36826.5
+new rb max size 100
+Better tree overall: -36826.4 compared to -36826.5
+among all spr tried, a better tree has been found -36826.4
+new rb max size 101
+Better tree overall: -36824.8 compared to -36826.4
+among all spr tried, a better tree has been found -36824.8
+new rb max size 102
+Better tree overall: -36820.3 compared to -36824.8
+among all spr tried, a better tree has been found -36820.3
+ne

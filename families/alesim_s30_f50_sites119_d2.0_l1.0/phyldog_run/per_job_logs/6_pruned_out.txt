@@ -38,3 +38,21 @@ Number of leaves.......................: 7
 Writing an alignment for PLL with 7 sequences. File: tmpPLL_alignment_alignment.fasta
 WARNING!!! Parameter codon.partition not specified. Default used instead: 0
 LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -534.284
+Genes in the tree: 7
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -526.736 (2 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/6_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -532.461
+		Sequence loglk: -526.736 and scenario loglk: -5.72574
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+Reconciled tree: 
+((24_30308:0.048436[&&NHX:Ev=S:S=40:ND=0],(29_31056:0.013018[&&NHX:Ev=S:S=37:ND=1],(10_31585:0.008271[&&NHX:Ev=S:S=48:ND=2],(19_31853:1e-06[&&NHX:Ev=S:S=54:ND=3],1_31852:1e-06[&&NHX:Ev=S:S=53:ND=4]):0.007793[&&NHX:Ev=S:S=47:ND=5]):0.022727[&&NHX:Ev=S:S=38:ND=6]):0.05154[&&NHX:Ev=S:S=25:ND=7]):0.015957[&&NHX:Ev=S:S=14:ND=8],(25_31726:0.035232[&&NHX:Ev=S:S=23:ND=9],26_30945:0.02708[&&NHX:Ev=S:S=24:ND=10]):0.015957[&&NHX:Ev=S:S=13:ND=11])[&&NHX:Ev=S:S=6:ND=12];
+
+		Total final logLikelihood value: -532.461
+		Sequence loglk: -526.736 and scenario loglk: -5.72574
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
