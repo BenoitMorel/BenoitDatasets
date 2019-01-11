@@ -1,0 +1,58 @@
+Species Tree file......................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/phyldogSpeciesTree.newick
+before reading species tree
+after reading species tree
+Number of leaves.......................: 30
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/31_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 4
+Number of sites........................: 200
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 4
+Sites to use...........................: complete
+Complete sites.........................: 200
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 4 8
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/31_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 4
+Writing an alignment for PLL with 4 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -483.306
+Genes in the tree: 4
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -479.218 (2 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/31_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -481.425
+		Sequence loglk: -479.218 and scenario loglk: -2.20714
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+Reconciled tree: 
+((15_34591:0.075427[&&NHX:Ev=S:S=21:ND=0],(7_36201:0.015222[&&NHX:Ev=S:S=35:ND=1],5_36202:0.01524[&&NHX:Ev=S:S=36:ND=2]):0.026463[&&NHX:Ev=S:S=22:ND=3]):0.0435645[&&NHX:Ev=S:S=11:ND=4],23_32521:0.0435645[&&NHX:Ev=S:S=12:ND=5])[&&NHX:Ev=S:S=5:ND=6];
+
+		Total final logLikelihood value: -481.425
+		Sequence loglk: -479.218 and scenario loglk: -2.20714
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.

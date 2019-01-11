@@ -1,0 +1,171 @@
+Species Tree file......................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/phyldogSpeciesTree.newick
+before reading species tree
+after reading species tree
+Number of leaves.......................: 30
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/8_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 425
+Number of sites........................: 200
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 425
+Sites to use...........................: complete
+Complete sites.........................: 200
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 425 8
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/8_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 425
+Writing an alignment for PLL with 425 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -32096.2
+Genes in the tree: 425
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -31841.2 (2 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/8_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -33399.7
+		Sequence loglk: -31841.2 and scenario loglk: -1558.5
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -33388.9 compared to -33399.7
+among all spr tried, a better tree has been found -33388.9
+new rb max size 2
+Better tree overall: -33381.1 compared to -33388.9
+among all spr tried, a better tree has been found -33381.1
+new rb max size 3
+Better tree overall: -33377 compared to -33381.1
+among all spr tried, a better tree has been found -33377
+new rb max size 4
+Better tree overall: -33376.4 compared to -33377
+among all spr tried, a better tree has been found -33376.4
+new rb max size 5
+Better tree overall: -33374.7 compared to -33376.4
+among all spr tried, a better tree has been found -33374.7
+new rb max size 6
+Better tree overall: -33364.6 compared to -33374.7
+among all spr tried, a better tree has been found -33364.6
+new rb max size 7
+Better tree overall: -33353.7 compared to -33364.6
+among all spr tried, a better tree has been found -33353.7
+new rb max size 8
+Better tree overall: -33339.1 compared to -33353.7
+among all spr tried, a better tree has been found -33339.1
+new rb max size 9
+Better tree overall: -33337.7 compared to -33339.1
+Better tree overall: -33332.8 compared to -33337.7
+among all spr tried, a better tree has been found -33332.8
+new rb max size 10
+Better tree overall: -33332.7 compared to -33332.8
+among all spr tried, a better tree has been found -33332.7
+new rb max size 11
+Better tree overall: -33324.1 compared to -33332.7
+among all spr tried, a better tree has been found -33324.1
+new rb max size 12
+Better tree overall: -33322.5 compared to -33324.1
+among all spr tried, a better tree has been found -33322.5
+new rb max size 13
+Better tree overall: -33320.8 compared to -33322.5
+among all spr tried, a better tree has been found -33320.8
+new rb max size 14
+Better tree overall: -33320.4 compared to -33320.8
+among all spr tried, a better tree has been found -33320.4
+new rb max size 15
+Better tree overall: -33304.7 compared to -33320.4
+among all spr tried, a better tree has been found -33304.7
+new rb max size 16
+Better tree overall: -33293.9 compared to -33304.7
+among all spr tried, a better tree has been found -33293.9
+new rb max size 17
+Better tree overall: -33293.5 compared to -33293.9
+among all spr tried, a better tree has been found -33293.5
+new rb max size 18
+Better tree overall: -33269.1 compared to -33293.5
+among all spr tried, a better tree has been found -33269.1
+new rb max size 19
+Better tree overall: -33260.4 compared to -33269.1
+among all spr tried, a better tree has been found -33260.4
+new rb max size 20
+Better tree overall: -33257.4 compared to -33260.4
+among all spr tried, a better tree has been found -33257.4
+new rb max size 21
+Better tree overall: -33247 compared to -33257.4
+among all spr tried, a better tree has been found -33247
+new rb max size 22
+Better tree overall: -33245.4 compared to -33247
+among all spr tried, a better tree has been found -33245.4
+new rb max size 23
+Better tree overall: -33244.9 compared to -33245.4
+among all spr tried, a better tree has been found -33244.9
+new rb max size 24
+Better tree overall: -33233.1 compared to -33244.9
+among all spr tried, a better tree has been found -33233.1
+new rb max size 25
+Better tree overall: -33224.7 compared to -33233.1
+among all spr tried, a better tree has been found -33224.7
+new rb max size 26
+Better tree overall: -33213.9 compared to -33224.7
+among all spr tried, a better tree has been found -33213.9
+new rb max size 27
+Better tree overall: -33212.2 compared to -33213.9
+among all spr tried, a better tree has been found -33212.2
+new rb max size 28
+Better tree overall: -33201.4 compared to -33212.2
+among all spr tried, a better tree has been found -33201.4
+new rb max size 29
+Better tree overall: -33190.6 compared to -33201.4
+among all spr tried, a better tree has been found -33190.6
+new rb max size 30
+Better tree overall: -33188.9 compared to -33190.6
+among all spr tried, a better tree has been found -33188.9
+new rb max size 31
+Better tree overall: -33179.7 compared to -33188.9
+among all spr tried, a better tree has been found -33179.7
+new rb max size 32
+Better tree overall: -33173.7 compared to -33179.7
+among all spr tried, a better tree has been found -33173.7
+new rb max size 33
+Better tree overall: -33172.1 compared to -33173.7
+among all spr tried, a better tree has been found -33172.1
+new rb max size 34
+Better tree overall: -33167.9 compared to -33172.1
+among all spr tried, a better tree has been found -33167.9
+new rb max size 35
+Better tree overall: -33167.3 compared to -33167.9
+among all spr tried, a better tree has been found -33167.3
+new rb max size 36
+Better tree overall: -33165.7 compared to -33167.3
+among all spr tried, a better tree has been found -33165.7
+new rb max size 37
+Better tree overall: -33154.8 compared to -33165.7
+among all spr tried, a better tree has been found -33154.8
+new rb max size 38
+Better tree overall: -33143.5 compared to -33154.8
+among all spr tried, a better tree has been found -33143.5
+new rb max size 39
+Better tree overall: -33142 compared to -33143.5
+among all spr tried, a better tree has been found -33142
+new rb max size 40
+Better tree overall: -33127.9 compar

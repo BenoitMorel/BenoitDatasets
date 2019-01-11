@@ -1,0 +1,61 @@
+Species Tree file......................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/phyldogSpeciesTree.newick
+before reading species tree
+after reading species tree
+Number of leaves.......................: 20
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/35_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 9
+Number of sites........................: 200
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 9
+Sites to use...........................: complete
+Complete sites.........................: 200
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 9 6
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/35_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 9
+Writing an alignment for PLL with 9 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -1542.05
+Genes in the tree: 9
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -1144.27 (4 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/35_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -1160.47
+		Sequence loglk: -1144.27 and scenario loglk: -16.1947
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -1132.57 compared to -1160.47
+among all spr tried, a better tree has been found -1132.57
+Reconciled tree: 
+((((12_910:0.0125874[&&NHX:Ev=S:S=31:ND=0],9_911:0.00778448[&&NHX:Ev=S:S=32:ND=1]):0.120845[&&NHX:Ev=S:S=22:ND=2],14_895:0.134627[&&NHX:Ev=S:S=21:ND=3]):0.116293[&&NHX:Ev=S:S=11:ND=4],(19_900:0.0914525[&&NHX:Ev=S:S=24:ND=5],(11_893:0.0104297[&&NHX:Ev=S:S=33:ND=6],16_894:0.0158442[&&NHX:Ev=S:S=34:ND=7]):0.0502239[&&NHX:Ev=S:S=23:ND=8]):0.0324724[&&NHX:Ev=S:S=12:ND=9]):5.527e-07[&&NHX:Ev=S:S=5:ND=10],(10_876:9.35413[&&NHX:Ev=S:S=14:ND=11],(17_888:0.201978[&&NHX:Ev=S:S=26:ND=12],1_887:0.0387415[&&NHX:Ev=S:S=25:ND=13]):0.0111369[&&NHX:Ev=S:S=13:ND=14]):5.527e-07[&&NHX:Ev=S:S=6:ND=15])[&&NHX:Ev=S:S=2:ND=16];
+
+		Total final logLikelihood value: -1132.57
+		Sequence loglk: -1127.21 and scenario loglk: -5.36019
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
