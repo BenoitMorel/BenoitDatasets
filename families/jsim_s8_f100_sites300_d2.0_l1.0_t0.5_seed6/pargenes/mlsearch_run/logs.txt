@@ -1,0 +1,2107 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 278949
+Remaining commands: 1045
+## Started 48_pruned_fasta_bs9 on [0:0] 
+## Started 48_pruned_fasta_bs4 on [19:19] 
+## Started 48_pruned_fasta_bs3 on [9:9] 
+## Started 48_pruned_fasta_bs2 on [4:4] 
+## Started 48_pruned_fasta_bs1 on [2:2] 
+## Started 48_pruned_fasta_bs0 on [1:1] 
+## Started 48_pruned_fasta_bs5 on [29:29] 
+## Started 48_pruned_fasta_bs6 on [24:24] 
+## Started 48_pruned_fasta_bs7 on [21:21] 
+## Started 48_pruned_fasta_bs8 on [20:20] 
+## Started 32_pruned_fasta_bs0 on [14:14] 
+## Started 32_pruned_fasta_bs9 on [11:11] 
+## Started 32_pruned_fasta_bs8 on [10:10] 
+## Started 32_pruned_fasta_bs7 on [6:6] 
+## Started 32_pruned_fasta_bs6 on [5:5] 
+## Started 32_pruned_fasta_bs5 on [3:3] 
+## Started 32_pruned_fasta_bs4 on [34:34] 
+## Started 32_pruned_fasta_bs3 on [31:31] 
+## Started 32_pruned_fasta_bs2 on [30:30] 
+## Started 32_pruned_fasta_bs1 on [26:26] 
+## Started 60_pruned_fasta_bs3 on [25:25] 
+## Started 60_pruned_fasta_bs2 on [22:22] 
+## Started 60_pruned_fasta_bs5 on [16:16] 
+## Started 60_pruned_fasta_bs9 on [15:15] 
+## Started 60_pruned_fasta_bs8 on [12:12] 
+## Started 60_pruned_fasta_bs7 on [7:7] 
+## Started 60_pruned_fasta_bs6 on [36:36] 
+## Started 60_pruned_fasta_bs1 on [35:35] 
+## Started 60_pruned_fasta_bs0 on [32:32] 
+## Started 60_pruned_fasta_bs4 on [27:27] 
+## Started 92_pruned_fasta_bs6 on [23:23] 
+## Started 92_pruned_fasta_bs9 on [17:17] 
+## Started 92_pruned_fasta_bs8 on [13:13] 
+## Started 92_pruned_fasta_bs7 on [8:8] 
+## Started 92_pruned_fasta_bs0 on [37:37] 
+## Started 92_pruned_fasta_bs5 on [33:33] 
+## Started 92_pruned_fasta_bs4 on [28:28] 
+## Started 92_pruned_fasta_bs3 on [18:18] 
+## Started 92_pruned_fasta_bs2 on [38:38] 
+End of 92_pruned_fasta_bs0 after 50514ms  (1/1045)
+## Started 92_pruned_fasta_bs1 on [37:37] 
+End of 92_pruned_fasta_bs5 after 51169ms  (2/1045)
+## Started 62_pruned_fasta_bs0 on [33:33] 
+End of 92_pruned_fasta_bs9 after 51292ms  (3/1045)
+## Started 62_pruned_fasta_bs1 on [17:17] 
+End of 92_pruned_fasta_bs6 after 52025ms  (4/1045)
+## Started 62_pruned_fasta_bs2 on [23:23] 
+End of 92_pruned_fasta_bs4 after 52256ms  (5/1045)
+## Started 62_pruned_fasta_bs3 on [28:28] 
+End of 60_pruned_fasta_bs2 after 52336ms  (6/1045)
+## Started 62_pruned_fasta_bs4 on [22:22] 
+End of 92_pruned_fasta_bs7 after 52492ms  (7/1045)
+## Started 62_pruned_fasta_bs9 on [8:8] 
+End of 92_pruned_fasta_bs2 after 53210ms  (8/1045)
+## Started 62_pruned_fasta_bs8 on [38:38] 
+End of 60_pruned_fasta_bs8 after 54093ms  (9/1045)
+## Started 62_pruned_fasta_bs7 on [12:12] 
+End of 60_pruned_fasta_bs1 after 54332ms  (10/1045)
+## Started 62_pruned_fasta_bs6 on [35:35] 
+End of 60_pruned_fasta_bs0 after 54716ms  (11/1045)
+## Started 62_pruned_fasta_bs5 on [32:32] 
+End of 92_pruned_fasta_bs3 after 55181ms  (12/1045)
+## Started 90_pruned_fasta_bs0 on [18:18] 
+End of 60_pruned_fasta_bs6 after 56293ms  (13/1045)
+## Started 90_pruned_fasta_bs5 on [36:36] 
+End of 60_pruned_fasta_bs4 after 56354ms  (14/1045)
+## Started 90_pruned_fasta_bs4 on [27:27] 
+End of 92_pruned_fasta_bs8 after 56599ms  (15/1045)
+## Started 90_pruned_fasta_bs3 on [13:13] 
+End of 60_pruned_fasta_bs9 after 56602ms  (16/1045)
+## Started 90_pruned_fasta_bs9 on [15:15] 
+End of 60_pruned_fasta_bs5 after 56782ms  (17/1045)
+## Started 90_pruned_fasta_bs8 on [16:16] 
+End of 60_pruned_fasta_bs7 after 57473ms  (18/1045)
+## Started 90_pruned_fasta_bs7 on [7:7] 
+End of 60_pruned_fasta_bs3 after 58289ms  (19/1045)
+## Started 90_pruned_fasta_bs6 on [25:25] 
+Runner is still alive after 60s
+End of 32_pruned_fasta_bs9 after 66982ms  (20/1045)
+## Started 90_pruned_fasta_bs1 on [11:11] 
+End of 32_pruned_fasta_bs7 after 69010ms  (21/1045)
+## Started 90_pruned_fasta_bs2 on [6:6] 
+End of 32_pruned_fasta_bs0 after 71972ms  (22/1045)
+## Started 51_pruned_fasta_bs2 on [14:14] 
+End of 32_pruned_fasta_bs4 after 72023ms  (23/1045)
+## Started 51_pruned_fasta_bs4 on [34:34] 
+End of 32_pruned_fasta_bs3 after 80860ms  (24/1045)
+## Started 51_pruned_fasta_bs1 on [31:31] 
+End of 48_pruned_fasta_bs9 after 82047ms  (25/1045)
+## Started 51_pruned_fasta_bs0 on [0:0] 
+End of 32_pruned_fasta_bs2 after 82196ms  (26/1045)
+## Started 58_pruned_fasta_bs6 on [30:30] 
+End of 48_pruned_fasta_bs3 after 82894ms  (27/1045)
+## Started 51_pruned_fasta_bs3 on [9:9] 
+End of 32_pruned_fasta_bs1 after 83543ms  (28/1045)
+## Started 51_pruned_fasta_bs5 on [26:26] 
+End of 32_pruned_fasta_bs6 after 86312ms  (29/1045)
+## Started 51_pruned_fasta_bs6 on [5:5] 
+End of 48_pruned_fasta_bs6 after 87151ms  (30/1045)
+## Started 51_pruned_fasta_bs8 on [24:24] 
+End of 48_pruned_fasta_bs2 after 88504ms  (31/1045)
+## Started 51_pruned_fasta_bs9 on [4:4] 
+End of 48_pruned_fasta_bs8 after 88517ms  (32/1045)
+## Started 58_pruned_fasta_bs5 on [20:20] 
+End of 48_pruned_fasta_bs0 after 88791ms  (33/1045)
+## Started 58_pruned_fasta_bs9 on [1:1] 
+End of 48_pruned_fasta_bs7 after 89078ms  (34/1045)
+## Started 58_pruned_fasta_bs0 on [21:21] 
+End of 48_pruned_fasta_bs4 after 89249ms  (35/1045)
+## Started 58_pruned_fasta_bs1 on [19:19] 
+End of 32_pruned_fasta_bs5 after 91953ms  (36/1045)
+## Started 58_pruned_fasta_bs2 on [3:3] 
+End of 48_pruned_fasta_bs5 after 96373ms  (37/1045)
+## Started 58_pruned_fasta_bs3 on [29:29] 
+End of 90_pruned_fasta_bs0 after 42394ms  (38/1045)
+## Started 51_pruned_fasta_bs7 on [18:18] 
+End of 90_pruned_fasta_bs3 after 41498ms  (39/1045)
+## Started 58_pruned_fasta_bs4 on [13:13] 
+End of 62_pruned_fasta_bs0 after 49230ms  (40/1045)
+## Started 58_pruned_fasta_bs7 on [33:33] 
+End of 62_pruned_fasta_bs6 after 46326ms  (41/1045)
+## Started 58_pruned_fasta_bs8 on [35:35] 
+End of 90_pruned_fasta_bs8 after 44065ms  (42/1045)
+## Started 26_pruned_fasta_bs9 on [16:16] 
+End of 90_pruned_fasta_bs7 after 43885ms  (43/1045)
+## Started 26_pruned_fasta_bs0 on [7:7] 
+End of 62_pruned_fasta_bs9 after 48931ms  (44/1045)
+## Started 26_pruned_fasta_bs8 on [8:8] 
+End of 62_pruned_fasta_bs3 after 49490ms  (45/1045)
+## Started 26_pruned_fasta_bs7 on [28:28] 
+End of 62_pruned_fasta_bs4 after 49431ms  (46/1045)
+## Started 26_pruned_fasta_bs6 on [22:22] 
+End of 48_pruned_fasta_bs1 after 101959ms  (47/1045)
+## Started 26_pruned_fasta_bs5 on [2:2] 
+End of 92_pruned_fasta_bs1 after 51691ms  (48/1045)
+## Started 26_pruned_fasta_bs4 on [37:37] 
+End of 90_pruned_fasta_bs6 after 44457ms  (49/1045)
+## Started 26_pruned_fasta_bs3 on [25:25] 
+End of 90_pruned_fasta_bs9 after 46280ms  (50/1045)
+## Started 26_pruned_fasta_bs2 on [15:15] 
+End of 62_pruned_fasta_bs7 after 49584ms  (51/1045)
+## Started 26_pruned_fasta_bs1 on [12:12] 
+End of 32_pruned_fasta_bs8 after 103693ms  (52/1045)
+## Started 14_pruned_fasta_bs0 on [10:10] 
+End of 90_pruned_fasta_bs5 after 47658ms  (53/1045)
+## Started 14_pruned_fasta_bs1 on [36:36] 
+End of 62_pruned_fasta_bs1 after 52707ms  (54/1045)
+## Started 14_pruned_fasta_bs2 on [17:17] 
+End of 62_pruned_fasta_bs5 after 49313ms  (55/1045)
+## Started 14_pruned_fasta_bs3 on [32:32] 
+End of 62_pruned_fasta_bs2 after 52005ms  (56/1045)
+## Started 14_pruned_fasta_bs4 on [23:23] 
+End of 90_pruned_fasta_bs4 after 47998ms  (57/1045)
+## Started 14_pruned_fasta_bs5 on [27:27] 
+End of 62_pruned_fasta_bs8 after 54158ms  (58/1045)
+## Started 14_pruned_fasta_bs6 on [38:38] 
+End of 90_pruned_fasta_bs1 after 42713ms  (59/1045)
+## Started 14_pruned_fasta_bs9 on [11:11] 
+End of 90_pruned_fasta_bs2 after 44883ms  (60/1045)
+## Started 14_pruned_fasta_bs8 on [6:6] 
+Runner is still alive after 120s
+End of 51_pruned_fasta_bs4 after 50258ms  (61/1045)
+## Started 14_pruned_fasta_bs7 on [34:34] 
+End of 51_pruned_fasta_bs2 after 56583ms  (62/1045)
+## Started 30_pruned_fasta_bs5 on [14:14] 
+End of 51_pruned_fasta_bs1 after 50072ms  (63/1045)
+## Started 30_pruned_fasta_bs8 on [31:31] 
+End of 51_pruned_fasta_bs0 after 51779ms  (64/1045)
+## Started 30_pruned_fasta_bs7 on [0:0] 
+End of 51_pruned_fasta_bs3 after 52131ms  (65/1045)
+## Started 30_pruned_fasta_bs6 on [9:9] 
+End of 51_pruned_fasta_bs5 after 52046ms  (66/1045)
+## Started 7_pruned_fasta_bs0 on [26:26] 
+End of 51_pruned_fasta_bs8 after 49359ms  (67/1045)
+## Started 30_pruned_fasta_bs9 on [24:24] 
+End of 58_pruned_fasta_bs1 after 48009ms  (68/1045)
+## Started 7_pruned_fasta_bs9 on [19:19] 
+End of 51_pruned_fasta_bs6 after 51897ms  (69/1045)
+## Started 7_pruned_fasta_bs8 on [5:5] 
+End of 51_pruned_fasta_bs9 after 49721ms  (70/1045)
+## Started 7_pruned_fasta_bs7 on [4:4] 
+End of 58_pruned_fasta_bs5 after 50652ms  (71/1045)
+## Started 7_pruned_fasta_bs6 on [20:20] 
+End of 58_pruned_fasta_bs6 after 57646ms  (72/1045)
+## Started 7_pruned_fasta_bs5 on [30:30] 
+End of 58_pruned_fasta_bs9 after 53688ms  (73/1045)
+## Started 7_pruned_fasta_bs4 on [1:1] 
+End of 58_pruned_fasta_bs2 after 54060ms  (74/1045)
+## Started 7_pruned_fasta_bs3 on [3:3] 
+End of 58_pruned_fasta_bs0 after 57752ms  (75/1045)
+## Started 7_pruned_fasta_bs2 on [21:21] 
+End of 26_pruned_fasta_bs0 after 45869ms  (76/1045)
+## Started 7_pruned_fasta_bs1 on [7:7] 
+End of 26_pruned_fasta_bs9 after 46496ms  (77/1045)
+## Started 30_pruned_fasta_bs3 on [16:16] 
+End of 26_pruned_fasta_bs7 after 45863ms  (78/1045)
+## Started 6_pruned_fasta_bs9 on [28:28] 
+End of 26_pruned_fasta_bs5 after 45734ms  (79/1045)
+## Started 6_pruned_fasta_bs8 on [2:2] 
+End of 14_pruned_fasta_bs2 after 43727ms  (80/1045)
+## Started 6_pruned_fasta_bs7 on [17:17] 
+End of 51_pruned_fasta_bs7 after 50230ms  (81/1045)
+## Started 6_pruned_fasta_bs6 on [18:18] 
+End of 26_pruned_fasta_bs6 after 46693ms  (82/1045)
+## Started 6_pruned_fasta_bs5 on [22:22] 
+End of 26_pruned_fasta_bs1 after 44878ms  (83/1045)
+## Started 6_pruned_fasta_bs4 on [12:12] 
+End of 14_pruned_fasta_bs1 after 44689ms  (84/1045)
+## Started 6_pruned_fasta_bs3 on [36:36] 
+End of 58_pruned_fasta_bs3 after 52494ms  (85/1045)
+## Started 6_pruned_fasta_bs1 on [29:29] 
+End of 26_pruned_fasta_bs4 after 47008ms  (86/1045)
+## Started 6_pruned_fasta_bs0 on [37:37] 
+End of 14_pruned_fasta_bs0 after 46065ms  (87/1045)
+## Started 30_pruned_fasta_bs0 on [10:10] 
+End of 26_pruned_fasta_bs2 after 47677ms  (88/1045)
+## Started 30_pruned_fasta_bs1 on [15:15] 
+End of 14_pruned_fasta_bs4 after 47402ms  (89/1045)
+## Started 30_pruned_fasta_bs2 on [23:23] 
+End of 14_pruned_fasta_bs3 after 47809ms  (90/1045)
+## Started 30_pruned_fasta_bs4 on [32:32] 
+End of 26_pruned_fasta_bs8 after 50576ms  (91/1045)
+## Started 6_pruned_fasta_bs2 on [8:8] 
+End of 14_pruned_fasta_bs6 after 45403ms  (92/1045)
+## Started 87_pruned_fasta_bs7 on [38:38] 
+End of 26_pruned_fasta_bs3 after 50722ms  (93/1045)
+## Started 87_pruned_fasta_bs0 on [25:25] 
+End of 14_pruned_fasta_bs9 after 43793ms  (94/1045)
+## Started 87_pruned_fasta_bs1 on [11:11] 
+End of 14_pruned_fasta_bs5 after 50225ms  (95/1045)
+## Started 87_pruned_fasta_bs2 on [27:27] 
+End of 58_pruned_fasta_bs7 after 54335ms  (96/1045)
+## Started 87_pruned_fasta_bs3 on [33:33] 
+End of 58_pruned_fasta_bs8 after 55089ms  (97/1045)
+## Started 87_pruned_fasta_bs4 on [35:35] 
+End of 14_pruned_fasta_bs8 after 44670ms  (98/1045)
+## Started 87_pruned_fasta_bs5 on [6:6] 
+End of 14_pruned_fasta_bs7 after 42528ms  (99/1045)
+## Started 87_pruned_fasta_bs6 on [34:34] 
+End of 58_pruned_fasta_bs4 after 68333ms  (100/1045)
+## Started 87_pruned_fasta_bs8 on [13:13] 
+End of 30_pruned_fasta_bs8 after 40273ms  (101/1045)
+## Started 87_pruned_fasta_bs9 on [31:31] 
+End of 30_pruned_fasta_bs5 after 44303ms  (102/1045)
+## Started 47_pruned_fasta_bs9 on [14:14] 
+End of 30_pruned_fasta_bs7 after 42094ms  (103/1045)
+## Started 47_pruned_fasta_bs1 on [0:0] 
+End of 30_pruned_fasta_bs6 after 41212ms  (104/1045)
+## Started 47_pruned_fasta_bs2 on [9:9] 
+End of 30_pruned_fasta_bs9 after 40630ms  (105/1045)
+## Started 47_pruned_fasta_bs3 on [24:24] 
+Runner is still alive after 180s
+End of 6_pruned_fasta_bs8 after 36166ms  (106/1045)
+## Started 47_pruned_fasta_bs4 on [2:2] 
+End of 7_pruned_fasta_bs6 after 44877ms  (107/1045)
+## Started 47_pruned_fasta_bs0 on [20:20] 
+End of 7_pruned_fasta_bs0 after 48797ms  (108/1045)
+## Started 47_pruned_fasta_bs5 on [26:26] 
+End of 6_pruned_fasta_bs1 after 36350ms  (109/1045)
+## Started 47_pruned_fasta_bs6 on [29:29] 
+End of 6_pruned_fasta_bs9 after 37740ms  (110/1045)
+## Started 47_pruned_fasta_bs7 on [28:28] 
+End of 7_pruned_fasta_bs8 after 47844ms  (111/1045)
+## Started 47_pruned_fasta_bs8 on [5:5] 
+End of 7_pruned_fasta_bs7 after 48014ms  (112/1045)
+## Started 67_pruned_fasta_bs4 on [4:4] 
+End of 6_pruned_fasta_bs6 after 38885ms  (113/1045)
+## Started 67_pruned_fasta_bs6 on [18:18] 
+End of 6_pruned_fasta_bs5 after 38684ms  (114/1045)
+## Started 67_pruned_fasta_bs5 on [22:22] 
+End of 6_pruned_fasta_bs3 after 38599ms  (115/1045)
+## Started 67_pruned_fasta_bs3 on [36:36] 
+End of 7_pruned_fasta_bs5 after 48553ms  (116/1045)
+## Started 67_pruned_fasta_bs2 on [30:30] 
+End of 7_pruned_fasta_bs1 after 41500ms  (117/1045)
+## Started 67_pruned_fasta_bs1 on [7:7] 
+End of 6_pruned_fasta_bs0 after 39954ms  (118/1045)
+## Started 67_pruned_fasta_bs0 on [37:37] 
+End of 30_pruned_fasta_bs1 after 39572ms  (119/1045)
+## Started 67_pruned_fasta_bs7 on [15:15] 
+End of 7_pruned_fasta_bs4 after 48003ms  (120/1045)
+## Started 67_pruned_fasta_bs8 on [1:1] 
+End of 6_pruned_fasta_bs7 after 44036ms  (121/1045)
+## Started 67_pruned_fasta_bs9 on [17:17] 
+End of 6_pruned_fasta_bs2 after 40286ms  (122/1045)
+## Started 52_pruned_fasta_bs9 on [8:8] 
+End of 6_pruned_fasta_bs4 after 43815ms  (123/1045)
+## Started 52_pruned_fasta_bs5 on [12:12] 
+End of 30_pruned_fasta_bs3 after 45073ms  (124/1045)
+## Started 46_pruned_fasta_bs0 on [16:16] 
+End of 7_pruned_fasta_bs3 after 46621ms  (125/1045)
+## Started 46_pruned_fasta_bs1 on [3:3] 
+End of 30_pruned_fasta_bs0 after 43225ms  (126/1045)
+## Started 46_pruned_fasta_bs2 on [10:10] 
+End of 7_pruned_fasta_bs9 after 56888ms  (127/1045)
+## Started 46_pruned_fasta_bs3 on [19:19] 
+End of 87_pruned_fasta_bs0 after 40717ms  (128/1045)
+## Started 46_pruned_fasta_bs4 on [25:25] 
+End of 87_pruned_fasta_bs3 after 40427ms  (129/1045)
+## Started 72_pruned_fasta_bs0 on [33:33] 
+End of 87_pruned_fasta_bs7 after 43427ms  (130/1045)
+## Started 72_pruned_fasta_bs8 on [38:38] 
+End of 87_pruned_fasta_bs2 after 42963ms  (131/1045)
+## Started 72_pruned_fasta_bs7 on [27:27] 
+End of 87_pruned_fasta_bs1 after 44455ms  (132/1045)
+## Started 72_pruned_fasta_bs6 on [11:11] 
+End of 87_pruned_fasta_bs4 after 42506ms  (133/1045)
+## Started 72_pruned_fasta_bs5 on [35:35] 
+End of 30_pruned_fasta_bs2 after 46878ms  (134/1045)
+## Started 72_pruned_fasta_bs4 on [23:23] 
+End of 30_pruned_fasta_bs4 after 46665ms  (135/1045)
+## Started 72_pruned_fasta_bs3 on [32:32] 
+End of 7_pruned_fasta_bs2 after 55835ms  (136/1045)
+## Started 72_pruned_fasta_bs2 on [21:21] 
+End of 87_pruned_fasta_bs5 after 45302ms  (137/1045)
+## Started 72_pruned_fasta_bs1 on [6:6] 
+End of 87_pruned_fasta_bs6 after 40857ms  (138/1045)
+## Started 52_pruned_fasta_bs8 on [34:34] 
+End of 87_pruned_fasta_bs8 after 43359ms  (139/1045)
+## Started 52_pruned_fasta_bs0 on [13:13] 
+End of 47_pruned_fasta_bs9 after 38991ms  (140/1045)
+## Started 52_pruned_fasta_bs1 on [14:14] 
+End of 87_pruned_fasta_bs9 after 43151ms  (141/1045)
+## Started 52_pruned_fasta_bs2 on [31:31] 
+End of 47_pruned_fasta_bs3 after 37708ms  (142/1045)
+## Started 52_pruned_fasta_bs3 on [24:24] 
+End of 47_pruned_fasta_bs1 after 40070ms  (143/1045)
+## Started 52_pruned_fasta_bs4 on [0:0] 
+End of 67_pruned_fasta_bs5 after 30708ms  (144/1045)
+## Started 72_pruned_fasta_bs9 on [22:22] 
+End of 67_pruned_fasta_bs2 after 31292ms  (145/1045)
+## Started 52_pruned_fasta_bs6 on [30:30] 
+End of 47_pruned_fasta_bs2 after 43542ms  (146/1045)
+## Started 52_pruned_fasta_bs7 on [9:9] 
+End of 67_pruned_fasta_bs4 after 33914ms  (147/1045)
+## Started 46_pruned_fasta_bs6 on [4:4] 
+End of 67_pruned_fasta_bs3 after 32934ms  (148/1045)
+## Started 46_pruned_fasta_bs7 on [36:36] 
+End of 67_pruned_fasta_bs0 after 31403ms  (149/1045)
+## Started 46_pruned_fasta_bs8 on [37:37] 
+End of 67_pruned_fasta_bs1 after 32073ms  (150/1045)
+## Started 46_pruned_fasta_bs9 on [7:7] 
+End of 67_pruned_fasta_bs8 after 30826ms  (151/1045)
+## Started 46_pruned_fasta_bs5 on [1:1] 
+End of 67_pruned_fasta_bs6 after 35346ms  (152/1045)
+## Started 9_pruned_fasta_bs3 on [18:18] 
+End of 67_pruned_fasta_bs9 after 31070ms  (153/1045)
+## Started 9_pruned_fasta_bs0 on [17:17] 
+End of 67_pruned_fasta_bs7 after 33100ms  (154/1045)
+## Started 9_pruned_fasta_bs1 on [15:15] 
+End of 47_pruned_fasta_bs0 after 39456ms  (155/1045)
+## Started 9_pruned_fasta_bs2 on [20:20] 
+End of 47_pruned_fasta_bs7 after 38748ms  (156/1045)
+## Started 9_pruned_fasta_bs4 on [28:28] 
+End of 47_pruned_fasta_bs4 after 41900ms  (157/1045)
+## Started 9_pruned_fasta_bs5 on [2:2] 
+End of 47_pruned_fasta_bs5 after 41587ms  (158/1045)
+## Started 9_pruned_fasta_bs6 on [26:26] 
+End of 47_pruned_fasta_bs8 after 40559ms  (159/1045)
+## Started 9_pruned_fasta_bs8 on [5:5] 
+End of 46_pruned_fasta_bs2 after 34220ms  (160/1045)
+## Started 9_pruned_fasta_bs9 on [10:10] 
+End of 46_pruned_fasta_bs1 after 36399ms  (161/1045)
+## Started 9_pruned_fasta_bs7 on [3:3] 
+End of 47_pruned_fasta_bs6 after 43872ms  (162/1045)
+## Started 99_pruned_fasta_bs5 on [29:29] 
+End of 46_pruned_fasta_bs0 after 38828ms  (163/1045)
+## Started 99_pruned_fasta_bs6 on [16:16] 
+End of 72_pruned_fasta_bs8 after 35190ms  (164/1045)
+## Started 99_pruned_fasta_bs7 on [38:38] 
+End of 46_pruned_fasta_bs3 after 37841ms  (165/1045)
+## Started 99_pruned_fasta_bs8 on [19:19] 
+End of 46_pruned_fasta_bs4 after 38472ms  (166/1045)
+## Started 99_pruned_fasta_bs9 on [25:25] 
+End of 72_pruned_fasta_bs5 after 35873ms  (167/1045)
+## Started 77_pruned_fasta_bs9 on [35:35] 
+End of 72_pruned_fasta_bs0 after 39765ms  (168/1045)
+## Started 77_pruned_fasta_bs8 on [33:33] 
+End of 72_pruned_fasta_bs6 after 37449ms  (169/1045)
+## Started 77_pruned_fasta_bs7 on [11:11] 
+End of 72_pruned_fasta_bs4 after 40611ms  (170/1045)
+## Started 77_pruned_fasta_bs6 on [23:23] 
+End of 72_pruned_fasta_bs3 after 41308ms  (171/1045)
+## Started 77_pruned_fasta_bs5 on [32:32] 
+Runner is still alive after 240s
+End of 72_pruned_fasta_bs7 after 43050ms  (172/1045)
+## Started 77_pruned_fasta_bs4 on [27:27] 
+End of 52_pruned_fasta_bs5 after 50115ms  (173/1045)
+## Started 77_pruned_fasta_bs1 on [12:12] 
+End of 72_pruned_fasta_bs2 after 39943ms  (174/1045)
+## Started 77_pruned_fasta_bs2 on [21:21] 
+End of 52_pruned_fasta_bs9 after 53498ms  (175/1045)
+## Started 77_pruned_fasta_bs3 on [8:8] 
+End of 72_pruned_fasta_bs1 after 42124ms  (176/1045)
+## Started 77_pruned_fasta_bs0 on [6:6] 
+End of 46_pruned_fasta_bs8 after 33457ms  (177/1045)
+## Started 35_pruned_fasta_bs0 on [37:37] 
+End of 46_pruned_fasta_bs7 after 34275ms  (178/1045)
+## Started 35_pruned_fasta_bs1 on [36:36] 
+End of 52_pruned_fasta_bs0 after 44989ms  (179/1045)
+## Started 35_pruned_fasta_bs2 on [13:13] 
+End of 46_pruned_fasta_bs6 after 34862ms  (180/1045)
+## Started 35_pruned_fasta_bs3 on [4:4] 
+End of 46_pruned_fasta_bs9 after 35383ms  (181/1045)
+## Started 35_pruned_fasta_bs4 on [7:7] 
+End of 52_pruned_fasta_bs8 after 50842ms  (182/1045)
+## Started 35_pruned_fasta_bs5 on [34:34] 
+End of 9_pruned_fasta_bs3 after 34853ms  (183/1045)
+## Started 35_pruned_fasta_bs6 on [18:18] 
+End of 52_pruned_fasta_bs4 after 40968ms  (184/1045)
+## Started 35_pruned_fasta_bs7 on [0:0] 
+End of 46_pruned_fasta_bs5 after 37080ms  (185/1045)
+## Started 35_pruned_fasta_bs8 on [1:1] 
+End of 72_pruned_fasta_bs9 after 40669ms  (186/1045)
+## Started 35_pruned_fasta_bs9 on [22:22] 
+End of 9_pruned_fasta_bs9 after 32087ms  (187/1045)
+## Started 99_pruned_fasta_bs4 on [10:10] 
+End of 9_pruned_fasta_bs0 after 36902ms  (188/1045)
+## Started 99_pruned_fasta_bs3 on [17:17] 
+End of 9_pruned_fasta_bs4 after 35984ms  (189/1045)
+## Started 99_pruned_fasta_bs2 on [28:28] 
+End of 52_pruned_fasta_bs2 after 46030ms  (190/1045)
+## Started 99_pruned_fasta_bs1 on [31:31] 
+End of 9_pruned_fasta_bs1 after 37962ms  (191/1045)
+## Started 99_pruned_fasta_bs0 on [15:15] 
+End of 52_pruned_fasta_bs6 after 41844ms  (192/1045)
+## Started 0_pruned_fasta_bs3 on [30:30] 
+End of 99_pruned_fasta_bs5 after 32683ms  (193/1045)
+## Started 0_pruned_fasta_bs0 on [29:29] 
+End of 99_pruned_fasta_bs7 after 30927ms  (194/1045)
+## Started 0_pruned_fasta_bs1 on [38:38] 
+End of 9_pruned_fasta_bs5 after 36872ms  (195/1045)
+## Started 0_pruned_fasta_bs2 on [2:2] 
+End of 99_pruned_fasta_bs6 after 31541ms  (196/1045)
+## Started 0_pruned_fasta_bs9 on [16:16] 
+End of 99_pruned_fasta_bs8 after 30881ms  (197/1045)
+## Started 0_pruned_fasta_bs8 on [19:19] 
+End of 99_pruned_fasta_bs9 after 30738ms  (198/1045)
+## Started 0_pruned_fasta_bs7 on [25:25] 
+End of 9_pruned_fasta_bs2 after 40050ms  (199/1045)
+## Started 0_pruned_fasta_bs6 on [20:20] 
+End of 9_pruned_fasta_bs6 after 38217ms  (200/1045)
+## Started 0_pruned_fasta_bs5 on [26:26] 
+End of 52_pruned_fasta_bs3 after 49957ms  (201/1045)
+## Started 98_pruned_fasta_bs9 on [24:24] 
+End of 52_pruned_fasta_bs1 after 53525ms  (202/1045)
+## Started 98_pruned_fasta_bs8 on [14:14] 
+End of 77_pruned_fasta_bs8 after 31518ms  (203/1045)
+## Started 98_pruned_fasta_bs7 on [33:33] 
+End of 52_pruned_fasta_bs7 after 46673ms  (204/1045)
+## Started 98_pruned_fasta_bs6 on [9:9] 
+End of 9_pruned_fasta_bs8 after 40850ms  (205/1045)
+## Started 98_pruned_fasta_bs5 on [5:5] 
+End of 77_pruned_fasta_bs9 after 34808ms  (206/1045)
+## Started 98_pruned_fasta_bs4 on [35:35] 
+End of 9_pruned_fasta_bs7 after 40566ms  (207/1045)
+## Started 98_pruned_fasta_bs3 on [3:3] 
+End of 77_pruned_fasta_bs5 after 32839ms  (208/1045)
+## Started 98_pruned_fasta_bs1 on [32:32] 
+End of 77_pruned_fasta_bs7 after 38076ms  (209/1045)
+## Started 98_pruned_fasta_bs0 on [11:11] 
+End of 77_pruned_fasta_bs6 after 35429ms  (210/1045)
+## Started 0_pruned_fasta_bs4 on [23:23] 
+End of 77_pruned_fasta_bs2 after 34024ms  (211/1045)
+## Started 98_pruned_fasta_bs2 on [21:21] 
+End of 77_pruned_fasta_bs1 after 34538ms  (212/1045)
+## Started 54_pruned_fasta_bs9 on [12:12] 
+End of 77_pruned_fasta_bs4 after 37305ms  (213/1045)
+## Started 54_pruned_fasta_bs8 on [27:27] 
+End of 77_pruned_fasta_bs3 after 32223ms  (214/1045)
+## Started 54_pruned_fasta_bs7 on [8:8] 
+End of 35_pruned_fasta_bs1 after 30497ms  (215/1045)
+## Started 54_pruned_fasta_bs6 on [36:36] 
+End of 35_pruned_fasta_bs4 after 30222ms  (216/1045)
+## Started 54_pruned_fasta_bs5 on [7:7] 
+End of 0_pruned_fasta_bs3 after 25072ms  (217/1045)
+## Started 54_pruned_fasta_bs4 on [30:30] 
+End of 35_pruned_fasta_bs0 after 33147ms  (218/1045)
+## Started 54_pruned_fasta_bs3 on [37:37] 
+End of 35_pruned_fasta_bs9 after 29185ms  (219/1045)
+## Started 54_pruned_fasta_bs2 on [22:22] 
+End of 35_pruned_fasta_bs8 after 29404ms  (220/1045)
+## Started 54_pruned_fasta_bs1 on [1:1] 
+End of 35_pruned_fasta_bs6 after 31019ms  (221/1045)
+## Started 54_pruned_fasta_bs0 on [18:18] 
+End of 0_pruned_fasta_bs5 after 24015ms  (222/1045)
+## Started 86_pruned_fasta_bs9 on [26:26] 
+End of 0_pruned_fasta_bs1 after 26031ms  (223/1045)
+## Started 86_pruned_fasta_bs8 on [38:38] 
+End of 99_pruned_fasta_bs2 after 28290ms  (224/1045)
+## Started 86_pruned_fasta_bs0 on [28:28] 
+End of 35_pruned_fasta_bs2 after 33713ms  (225/1045)
+## Started 86_pruned_fasta_bs1 on [13:13] 
+End of 35_pruned_fasta_bs7 after 31720ms  (226/1045)
+## Started 86_pruned_fasta_bs2 on [0:0] 
+End of 0_pruned_fasta_bs8 after 25878ms  (227/1045)
+## Started 86_pruned_fasta_bs3 on [19:19] 
+End of 0_pruned_fasta_bs2 after 26297ms  (228/1045)
+## Started 86_pruned_fasta_bs4 on [2:2] 
+End of 0_pruned_fasta_bs6 after 25525ms  (229/1045)
+## Started 86_pruned_fasta_bs5 on [20:20] 
+End of 77_pruned_fasta_bs0 after 43145ms  (230/1045)
+## Started 86_pruned_fasta_bs6 on [6:6] 
+End of 0_pruned_fasta_bs9 after 26489ms  (231/1045)
+## Started 86_pruned_fasta_bs7 on [16:16] 
+End of 35_pruned_fasta_bs5 after 32813ms  (232/1045)
+## Started 55_pruned_fasta_bs2 on [34:34] 
+End of 35_pruned_fasta_bs3 after 34313ms  (233/1045)
+## Started 55_pruned_fasta_bs3 on [4:4] 
+End of 0_pruned_fasta_bs0 after 27868ms  (234/1045)
+## Started 55_pruned_fasta_bs0 on [29:29] 
+End of 99_pruned_fasta_bs3 after 30490ms  (235/1045)
+## Started 43_pruned_fasta_bs3 on [17:17] 
+End of 99_pruned_fasta_bs4 after 31469ms  (236/1045)
+## Started 43_pruned_fasta_bs4 on [10:10] 
+End of 99_pruned_fasta_bs1 after 30808ms  (237/1045)
+## Started 55_pruned_fasta_bs5 on [31:31] 
+End of 98_pruned_fasta_bs8 after 27314ms  (238/1045)
+## Started 43_pruned_fasta_bs0 on [14:14] 
+End of 99_pruned_fasta_bs0 after 31694ms  (239/1045)
+## Started 43_pruned_fasta_bs1 on [15:15] 
+End of 0_pruned_fasta_bs7 after 29594ms  (240/1045)
+## Started 43_pruned_fasta_bs2 on [25:25] 
+End of 98_pruned_fasta_bs6 after 27738ms  (241/1045)
+## Started 55_pruned_fasta_bs4 on [9:9] 
+End of 98_pruned_fasta_bs9 after 29859ms  (242/1045)
+## Started 43_pruned_fasta_bs9 on [24:24] 
+End of 98_pruned_fasta_bs4 after 27376ms  (243/1045)
+## Started 55_pruned_fasta_bs1 on [35:35] 
+End of 98_pruned_fasta_bs7 after 29965ms  (244/1045)
+## Started 43_pruned_fasta_bs8 on [33:33] 
+End of 98_pruned_fasta_bs5 after 29674ms  (245/1045)
+## Started 43_pruned_fasta_bs7 on [5:5] 
+End of 98_pruned_fasta_bs3 after 29867ms  (246/1045)
+## Started 43_pruned_fasta_bs6 on [3:3] 
+Runner is still alive after 300s
+End of 0_pruned_fasta_bs4 after 25698ms  (247/1045)
+## Started 43_pruned_fasta_bs5 on [23:23] 
+End of 98_pruned_fasta_bs1 after 28670ms  (248/1045)
+## Started 55_pruned_fasta_bs9 on [32:32] 
+End of 98_pruned_fasta_bs0 after 29028ms  (249/1045)
+## Started 55_pruned_fasta_bs8 on [11:11] 
+End of 54_pruned_fasta_bs9 after 27148ms  (250/1045)
+## Started 55_pruned_fasta_bs7 on [12:12] 
+End of 54_pruned_fasta_bs7 after 28360ms  (251/1045)
+## Started 55_pruned_fasta_bs6 on [8:8] 
+End of 54_pruned_fasta_bs8 after 30045ms  (252/1045)
+## Started 88_pruned_fasta_bs7 on [27:27] 
+End of 98_pruned_fasta_bs2 after 32135ms  (253/1045)
+## Started 88_pruned_fasta_bs6 on [21:21] 
+End of 54_pruned_fasta_bs6 after 27774ms  (254/1045)
+## Started 88_pruned_fasta_bs5 on [36:36] 
+End of 54_pruned_fasta_bs5 after 27210ms  (255/1045)
+## Started 88_pruned_fasta_bs4 on [7:7] 
+End of 86_pruned_fasta_bs0 after 25539ms  (256/1045)
+## Started 88_pruned_fasta_bs3 on [28:28] 
+End of 86_pruned_fasta_bs3 after 25317ms  (257/1045)
+## Started 88_pruned_fasta_bs2 on [19:19] 
+End of 55_pruned_fasta_bs3 after 25056ms  (258/1045)
+## Started 88_pruned_fasta_bs1 on [4:4] 
+End of 86_pruned_fasta_bs8 after 27247ms  (259/1045)
+## Started 88_pruned_fasta_bs0 on [38:38] 
+End of 86_pruned_fasta_bs7 after 26446ms  (260/1045)
+## Started 88_pruned_fasta_bs8 on [16:16] 
+End of 86_pruned_fasta_bs6 after 26942ms  (261/1045)
+## Started 88_pruned_fasta_bs9 on [6:6] 
+End of 86_pruned_fasta_bs5 after 27033ms  (262/1045)
+## Started 61_pruned_fasta_bs9 on [20:20] 
+End of 86_pruned_fasta_bs4 after 27272ms  (263/1045)
+## Started 61_pruned_fasta_bs0 on [2:2] 
+End of 54_pruned_fasta_bs4 after 30026ms  (264/1045)
+## Started 61_pruned_fasta_bs1 on [30:30] 
+End of 86_pruned_fasta_bs9 after 28537ms  (265/1045)
+## Started 61_pruned_fasta_bs2 on [26:26] 
+End of 54_pruned_fasta_bs3 after 29673ms  (266/1045)
+## Started 61_pruned_fasta_bs3 on [37:37] 
+End of 55_pruned_fasta_bs2 after 27654ms  (267/1045)
+## Started 61_pruned_fasta_bs4 on [34:34] 
+End of 55_pruned_fasta_bs0 after 27512ms  (268/1045)
+## Started 61_pruned_fasta_bs5 on [29:29] 
+End of 86_pruned_fasta_bs1 after 28803ms  (269/1045)
+## Started 61_pruned_fasta_bs6 on [13:13] 
+End of 43_pruned_fasta_bs3 after 27520ms  (270/1045)
+## Started 61_pruned_fasta_bs7 on [17:17] 
+End of 54_pruned_fasta_bs1 after 30063ms  (271/1045)
+## Started 61_pruned_fasta_bs8 on [1:1] 
+End of 86_pruned_fasta_bs2 after 29381ms  (272/1045)
+## Started 69_pruned_fasta_bs9 on [0:0] 
+End of 43_pruned_fasta_bs4 after 27366ms  (273/1045)
+## Started 69_pruned_fasta_bs0 on [10:10] 
+End of 55_pruned_fasta_bs5 after 26969ms  (274/1045)
+## Started 69_pruned_fasta_bs8 on [31:31] 
+End of 54_pruned_fasta_bs0 after 30462ms  (275/1045)
+## Started 2_pruned_fasta_bs0 on [18:18] 
+End of 54_pruned_fasta_bs2 after 30877ms  (276/1045)
+## Started 69_pruned_fasta_bs1 on [22:22] 
+End of 43_pruned_fasta_bs2 after 26522ms  (277/1045)
+## Started 69_pruned_fasta_bs2 on [25:25] 
+End of 43_pruned_fasta_bs9 after 25232ms  (278/1045)
+## Started 69_pruned_fasta_bs3 on [24:24] 
+End of 43_pruned_fasta_bs0 after 27371ms  (279/1045)
+## Started 69_pruned_fasta_bs4 on [14:14] 
+End of 43_pruned_fasta_bs1 after 27929ms  (280/1045)
+## Started 69_pruned_fasta_bs5 on [15:15] 
+End of 43_pruned_fasta_bs8 after 25939ms  (281/1045)
+## Started 69_pruned_fasta_bs6 on [33:33] 
+End of 43_pruned_fasta_bs7 after 25295ms  (282/1045)
+## Started 69_pruned_fasta_bs7 on [5:5] 
+End of 55_pruned_fasta_bs1 after 27200ms  (283/1045)
+## Started 2_pruned_fasta_bs1 on [35:35] 
+End of 55_pruned_fasta_bs4 after 29740ms  (284/1045)
+## Started 40_pruned_fasta_bs0 on [9:9] 
+End of 43_pruned_fasta_bs6 after 26212ms  (285/1045)
+## Started 40_pruned_fasta_bs1 on [3:3] 
+End of 43_pruned_fasta_bs5 after 25898ms  (286/1045)
+## Started 40_pruned_fasta_bs2 on [23:23] 
+End of 55_pruned_fasta_bs9 after 26904ms  (287/1045)
+## Started 40_pruned_fasta_bs3 on [32:32] 
+End of 55_pruned_fasta_bs8 after 26636ms  (288/1045)
+## Started 40_pruned_fasta_bs4 on [11:11] 
+End of 55_pruned_fasta_bs6 after 24516ms  (289/1045)
+## Started 40_pruned_fasta_bs5 on [8:8] 
+End of 55_pruned_fasta_bs7 after 27858ms  (290/1045)
+## Started 40_pruned_fasta_bs6 on [12:12] 
+End of 88_pruned_fasta_bs7 after 25297ms  (291/1045)
+## Started 40_pruned_fasta_bs7 on [27:27] 
+End of 88_pruned_fasta_bs6 after 26784ms  (292/1045)
+## Started 40_pruned_fasta_bs8 on [21:21] 
+End of 61_pruned_fasta_bs0 after 20631ms  (293/1045)
+## Started 40_pruned_fasta_bs9 on [2:2] 
+End of 61_pruned_fasta_bs3 after 20286ms  (294/1045)
+## Started 2_pruned_fasta_bs2 on [37:37] 
+End of 61_pruned_fasta_bs2 after 20975ms  (295/1045)
+## Started 2_pruned_fasta_bs3 on [26:26] 
+End of 61_pruned_fasta_bs8 after 19884ms  (296/1045)
+## Started 2_pruned_fasta_bs4 on [1:1] 
+End of 61_pruned_fasta_bs6 after 20976ms  (297/1045)
+## Started 2_pruned_fasta_bs5 on [13:13] 
+End of 61_pruned_fasta_bs1 after 22030ms  (298/1045)
+## Started 2_pruned_fasta_bs6 on [30:30] 
+End of 61_pruned_fasta_bs9 after 22644ms  (299/1045)
+## Started 2_pruned_fasta_bs7 on [20:20] 
+End of 61_pruned_fasta_bs5 after 21612ms  (300/1045)
+## Started 2_pruned_fasta_bs8 on [29:29] 
+End of 61_pruned_fasta_bs4 after 22437ms  (301/1045)
+## Started 2_pruned_fasta_bs9 on [34:34] 
+End of 88_pruned_fasta_bs1 after 25560ms  (302/1045)
+## Started 10_pruned_fasta_bs0 on [4:4] 
+End of 61_pruned_fasta_bs7 after 22298ms  (303/1045)
+## Started 66_pruned_fasta_bs1 on [17:17] 
+End of 88_pruned_fasta_bs5 after 28285ms  (304/1045)
+## Started 66_pruned_fasta_bs0 on [36:36] 
+End of 88_pruned_fasta_bs2 after 27087ms  (305/1045)
+## Started 10_pruned_fasta_bs9 on [19:19] 
+End of 88_pruned_fasta_bs0 after 25798ms  (306/1045)
+## Started 10_pruned_fasta_bs8 on [38:38] 
+End of 88_pruned_fasta_bs8 after 26009ms  (307/1045)
+## Started 10_pruned_fasta_bs7 on [16:16] 
+End of 69_pruned_fasta_bs8 after 23677ms  (308/1045)
+## Started 10_pruned_fasta_bs6 on [31:31] 
+End of 88_pruned_fasta_bs3 after 28000ms  (309/1045)
+## Started 10_pruned_fasta_bs5 on [28:28] 
+End of 2_pruned_fasta_bs0 after 23904ms  (310/1045)
+## Started 10_pruned_fasta_bs4 on [18:18] 
+End of 88_pruned_fasta_bs4 after 28846ms  (311/1045)
+## Started 10_pruned_fasta_bs3 on [7:7] 
+End of 88_pruned_fasta_bs9 after 26399ms  (312/1045)
+## Started 10_pruned_fasta_bs2 on [6:6] 
+End of 69_pruned_fasta_bs9 after 25650ms  (313/1045)
+## Started 66_pruned_fasta_bs9 on [0:0] 
+End of 69_pruned_fasta_bs5 after 23609ms  (314/1045)
+## Started 66_pruned_fasta_bs8 on [15:15] 
+End of 69_pruned_fasta_bs3 after 24579ms  (315/1045)
+## Started 66_pruned_fasta_bs7 on [24:24] 
+End of 69_pruned_fasta_bs0 after 27319ms  (316/1045)
+## Started 66_pruned_fasta_bs6 on [10:10] 
+End of 69_pruned_fasta_bs4 after 25413ms  (317/1045)
+## Started 66_pruned_fasta_bs5 on [14:14] 
+End of 69_pruned_fasta_bs2 after 26083ms  (318/1045)
+## Started 66_pruned_fasta_bs4 on [25:25] 
+End of 69_pruned_fasta_bs7 after 23316ms  (319/1045)
+## Started 66_pruned_fasta_bs3 on [5:5] 
+End of 40_pruned_fasta_bs0 after 21872ms  (320/1045)
+## Started 66_pruned_fasta_bs2 on [9:9] 
+End of 69_pruned_fasta_bs1 after 27882ms  (321/1045)
+## Started 10_pruned_fasta_bs1 on [22:22] 
+End of 69_pruned_fasta_bs6 after 24368ms  (322/1045)
+## Started 81_pruned_fasta_bs1 on [33:33] 
+End of 40_pruned_fasta_bs2 after 21666ms  (323/1045)
+## Started 81_pruned_fasta_bs2 on [23:23] 
+End of 2_pruned_fasta_bs1 after 24135ms  (324/1045)
+## Started 81_pruned_fasta_bs3 on [35:35] 
+End of 40_pruned_fasta_bs1 after 22089ms  (325/1045)
+## Started 81_pruned_fasta_bs4 on [3:3] 
+End of 40_pruned_fasta_bs4 after 20552ms  (326/1045)
+## Started 21_pruned_fasta_bs5 on [11:11] 
+End of 40_pruned_fasta_bs3 after 22951ms  (327/1045)
+## Started 81_pruned_fasta_bs5 on [32:32] 
+End of 40_pruned_fasta_bs5 after 21973ms  (328/1045)
+## Started 81_pruned_fasta_bs6 on [8:8] 
+End of 40_pruned_fasta_bs6 after 21040ms  (329/1045)
+## Started 81_pruned_fasta_bs7 on [12:12] 
+End of 40_pruned_fasta_bs8 after 19859ms  (330/1045)
+## Started 81_pruned_fasta_bs8 on [21:21] 
+End of 40_pruned_fasta_bs7 after 22324ms  (331/1045)
+## Started 81_pruned_fasta_bs9 on [27:27] 
+End of 40_pruned_fasta_bs9 after 21226ms  (332/1045)
+## Started 21_pruned_fasta_bs9 on [2:2] 
+End of 66_pruned_fasta_bs1 after 19858ms  (333/1045)
+## Started 21_pruned_fasta_bs8 on [17:17] 
+Runner is still alive after 360s
+End of 10_pruned_fasta_bs0 after 20965ms  (334/1045)
+## Started 21_pruned_fasta_bs7 on [4:4] 
+End of 2_pruned_fasta_bs2 after 24030ms  (335/1045)
+## Started 21_pruned_fasta_bs6 on [37:37] 
+End of 2_pruned_fasta_bs5 after 23280ms  (336/1045)
+## Started 21_pruned_fasta_bs4 on [13:13] 
+End of 10_pruned_fasta_bs9 after 21342ms  (337/1045)
+## Started 21_pruned_fasta_bs3 on [19:19] 
+End of 10_pruned_fasta_bs6 after 20670ms  (338/1045)
+## Started 21_pruned_fasta_bs2 on [31:31] 
+End of 66_pruned_fasta_bs0 after 21535ms  (339/1045)
+## Started 21_pruned_fasta_bs1 on [36:36] 
+End of 10_pruned_fasta_bs7 after 21154ms  (340/1045)
+## Started 21_pruned_fasta_bs0 on [16:16] 
+End of 10_pruned_fasta_bs2 after 20597ms  (341/1045)
+## Started 81_pruned_fasta_bs0 on [6:6] 
+End of 10_pruned_fasta_bs8 after 21976ms  (342/1045)
+## Started 27_pruned_fasta_bs4 on [38:38] 
+End of 10_pruned_fasta_bs5 after 21851ms  (343/1045)
+## Started 27_pruned_fasta_bs0 on [28:28] 
+End of 10_pruned_fasta_bs3 after 21408ms  (344/1045)
+## Started 27_pruned_fasta_bs1 on [7:7] 
+End of 10_pruned_fasta_bs4 after 22414ms  (345/1045)
+## Started 27_pruned_fasta_bs2 on [18:18] 
+End of 2_pruned_fasta_bs3 after 27142ms  (346/1045)
+## Started 27_pruned_fasta_bs3 on [26:26] 
+End of 2_pruned_fasta_bs6 after 26444ms  (347/1045)
+## Started 27_pruned_fasta_bs5 on [30:30] 
+End of 2_pruned_fasta_bs4 after 27431ms  (348/1045)
+## Started 27_pruned_fasta_bs6 on [1:1] 
+End of 2_pruned_fasta_bs8 after 26845ms  (349/1045)
+## Started 27_pruned_fasta_bs7 on [29:29] 
+End of 2_pruned_fasta_bs9 after 26578ms  (350/1045)
+## Started 27_pruned_fasta_bs8 on [34:34] 
+End of 81_pruned_fasta_bs4 after 18310ms  (351/1045)
+## Started 27_pruned_fasta_bs9 on [3:3] 
+End of 81_pruned_fasta_bs2 after 18540ms  (352/1045)
+## Started 39_pruned_fasta_bs1 on [23:23] 
+End of 66_pruned_fasta_bs5 after 20884ms  (353/1045)
+## Started 4_pruned_fasta_bs2 on [14:14] 
+End of 66_pruned_fasta_bs8 after 22169ms  (354/1045)
+## Started 4_pruned_fasta_bs3 on [15:15] 
+End of 81_pruned_fasta_bs1 after 20465ms  (355/1045)
+## Started 4_pruned_fasta_bs4 on [33:33] 
+End of 81_pruned_fasta_bs3 after 19708ms  (356/1045)
+## Started 4_pruned_fasta_bs5 on [35:35] 
+End of 66_pruned_fasta_bs2 after 21766ms  (357/1045)
+## Started 4_pruned_fasta_bs6 on [9:9] 
+End of 66_pruned_fasta_bs3 after 21919ms  (358/1045)
+## Started 4_pruned_fasta_bs7 on [5:5] 
+End of 66_pruned_fasta_bs7 after 23485ms  (359/1045)
+## Started 4_pruned_fasta_bs8 on [24:24] 
+End of 2_pruned_fasta_bs7 after 29931ms  (360/1045)
+## Started 4_pruned_fasta_bs9 on [20:20] 
+End of 21_pruned_fasta_bs5 after 19074ms  (361/1045)
+## Started 39_pruned_fasta_bs0 on [11:11] 
+End of 10_pruned_fasta_bs1 after 22459ms  (362/1045)
+## Started 4_pruned_fasta_bs1 on [22:22] 
+End of 66_pruned_fasta_bs9 after 25254ms  (363/1045)
+## Started 39_pruned_fasta_bs2 on [0:0] 
+End of 81_pruned_fasta_bs5 after 18008ms  (364/1045)
+## Started 39_pruned_fasta_bs3 on [32:32] 
+End of 66_pruned_fasta_bs6 after 23927ms  (365/1045)
+## Started 39_pruned_fasta_bs4 on [10:10] 
+End of 66_pruned_fasta_bs4 after 23830ms  (366/1045)
+## Started 39_pruned_fasta_bs5 on [25:25] 
+End of 81_pruned_fasta_bs7 after 18246ms  (367/1045)
+## Started 39_pruned_fasta_bs6 on [12:12] 
+End of 81_pruned_fasta_bs6 after 18659ms  (368/1045)
+## Started 39_pruned_fasta_bs7 on [8:8] 
+End of 81_pruned_fasta_bs8 after 17211ms  (369/1045)
+## Started 39_pruned_fasta_bs8 on [21:21] 
+End of 81_pruned_fasta_bs9 after 18049ms  (370/1045)
+## Started 39_pruned_fasta_bs9 on [27:27] 
+End of 21_pruned_fasta_bs9 after 17287ms  (371/1045)
+## Started 4_pruned_fasta_bs0 on [2:2] 
+End of 21_pruned_fasta_bs8 after 19635ms  (372/1045)
+## Started 97_pruned_fasta_bs0 on [17:17] 
+End of 21_pruned_fasta_bs4 after 18868ms  (373/1045)
+## Started 97_pruned_fasta_bs1 on [13:13] 
+End of 21_pruned_fasta_bs7 after 19597ms  (374/1045)
+## Started 97_pruned_fasta_bs2 on [4:4] 
+End of 21_pruned_fasta_bs0 after 17652ms  (375/1045)
+## Started 97_pruned_fasta_bs3 on [16:16] 
+End of 81_pruned_fasta_bs0 after 17819ms  (376/1045)
+## Started 97_pruned_fasta_bs4 on [6:6] 
+End of 21_pruned_fasta_bs6 after 19824ms  (377/1045)
+## Started 97_pruned_fasta_bs5 on [37:37] 
+End of 21_pruned_fasta_bs2 after 18988ms  (378/1045)
+## Started 97_pruned_fasta_bs6 on [31:31] 
+End of 27_pruned_fasta_bs4 after 18140ms  (379/1045)
+## Started 97_pruned_fasta_bs7 on [38:38] 
+End of 4_pruned_fasta_bs4 after 14700ms  (380/1045)
+## Started 97_pruned_fasta_bs8 on [33:33] 
+End of 27_pruned_fasta_bs1 after 18061ms  (381/1045)
+## Started 97_pruned_fasta_bs9 on [7:7] 
+End of 21_pruned_fasta_bs3 after 19467ms  (382/1045)
+## Started 22_pruned_fasta_bs6 on [19:19] 
+End of 27_pruned_fasta_bs0 after 18237ms  (383/1045)
+## Started 22_pruned_fasta_bs7 on [28:28] 
+End of 4_pruned_fasta_bs3 after 15722ms  (384/1045)
+## Started 22_pruned_fasta_bs3 on [15:15] 
+End of 27_pruned_fasta_bs3 after 17656ms  (385/1045)
+## Started 22_pruned_fasta_bs8 on [26:26] 
+End of 27_pruned_fasta_bs6 after 17355ms  (386/1045)
+## Started 22_pruned_fasta_bs9 on [1:1] 
+End of 4_pruned_fasta_bs7 after 14924ms  (387/1045)
+## Started 22_pruned_fasta_bs2 on [5:5] 
+End of 4_pruned_fasta_bs6 after 15040ms  (388/1045)
+## Started 22_pruned_fasta_bs5 on [9:9] 
+End of 4_pruned_fasta_bs2 after 16349ms  (389/1045)
+## Started 22_pruned_fasta_bs4 on [14:14] 
+End of 27_pruned_fasta_bs7 after 17427ms  (390/1045)
+## Started 22_pruned_fasta_bs1 on [29:29] 
+End of 4_pruned_fasta_bs5 after 15816ms  (391/1045)
+## Started 22_pruned_fasta_bs0 on [35:35] 
+End of 27_pruned_fasta_bs5 after 18163ms  (392/1045)
+## Started 53_pruned_fasta_bs9 on [30:30] 
+End of 27_pruned_fasta_bs2 after 18713ms  (393/1045)
+## Started 34_pruned_fasta_bs0 on [18:18] 
+End of 4_pruned_fasta_bs8 after 15501ms  (394/1045)
+## Started 34_pruned_fasta_bs1 on [24:24] 
+End of 4_pruned_fasta_bs9 after 14797ms  (395/1045)
+## Started 34_pruned_fasta_bs2 on [20:20] 
+End of 21_pruned_fasta_bs1 after 21044ms  (396/1045)
+## Started 34_pruned_fasta_bs6 on [36:36] 
+End of 39_pruned_fasta_bs1 after 17868ms  (397/1045)
+## Started 34_pruned_fasta_bs3 on [23:23] 
+End of 27_pruned_fasta_bs8 after 18295ms  (398/1045)
+## Started 34_pruned_fasta_bs4 on [34:34] 
+End of 27_pruned_fasta_bs9 after 19297ms  (399/1045)
+## Started 34_pruned_fasta_bs5 on [3:3] 
+End of 4_pruned_fasta_bs1 after 16680ms  (400/1045)
+## Started 53_pruned_fasta_bs0 on [22:22] 
+End of 39_pruned_fasta_bs2 after 17625ms  (401/1045)
+## Started 53_pruned_fasta_bs8 on [0:0] 
+End of 39_pruned_fasta_bs3 after 17474ms  (402/1045)
+## Started 53_pruned_fasta_bs7 on [32:32] 
+End of 39_pruned_fasta_bs0 after 19733ms  (403/1045)
+## Started 53_pruned_fasta_bs6 on [11:11] 
+End of 39_pruned_fasta_bs4 after 19460ms  (404/1045)
+## Started 53_pruned_fasta_bs5 on [10:10] 
+End of 39_pruned_fasta_bs5 after 19924ms  (405/1045)
+## Started 53_pruned_fasta_bs4 on [25:25] 
+End of 39_pruned_fasta_bs6 after 18308ms  (406/1045)
+## Started 53_pruned_fasta_bs3 on [12:12] 
+End of 4_pruned_fasta_bs0 after 14688ms  (407/1045)
+## Started 53_pruned_fasta_bs2 on [2:2] 
+End of 39_pruned_fasta_bs7 after 18936ms  (408/1045)
+## Started 53_pruned_fasta_bs1 on [8:8] 
+End of 39_pruned_fasta_bs9 after 18616ms  (409/1045)
+## Started 34_pruned_fasta_bs8 on [27:27] 
+End of 39_pruned_fasta_bs8 after 19661ms  (410/1045)
+## Started 34_pruned_fasta_bs9 on [21:21] 
+End of 97_pruned_fasta_bs0 after 15447ms  (411/1045)
+## Started 34_pruned_fasta_bs7 on [17:17] 
+End of 97_pruned_fasta_bs2 after 14823ms  (412/1045)
+## Started 8_pruned_fasta_bs2 on [4:4] 
+End of 97_pruned_fasta_bs8 after 15274ms  (413/1045)
+## Started 65_pruned_fasta_bs0 on [33:33] 
+End of 97_pruned_fasta_bs4 after 16323ms  (414/1045)
+## Started 65_pruned_fasta_bs1 on [6:6] 
+End of 22_pruned_fasta_bs7 after 15351ms  (415/1045)
+## Started 65_pruned_fasta_bs2 on [28:28] 
+End of 97_pruned_fasta_bs1 after 17005ms  (416/1045)
+## Started 65_pruned_fasta_bs3 on [13:13] 
+End of 97_pruned_fasta_bs7 after 15915ms  (417/1045)
+## Started 65_pruned_fasta_bs4 on [38:38] 
+End of 97_pruned_fasta_bs6 after 16113ms  (418/1045)
+## Started 65_pruned_fasta_bs5 on [31:31] 
+End of 97_pruned_fasta_bs3 after 17163ms  (419/1045)
+## Started 65_pruned_fasta_bs6 on [16:16] 
+End of 97_pruned_fasta_bs5 after 16788ms  (420/1045)
+## Started 8_pruned_fasta_bs3 on [37:37] 
+End of 22_pruned_fasta_bs2 after 15786ms  (421/1045)
+## Started 8_pruned_fasta_bs4 on [5:5] 
+End of 97_pruned_fasta_bs9 after 16481ms  (422/1045)
+## Started 8_pruned_fasta_bs6 on [7:7] 
+End of 22_pruned_fasta_bs6 after 16737ms  (423/1045)
+## Started 8_pruned_fasta_bs5 on [19:19] 
+End of 22_pruned_fasta_bs5 after 16180ms  (424/1045)
+## Started 8_pruned_fasta_bs7 on [9:9] 
+End of 22_pruned_fasta_bs1 after 15907ms  (425/1045)
+## Started 8_pruned_fasta_bs8 on [29:29] 
+End of 22_pruned_fasta_bs3 after 16703ms  (426/1045)
+## Started 8_pruned_fasta_bs9 on [15:15] 
+End of 22_pruned_fasta_bs4 after 16412ms  (427/1045)
+## Started 65_pruned_fasta_bs7 on [14:14] 
+End of 22_pruned_fasta_bs9 after 16806ms  (428/1045)
+## Started 65_pruned_fasta_bs8 on [1:1] 
+End of 22_pruned_fasta_bs0 after 16291ms  (429/1045)
+## Started 8_pruned_fasta_bs0 on [35:35] 
+End of 34_pruned_fasta_bs6 after 16518ms  (430/1045)
+## Started 8_pruned_fasta_bs1 on [36:36] 
+End of 34_pruned_fasta_bs4 after 16242ms  (431/1045)
+## Started 65_pruned_fasta_bs9 on [34:34] 
+End of 34_pruned_fasta_bs2 after 17115ms  (432/1045)
+## Started 93_pruned_fasta_bs5 on [20:20] 
+End of 53_pruned_fasta_bs9 after 17347ms  (433/1045)
+## Started 93_pruned_fasta_bs4 on [30:30] 
+End of 34_pruned_fasta_bs3 after 16920ms  (434/1045)
+## Started 93_pruned_fasta_bs3 on [23:23] 
+End of 22_pruned_fasta_bs8 after 18527ms  (435/1045)
+## Started 93_pruned_fasta_bs2 on [26:26] 
+End of 34_pruned_fasta_bs0 after 18401ms  (436/1045)
+## Started 1_pruned_fasta_bs9 on [18:18] 
+End of 34_pruned_fasta_bs1 after 18633ms  (437/1045)
+## Started 93_pruned_fasta_bs1 on [24:24] 
+End of 34_pruned_fasta_bs5 after 17551ms  (438/1045)
+## Started 93_pruned_fasta_bs0 on [3:3] 
+End of 53_pruned_fasta_bs0 after 18032ms  (439/1045)
+## Started 1_pruned_fasta_bs2 on [22:22] 
+End of 53_pruned_fasta_bs8 after 17410ms  (440/1045)
+## Started 18_pruned_fasta_bs6 on [0:0] 
+End of 53_pruned_fasta_bs7 after 17666ms  (441/1045)
+## Started 1_pruned_fasta_bs4 on [32:32] 
+End of 53_pruned_fasta_bs6 after 17292ms  (442/1045)
+## Started 18_pruned_fasta_bs0 on [11:11] 
+End of 53_pruned_fasta_bs5 after 17377ms  (443/1045)
+## Started 18_pruned_fasta_bs9 on [10:10] 
+End of 53_pruned_fasta_bs2 after 17443ms  (444/1045)
+## Started 18_pruned_fasta_bs7 on [2:2] 
+End of 53_pruned_fasta_bs1 after 17520ms  (445/1045)
+## Started 18_pruned_fasta_bs8 on [8:8] 
+End of 53_pruned_fasta_bs4 after 18799ms  (446/1045)
+## Started 1_pruned_fasta_bs8 on [25:25] 
+End of 53_pruned_fasta_bs3 after 18667ms  (447/1045)
+## Started 1_pruned_fasta_bs5 on [12:12] 
+End of 8_pruned_fasta_bs2 after 13680ms  (448/1045)
+## Started 1_pruned_fasta_bs6 on [4:4] 
+End of 34_pruned_fasta_bs8 after 17600ms  (449/1045)
+## Started 1_pruned_fasta_bs7 on [27:27] 
+End of 34_pruned_fasta_bs9 after 18704ms  (450/1045)
+## Started 1_pruned_fasta_bs1 on [21:21] 
+End of 34_pruned_fasta_bs7 after 17108ms  (451/1045)
+## Started 18_pruned_fasta_bs1 on [17:17] 
+End of 8_pruned_fasta_bs3 after 14770ms  (452/1045)
+## Started 18_pruned_fasta_bs2 on [37:37] 
+End of 8_pruned_fasta_bs8 after 14149ms  (453/1045)
+## Started 1_pruned_fasta_bs0 on [29:29] 
+End of 65_pruned_fasta_bs3 after 15808ms  (454/1045)
+## Started 93_pruned_fasta_bs6 on [13:13] 
+End of 8_pruned_fasta_bs5 after 14714ms  (455/1045)
+## Started 18_pruned_fasta_bs3 on [19:19] 
+End of 8_pruned_fasta_bs0 after 14189ms  (456/1045)
+## Started 18_pruned_fasta_bs4 on [35:35] 
+End of 8_pruned_fasta_bs6 after 15575ms  (457/1045)
+## Started 1_pruned_fasta_bs3 on [7:7] 
+End of 65_pruned_fasta_bs2 after 16721ms  (458/1045)
+## Started 18_pruned_fasta_bs5 on [28:28] 
+End of 8_pruned_fasta_bs9 after 15066ms  (459/1045)
+## Started 93_pruned_fasta_bs9 on [15:15] 
+End of 8_pruned_fasta_bs7 after 15323ms  (460/1045)
+## Started 93_pruned_fasta_bs8 on [9:9] 
+End of 65_pruned_fasta_bs7 after 14994ms  (461/1045)
+## Started 93_pruned_fasta_bs7 on [14:14] 
+End of 8_pruned_fasta_bs4 after 15876ms  (462/1045)
+## Started 79_pruned_fasta_bs0 on [5:5] 
+End of 93_pruned_fasta_bs5 after 13963ms  (463/1045)
+## Started 79_pruned_fasta_bs4 on [20:20] 
+End of 65_pruned_fasta_bs1 after 17827ms  (464/1045)
+## Started 79_pruned_fasta_bs1 on [6:6] 
+End of 65_pruned_fasta_bs6 after 17385ms  (465/1045)
+## Started 79_pruned_fasta_bs2 on [16:16] 
+End of 93_pruned_fasta_bs4 after 14977ms  (466/1045)
+## Started 79_pruned_fasta_bs3 on [30:30] 
+End of 65_pruned_fasta_bs0 after 18852ms  (467/1045)
+## Started 85_pruned_fasta_bs9 on [33:33] 
+End of 65_pruned_fasta_bs9 after 15606ms  (468/1045)
+## Started 79_pruned_fasta_bs9 on [34:34] 
+End of 93_pruned_fasta_bs2 after 15115ms  (469/1045)
+## Started 79_pruned_fasta_bs8 on [26:26] 
+End of 93_pruned_fasta_bs3 after 15310ms  (470/1045)
+## Started 85_pruned_fasta_bs0 on [23:23] 
+End of 8_pruned_fasta_bs1 after 16214ms  (471/1045)
+## Started 85_pruned_fasta_bs1 on [36:36] 
+End of 65_pruned_fasta_bs4 after 19348ms  (472/1045)
+## Started 85_pruned_fasta_bs2 on [38:38] 
+End of 93_pruned_fasta_bs1 after 14725ms  (473/1045)
+## Started 85_pruned_fasta_bs3 on [24:24] 
+End of 65_pruned_fasta_bs8 after 17515ms  (474/1045)
+## Started 85_pruned_fasta_bs4 on [1:1] 
+End of 65_pruned_fasta_bs5 after 20504ms  (475/1045)
+## Started 85_pruned_fasta_bs5 on [31:31] 
+End of 93_pruned_fasta_bs0 after 15682ms  (476/1045)
+## Started 79_pruned_fasta_bs7 on [3:3] 
+End of 1_pruned_fasta_bs9 after 18071ms  (477/1045)
+## Started 85_pruned_fasta_bs6 on [18:18] 
+Runner is still alive after 420s
+End of 1_pruned_fasta_bs2 after 17870ms  (478/1045)
+## Started 85_pruned_fasta_bs7 on [22:22] 
+End of 1_pruned_fasta_bs4 after 17325ms  (479/1045)
+## Started 85_pruned_fasta_bs8 on [32:32] 
+End of 18_pruned_fasta_bs6 after 19227ms  (480/1045)
+## Started 50_pruned_fasta_bs9 on [0:0] 
+End of 18_pruned_fasta_bs9 after 17230ms  (481/1045)
+## Started 79_pruned_fasta_bs6 on [10:10] 
+End of 18_pruned_fasta_bs0 after 18734ms  (482/1045)
+## Started 79_pruned_fasta_bs5 on [11:11] 
+End of 18_pruned_fasta_bs8 after 16604ms  (483/1045)
+## Started 50_pruned_fasta_bs0 on [8:8] 
+End of 1_pruned_fasta_bs5 after 17311ms  (484/1045)
+## Started 50_pruned_fasta_bs1 on [12:12] 
+End of 1_pruned_fasta_bs8 after 17922ms  (485/1045)
+## Started 50_pruned_fasta_bs2 on [25:25] 
+End of 1_pruned_fasta_bs7 after 17033ms  (486/1045)
+## Started 50_pruned_fasta_bs3 on [27:27] 
+End of 18_pruned_fasta_bs7 after 19409ms  (487/1045)
+## Started 50_pruned_fasta_bs4 on [2:2] 
+End of 1_pruned_fasta_bs6 after 18405ms  (488/1045)
+## Started 50_pruned_fasta_bs5 on [4:4] 
+End of 79_pruned_fasta_bs1 after 12947ms  (489/1045)
+## Started 50_pruned_fasta_bs6 on [6:6] 
+End of 1_pruned_fasta_bs1 after 17333ms  (490/1045)
+## Started 50_pruned_fasta_bs7 on [21:21] 
+End of 93_pruned_fasta_bs8 after 14689ms  (491/1045)
+## Started 50_pruned_fasta_bs8 on [9:9] 
+End of 93_pruned_fasta_bs9 after 14869ms  (492/1045)
+## Started 80_pruned_fasta_bs1 on [15:15] 
+End of 79_pruned_fasta_bs4 after 14463ms  (493/1045)
+## Started 56_pruned_fasta_bs6 on [20:20] 
+End of 18_pruned_fasta_bs1 after 17481ms  (494/1045)
+## Started 56_pruned_fasta_bs5 on [17:17] 
+End of 1_pruned_fasta_bs0 after 16509ms  (495/1045)
+## Started 56_pruned_fasta_bs4 on [29:29] 
+End of 93_pruned_fasta_bs7 after 15544ms  (496/1045)
+## Started 56_pruned_fasta_bs3 on [14:14] 
+End of 85_pruned_fasta_bs4 after 12874ms  (497/1045)
+## Started 56_pruned_fasta_bs2 on [1:1] 
+End of 85_pruned_fasta_bs0 after 13484ms  (498/1045)
+## Started 56_pruned_fasta_bs1 on [23:23] 
+End of 79_pruned_fasta_bs2 after 14864ms  (499/1045)
+## Started 56_pruned_fasta_bs0 on [16:16] 
+End of 85_pruned_fasta_bs2 after 13276ms  (500/1045)
+## Started 56_pruned_fasta_bs7 on [38:38] 
+End of 93_pruned_fasta_bs6 after 16891ms  (501/1045)
+## Started 56_pruned_fasta_bs8 on [13:13] 
+End of 85_pruned_fasta_bs1 after 13962ms  (502/1045)
+## Started 56_pruned_fasta_bs9 on [36:36] 
+End of 79_pruned_fasta_bs3 after 15070ms  (503/1045)
+## Started 80_pruned_fasta_bs2 on [30:30] 
+End of 85_pruned_fasta_bs9 after 15020ms  (504/1045)
+## Started 80_pruned_fasta_bs3 on [33:33] 
+End of 85_pruned_fasta_bs3 after 14472ms  (505/1045)
+## Started 80_pruned_fasta_bs4 on [24:24] 
+End of 79_pruned_fasta_bs0 after 17164ms  (506/1045)
+## Started 80_pruned_fasta_bs5 on [5:5] 
+End of 1_pruned_fasta_bs3 after 17522ms  (507/1045)
+## Started 80_pruned_fasta_bs6 on [7:7] 
+End of 18_pruned_fasta_bs5 after 17787ms  (508/1045)
+## Started 80_pruned_fasta_bs7 on [28:28] 
+End of 79_pruned_fasta_bs8 after 15766ms  (509/1045)
+## Started 80_pruned_fasta_bs8 on [26:26] 
+End of 18_pruned_fasta_bs3 after 18790ms  (510/1045)
+## Started 80_pruned_fasta_bs0 on [19:19] 
+End of 18_pruned_fasta_bs2 after 19847ms  (511/1045)
+## Started 80_pruned_fasta_bs9 on [37:37] 
+End of 79_pruned_fasta_bs9 after 16558ms  (512/1045)
+## Started 49_pruned_fasta_bs9 on [34:34] 
+End of 18_pruned_fasta_bs4 after 19278ms  (513/1045)
+## Started 49_pruned_fasta_bs2 on [35:35] 
+End of 79_pruned_fasta_bs7 after 14402ms  (514/1045)
+## Started 49_pruned_fasta_bs1 on [3:3] 
+End of 85_pruned_fasta_bs5 after 15009ms  (515/1045)
+## Started 49_pruned_fasta_bs3 on [31:31] 
+End of 85_pruned_fasta_bs6 after 13897ms  (516/1045)
+## Started 49_pruned_fasta_bs4 on [18:18] 
+End of 85_pruned_fasta_bs8 after 13195ms  (517/1045)
+## Started 49_pruned_fasta_bs5 on [32:32] 
+End of 85_pruned_fasta_bs7 after 14186ms  (518/1045)
+## Started 49_pruned_fasta_bs6 on [22:22] 
+End of 50_pruned_fasta_bs9 after 14793ms  (519/1045)
+## Started 49_pruned_fasta_bs7 on [0:0] 
+End of 79_pruned_fasta_bs6 after 14648ms  (520/1045)
+## Started 49_pruned_fasta_bs0 on [10:10] 
+End of 50_pruned_fasta_bs0 after 14064ms  (521/1045)
+## Started 49_pruned_fasta_bs8 on [8:8] 
+End of 79_pruned_fasta_bs5 after 14504ms  (522/1045)
+## Started 76_pruned_fasta_bs0 on [11:11] 
+End of 50_pruned_fasta_bs2 after 13346ms  (523/1045)
+## Started 94_pruned_fasta_bs1 on [25:25] 
+End of 50_pruned_fasta_bs1 after 14155ms  (524/1045)
+## Started 76_pruned_fasta_bs9 on [12:12] 
+End of 50_pruned_fasta_bs3 after 13969ms  (525/1045)
+## Started 76_pruned_fasta_bs2 on [27:27] 
+End of 50_pruned_fasta_bs7 after 13275ms  (526/1045)
+## Started 76_pruned_fasta_bs7 on [21:21] 
+End of 50_pruned_fasta_bs4 after 14724ms  (527/1045)
+## Started 76_pruned_fasta_bs6 on [2:2] 
+End of 50_pruned_fasta_bs6 after 13817ms  (528/1045)
+## Started 76_pruned_fasta_bs5 on [6:6] 
+End of 50_pruned_fasta_bs5 after 14672ms  (529/1045)
+## Started 94_pruned_fasta_bs5 on [4:4] 
+End of 56_pruned_fasta_bs6 after 13756ms  (530/1045)
+## Started 94_pruned_fasta_bs6 on [20:20] 
+End of 56_pruned_fasta_bs7 after 13048ms  (531/1045)
+## Started 94_pruned_fasta_bs7 on [38:38] 
+End of 56_pruned_fasta_bs5 after 13787ms  (532/1045)
+## Started 76_pruned_fasta_bs4 on [17:17] 
+End of 56_pruned_fasta_bs8 after 13605ms  (533/1045)
+## Started 76_pruned_fasta_bs3 on [13:13] 
+End of 56_pruned_fasta_bs2 after 14096ms  (534/1045)
+## Started 94_pruned_fasta_bs0 on [1:1] 
+End of 56_pruned_fasta_bs1 after 14116ms  (535/1045)
+## Started 76_pruned_fasta_bs1 on [23:23] 
+End of 50_pruned_fasta_bs8 after 15151ms  (536/1045)
+## Started 94_pruned_fasta_bs4 on [9:9] 
+End of 80_pruned_fasta_bs1 after 15399ms  (537/1045)
+## Started 94_pruned_fasta_bs3 on [15:15] 
+End of 56_pruned_fasta_bs3 after 14744ms  (538/1045)
+## Started 94_pruned_fasta_bs2 on [14:14] 
+End of 56_pruned_fasta_bs9 after 14399ms  (539/1045)
+## Started 94_pruned_fasta_bs8 on [36:36] 
+End of 80_pruned_fasta_bs2 after 14335ms  (540/1045)
+## Started 94_pruned_fasta_bs9 on [30:30] 
+End of 80_pruned_fasta_bs4 after 13889ms  (541/1045)
+## Started 76_pruned_fasta_bs8 on [24:24] 
+End of 80_pruned_fasta_bs6 after 13756ms  (542/1045)
+## Started 36_pruned_fasta_bs9 on [7:7] 
+End of 56_pruned_fasta_bs4 after 15853ms  (543/1045)
+## Started 36_pruned_fasta_bs8 on [29:29] 
+End of 80_pruned_fasta_bs5 after 14104ms  (544/1045)
+## Started 36_pruned_fasta_bs7 on [5:5] 
+End of 80_pruned_fasta_bs9 after 13159ms  (545/1045)
+## Started 36_pruned_fasta_bs6 on [37:37] 
+End of 56_pruned_fasta_bs0 after 15650ms  (546/1045)
+## Started 36_pruned_fasta_bs5 on [16:16] 
+End of 80_pruned_fasta_bs8 after 14133ms  (547/1045)
+## Started 36_pruned_fasta_bs4 on [26:26] 
+End of 80_pruned_fasta_bs3 after 15251ms  (548/1045)
+## Started 36_pruned_fasta_bs3 on [33:33] 
+End of 80_pruned_fasta_bs0 after 14648ms  (549/1045)
+## Started 36_pruned_fasta_bs2 on [19:19] 
+End of 80_pruned_fasta_bs7 after 15513ms  (550/1045)
+## Started 36_pruned_fasta_bs1 on [28:28] 
+End of 49_pruned_fasta_bs5 after 13173ms  (551/1045)
+## Started 36_pruned_fasta_bs0 on [32:32] 
+End of 49_pruned_fasta_bs2 after 15117ms  (552/1045)
+## Started 13_pruned_fasta_bs9 on [35:35] 
+End of 76_pruned_fasta_bs0 after 9551ms  (553/1045)
+## Started 15_pruned_fasta_bs5 on [11:11] 
+End of 49_pruned_fasta_bs6 after 13274ms  (554/1045)
+## Started 15_pruned_fasta_bs1 on [22:22] 
+End of 49_pruned_fasta_bs3 after 15897ms  (555/1045)
+## Started 15_pruned_fasta_bs2 on [31:31] 
+End of 49_pruned_fasta_bs4 after 15362ms  (556/1045)
+## Started 15_pruned_fasta_bs3 on [18:18] 
+End of 76_pruned_fasta_bs2 after 9840ms  (557/1045)
+## Started 15_pruned_fasta_bs4 on [27:27] 
+End of 49_pruned_fasta_bs9 after 18071ms  (558/1045)
+## Started 15_pruned_fasta_bs9 on [34:34] 
+End of 76_pruned_fasta_bs9 after 11075ms  (559/1045)
+## Started 15_pruned_fasta_bs8 on [12:12] 
+End of 49_pruned_fasta_bs1 after 17831ms  (560/1045)
+## Started 15_pruned_fasta_bs7 on [3:3] 
+End of 76_pruned_fasta_bs6 after 10038ms  (561/1045)
+## Started 15_pruned_fasta_bs6 on [2:2] 
+End of 76_pruned_fasta_bs7 after 10562ms  (562/1045)
+## Started 13_pruned_fasta_bs8 on [21:21] 
+End of 94_pruned_fasta_bs1 after 12809ms  (563/1045)
+## Started 13_pruned_fasta_bs7 on [25:25] 
+End of 49_pruned_fasta_bs8 after 13598ms  (564/1045)
+## Started 13_pruned_fasta_bs0 on [8:8] 
+End of 76_pruned_fasta_bs5 after 10522ms  (565/1045)
+## Started 13_pruned_fasta_bs1 on [6:6] 
+End of 49_pruned_fasta_bs0 after 14576ms  (566/1045)
+## Started 13_pruned_fasta_bs2 on [10:10] 
+End of 49_pruned_fasta_bs7 after 14955ms  (567/1045)
+## Started 13_pruned_fasta_bs3 on [0:0] 
+End of 94_pruned_fasta_bs6 after 10874ms  (568/1045)
+## Started 13_pruned_fasta_bs4 on [20:20] 
+End of 76_pruned_fasta_bs4 after 10308ms  (569/1045)
+## Started 13_pruned_fasta_bs5 on [17:17] 
+End of 94_pruned_fasta_bs5 after 11868ms  (570/1045)
+## Started 13_pruned_fasta_bs6 on [4:4] 
+End of 76_pruned_fasta_bs1 after 10487ms  (571/1045)
+## Started 15_pruned_fasta_bs0 on [23:23] 
+End of 94_pruned_fasta_bs7 after 11589ms  (572/1045)
+## Started 38_pruned_fasta_bs7 on [38:38] 
+End of 76_pruned_fasta_bs8 after 9903ms  (573/1045)
+## Started 38_pruned_fasta_bs6 on [24:24] 
+End of 94_pruned_fasta_bs8 after 10452ms  (574/1045)
+## Started 38_pruned_fasta_bs5 on [36:36] 
+End of 94_pruned_fasta_bs0 after 11462ms  (575/1045)
+## Started 38_pruned_fasta_bs9 on [1:1] 
+End of 94_pruned_fasta_bs2 after 10894ms  (576/1045)
+## Started 38_pruned_fasta_bs0 on [14:14] 
+End of 94_pruned_fasta_bs3 after 11103ms  (577/1045)
+## Started 38_pruned_fasta_bs8 on [15:15] 
+End of 76_pruned_fasta_bs3 after 11865ms  (578/1045)
+## Started 38_pruned_fasta_bs4 on [13:13] 
+End of 94_pruned_fasta_bs4 after 11688ms  (579/1045)
+## Started 38_pruned_fasta_bs3 on [9:9] 
+End of 36_pruned_fasta_bs9 after 10378ms  (580/1045)
+## Started 38_pruned_fasta_bs2 on [7:7] 
+End of 36_pruned_fasta_bs6 after 10255ms  (581/1045)
+## Started 38_pruned_fasta_bs1 on [37:37] 
+End of 36_pruned_fasta_bs5 after 11182ms  (582/1045)
+## Started 96_pruned_fasta_bs4 on [16:16] 
+End of 13_pruned_fasta_bs9 after 9157ms  (583/1045)
+## Started 96_pruned_fasta_bs3 on [35:35] 
+End of 36_pruned_fasta_bs7 after 11718ms  (584/1045)
+## Started 96_pruned_fasta_bs9 on [5:5] 
+End of 36_pruned_fasta_bs8 after 12179ms  (585/1045)
+## Started 96_pruned_fasta_bs8 on [29:29] 
+End of 94_pruned_fasta_bs9 after 12835ms  (586/1045)
+## Started 96_pruned_fasta_bs7 on [30:30] 
+End of 15_pruned_fasta_bs1 after 9283ms  (587/1045)
+## Started 96_pruned_fasta_bs6 on [22:22] 
+End of 36_pruned_fasta_bs3 after 12028ms  (588/1045)
+## Started 96_pruned_fasta_bs5 on [33:33] 
+End of 15_pruned_fasta_bs2 after 9461ms  (589/1045)
+## Started 96_pruned_fasta_bs2 on [31:31] 
+End of 15_pruned_fasta_bs3 after 9426ms  (590/1045)
+## Started 96_pruned_fasta_bs1 on [18:18] 
+End of 36_pruned_fasta_bs4 after 12536ms  (591/1045)
+## Started 96_pruned_fasta_bs0 on [26:26] 
+End of 36_pruned_fasta_bs1 after 11523ms  (592/1045)
+## Started 31_pruned_fasta_bs0 on [28:28] 
+End of 15_pruned_fasta_bs5 after 10572ms  (593/1045)
+## Started 31_pruned_fasta_bs8 on [11:11] 
+End of 15_pruned_fasta_bs4 after 8914ms  (594/1045)
+## Started 31_pruned_fasta_bs2 on [27:27] 
+End of 15_pruned_fasta_bs7 after 9031ms  (595/1045)
+## Started 31_pruned_fasta_bs7 on [3:3] 
+End of 36_pruned_fasta_bs2 after 13277ms  (596/1045)
+## Started 31_pruned_fasta_bs9 on [19:19] 
+End of 36_pruned_fasta_bs0 after 12107ms  (597/1045)
+## Started 31_pruned_fasta_bs6 on [32:32] 
+End of 15_pruned_fasta_bs9 after 9448ms  (598/1045)
+## Started 31_pruned_fasta_bs5 on [34:34] 
+End of 15_pruned_fasta_bs8 after 9386ms  (599/1045)
+## Started 31_pruned_fasta_bs4 on [12:12] 
+End of 15_pruned_fasta_bs6 after 9528ms  (600/1045)
+## Started 31_pruned_fasta_bs3 on [2:2] 
+End of 13_pruned_fasta_bs1 after 9380ms  (601/1045)
+## Started 31_pruned_fasta_bs1 on [6:6] 
+End of 13_pruned_fasta_bs3 after 8741ms  (602/1045)
+## Started 83_pruned_fasta_bs2 on [0:0] 
+End of 13_pruned_fasta_bs7 after 9540ms  (603/1045)
+## Started 83_pruned_fasta_bs1 on [25:25] 
+End of 13_pruned_fasta_bs0 after 9914ms  (604/1045)
+## Started 83_pruned_fasta_bs0 on [8:8] 
+End of 13_pruned_fasta_bs4 after 8623ms  (605/1045)
+## Started 83_pruned_fasta_bs3 on [20:20] 
+End of 13_pruned_fasta_bs8 after 10205ms  (606/1045)
+## Started 83_pruned_fasta_bs4 on [21:21] 
+End of 13_pruned_fasta_bs2 after 9856ms  (607/1045)
+## Started 83_pruned_fasta_bs5 on [10:10] 
+End of 13_pruned_fasta_bs6 after 9635ms  (608/1045)
+## Started 83_pruned_fasta_bs6 on [4:4] 
+End of 15_pruned_fasta_bs0 after 9264ms  (609/1045)
+## Started 83_pruned_fasta_bs7 on [23:23] 
+End of 38_pruned_fasta_bs8 after 8160ms  (610/1045)
+## Started 83_pruned_fasta_bs8 on [15:15] 
+End of 38_pruned_fasta_bs6 after 8715ms  (611/1045)
+## Started 83_pruned_fasta_bs9 on [24:24] 
+End of 13_pruned_fasta_bs5 after 10325ms  (612/1045)
+## Started 19_pruned_fasta_bs8 on [17:17] 
+End of 96_pruned_fasta_bs3 after 7227ms  (613/1045)
+## Started 19_pruned_fasta_bs7 on [35:35] 
+End of 38_pruned_fasta_bs1 after 8627ms  (614/1045)
+## Started 71_pruned_fasta_bs1 on [37:37] 
+End of 38_pruned_fasta_bs2 after 8886ms  (615/1045)
+## Started 71_pruned_fasta_bs0 on [7:7] 
+End of 38_pruned_fasta_bs9 after 9257ms  (616/1045)
+## Started 71_pruned_fasta_bs2 on [1:1] 
+End of 38_pruned_fasta_bs0 after 9266ms  (617/1045)
+## Started 71_pruned_fasta_bs3 on [14:14] 
+End of 96_pruned_fasta_bs9 after 7631ms  (618/1045)
+## Started 71_pruned_fasta_bs4 on [5:5] 
+End of 38_pruned_fasta_bs3 after 9229ms  (619/1045)
+## Started 71_pruned_fasta_bs5 on [9:9] 
+End of 96_pruned_fasta_bs4 after 8271ms  (620/1045)
+## Started 71_pruned_fasta_bs6 on [16:16] 
+End of 96_pruned_fasta_bs2 after 6640ms  (621/1045)
+## Started 71_pruned_fasta_bs7 on [31:31] 
+End of 96_pruned_fasta_bs7 after 7415ms  (622/1045)
+## Started 71_pruned_fasta_bs8 on [30:30] 
+End of 38_pruned_fasta_bs5 after 10128ms  (623/1045)
+## Started 71_pruned_fasta_bs9 on [36:36] 
+End of 96_pruned_fasta_bs8 after 7780ms  (624/1045)
+## Started 19_pruned_fasta_bs9 on [29:29] 
+End of 38_pruned_fasta_bs7 after 11182ms  (625/1045)
+## Started 19_pruned_fasta_bs6 on [38:38] 
+End of 96_pruned_fasta_bs6 after 7747ms  (626/1045)
+## Started 19_pruned_fasta_bs5 on [22:22] 
+End of 96_pruned_fasta_bs0 after 7506ms  (627/1045)
+## Started 19_pruned_fasta_bs4 on [26:26] 
+End of 38_pruned_fasta_bs4 after 10546ms  (628/1045)
+## Started 19_pruned_fasta_bs3 on [13:13] 
+End of 96_pruned_fasta_bs1 after 7618ms  (629/1045)
+## Started 19_pruned_fasta_bs2 on [18:18] 
+End of 96_pruned_fasta_bs5 after 8062ms  (630/1045)
+## Started 19_pruned_fasta_bs1 on [33:33] 
+End of 31_pruned_fasta_bs0 after 7845ms  (631/1045)
+## Started 19_pruned_fasta_bs0 on [28:28] 
+End of 31_pruned_fasta_bs7 after 7135ms  (632/1045)
+## Started 82_pruned_fasta_bs5 on [3:3] 
+End of 31_pruned_fasta_bs8 after 7908ms  (633/1045)
+## Started 82_pruned_fasta_bs6 on [11:11] 
+End of 31_pruned_fasta_bs2 after 7600ms  (634/1045)
+## Started 17_pruned_fasta_bs0 on [27:27] 
+End of 83_pruned_fasta_bs1 after 6038ms  (635/1045)
+## Started 82_pruned_fasta_bs4 on [25:25] 
+End of 83_pruned_fasta_bs2 after 6176ms  (636/1045)
+## Started 17_pruned_fasta_bs1 on [0:0] 
+End of 31_pruned_fasta_bs6 after 7865ms  (637/1045)
+## Started 17_pruned_fasta_bs2 on [32:32] 
+End of 31_pruned_fasta_bs9 after 7914ms  (638/1045)
+## Started 17_pruned_fasta_bs3 on [19:19] 
+End of 31_pruned_fasta_bs4 after 8016ms  (639/1045)
+## Started 82_pruned_fasta_bs3 on [12:12] 
+End of 83_pruned_fasta_bs0 after 6268ms  (640/1045)
+## Started 82_pruned_fasta_bs2 on [8:8] 
+End of 31_pruned_fasta_bs5 after 8332ms  (641/1045)
+## Started 17_pruned_fasta_bs7 on [34:34] 
+End of 83_pruned_fasta_bs5 after 6238ms  (642/1045)
+## Started 17_pruned_fasta_bs4 on [10:10] 
+End of 31_pruned_fasta_bs3 after 7812ms  (643/1045)
+## Started 17_pruned_fasta_bs5 on [2:2] 
+End of 83_pruned_fasta_bs3 after 6770ms  (644/1045)
+## Started 17_pruned_fasta_bs6 on [20:20] 
+End of 31_pruned_fasta_bs1 after 7636ms  (645/1045)
+## Started 82_pruned_fasta_bs7 on [6:6] 
+End of 83_pruned_fasta_bs4 after 7046ms  (646/1045)
+## Started 17_pruned_fasta_bs9 on [21:21] 
+End of 83_pruned_fasta_bs6 after 6001ms  (647/1045)
+## Started 82_pruned_fasta_bs8 on [4:4] 
+End of 83_pruned_fasta_bs8 after 5996ms  (648/1045)
+## Started 17_pruned_fasta_bs8 on [15:15] 
+End of 83_pruned_fasta_bs7 after 6054ms  (649/1045)
+## Started 82_pruned_fasta_bs9 on [23:23] 
+End of 83_pruned_fasta_bs9 after 6194ms  (650/1045)
+## Started 82_pruned_fasta_bs0 on [24:24] 
+End of 71_pruned_fasta_bs4 after 5585ms  (651/1045)
+## Started 82_pruned_fasta_bs1 on [5:5] 
+End of 71_pruned_fasta_bs1 after 6240ms  (652/1045)
+## Started 57_pruned_fasta_bs7 on [37:37] 
+End of 71_pruned_fasta_bs2 after 6161ms  (653/1045)
+## Started 57_pruned_fasta_bs9 on [1:1] 
+End of 71_pruned_fasta_bs3 after 6190ms  (654/1045)
+## Started 57_pruned_fasta_bs8 on [14:14] 
+End of 19_pruned_fasta_bs8 after 6795ms  (655/1045)
+## Started 57_pruned_fasta_bs0 on [17:17] 
+End of 71_pruned_fasta_bs7 after 5699ms  (656/1045)
+## Started 57_pruned_fasta_bs1 on [31:31] 
+End of 71_pruned_fasta_bs8 after 5750ms  (657/1045)
+## Started 57_pruned_fasta_bs2 on [30:30] 
+End of 71_pruned_fasta_bs5 after 6142ms  (658/1045)
+## Started 57_pruned_fasta_bs3 on [9:9] 
+End of 71_pruned_fasta_bs0 after 6505ms  (659/1045)
+## Started 57_pruned_fasta_bs4 on [7:7] 
+End of 71_pruned_fasta_bs6 after 6103ms  (660/1045)
+## Started 57_pruned_fasta_bs5 on [16:16] 
+End of 71_pruned_fasta_bs9 after 6097ms  (661/1045)
+## Started 57_pruned_fasta_bs6 on [36:36] 
+End of 17_pruned_fasta_bs0 after 5053ms  (662/1045)
+## Started 23_pruned_fasta_bs2 on [27:27] 
+End of 17_pruned_fasta_bs2 after 4438ms  (663/1045)
+## Started 23_pruned_fasta_bs1 on [32:32] 
+End of 19_pruned_fasta_bs7 after 8470ms  (664/1045)
+## Started 23_pruned_fasta_bs5 on [35:35] 
+End of 17_pruned_fasta_bs1 after 5037ms  (665/1045)
+## Started 23_pruned_fasta_bs0 on [0:0] 
+End of 17_pruned_fasta_bs3 after 4951ms  (666/1045)
+## Started 23_pruned_fasta_bs4 on [19:19] 
+End of 82_pruned_fasta_bs6 after 6010ms  (667/1045)
+## Started 23_pruned_fasta_bs3 on [11:11] 
+End of 19_pruned_fasta_bs2 after 6938ms  (668/1045)
+## Started 23_pruned_fasta_bs9 on [18:18] 
+End of 82_pruned_fasta_bs5 after 6151ms  (669/1045)
+## Started 23_pruned_fasta_bs8 on [3:3] 
+End of 82_pruned_fasta_bs4 after 5378ms  (670/1045)
+## Started 23_pruned_fasta_bs7 on [25:25] 
+End of 19_pruned_fasta_bs4 after 7222ms  (671/1045)
+## Started 23_pruned_fasta_bs6 on [26:26] 
+End of 17_pruned_fasta_bs7 after 4888ms  (672/1045)
+## Started 28_pruned_fasta_bs9 on [34:34] 
+End of 19_pruned_fasta_bs6 after 7690ms  (673/1045)
+## Started 24_pruned_fasta_bs7 on [38:38] 
+End of 17_pruned_fasta_bs4 after 4862ms  (674/1045)
+## Started 24_pruned_fasta_bs8 on [10:10] 
+End of 82_pruned_fasta_bs3 after 5549ms  (675/1045)
+## Started 24_pruned_fasta_bs6 on [12:12] 
+End of 17_pruned_fasta_bs6 after 4743ms  (676/1045)
+## Started 24_pruned_fasta_bs5 on [20:20] 
+End of 19_pruned_fasta_bs3 after 7727ms  (677/1045)
+## Started 24_pruned_fasta_bs4 on [13:13] 
+End of 82_pruned_fasta_bs2 after 5459ms  (678/1045)
+## Started 24_pruned_fasta_bs9 on [8:8] 
+End of 19_pruned_fasta_bs0 after 7152ms  (679/1045)
+## Started 24_pruned_fasta_bs3 on [28:28] 
+End of 17_pruned_fasta_bs5 after 4911ms  (680/1045)
+## Started 24_pruned_fasta_bs2 on [2:2] 
+End of 19_pruned_fasta_bs9 after 8520ms  (681/1045)
+## Started 24_pruned_fasta_bs1 on [29:29] 
+End of 19_pruned_fasta_bs5 after 8080ms  (682/1045)
+## Started 24_pruned_fasta_bs0 on [22:22] 
+End of 19_pruned_fasta_bs1 after 7882ms  (683/1045)
+## Started 28_pruned_fasta_bs8 on [33:33] 
+End of 17_pruned_fasta_bs8 after 4722ms  (684/1045)
+## Started 28_pruned_fasta_bs7 on [15:15] 
+End of 17_pruned_fasta_bs9 after 5059ms  (685/1045)
+## Started 28_pruned_fasta_bs6 on [21:21] 
+End of 82_pruned_fasta_bs8 after 5704ms  (686/1045)
+## Started 28_pruned_fasta_bs5 on [4:4] 
+End of 82_pruned_fasta_bs7 after 6074ms  (687/1045)
+## Started 28_pruned_fasta_bs4 on [6:6] 
+End of 82_pruned_fasta_bs1 after 4983ms  (688/1045)
+## Started 28_pruned_fasta_bs3 on [5:5] 
+End of 82_pruned_fasta_bs9 after 5816ms  (689/1045)
+## Started 28_pruned_fasta_bs2 on [23:23] 
+End of 57_pruned_fasta_bs8 after 4849ms  (690/1045)
+## Started 28_pruned_fasta_bs1 on [14:14] 
+End of 57_pruned_fasta_bs0 after 4928ms  (691/1045)
+## Started 28_pruned_fasta_bs0 on [17:17] 
+End of 57_pruned_fasta_bs7 after 5051ms  (692/1045)
+## Started 29_pruned_fasta_bs5 on [37:37] 
+End of 57_pruned_fasta_bs9 after 5113ms  (693/1045)
+## Started 29_pruned_fasta_bs0 on [1:1] 
+End of 57_pruned_fasta_bs2 after 4866ms  (694/1045)
+## Started 29_pruned_fasta_bs8 on [30:30] 
+End of 57_pruned_fasta_bs3 after 4859ms  (695/1045)
+## Started 29_pruned_fasta_bs6 on [9:9] 
+End of 57_pruned_fasta_bs1 after 5109ms  (696/1045)
+## Started 29_pruned_fasta_bs4 on [31:31] 
+End of 57_pruned_fasta_bs5 after 4903ms  (697/1045)
+## Started 29_pruned_fasta_bs3 on [16:16] 
+End of 57_pruned_fasta_bs4 after 5067ms  (698/1045)
+## Started 29_pruned_fasta_bs2 on [7:7] 
+End of 82_pruned_fasta_bs0 after 6219ms  (699/1045)
+## Started 29_pruned_fasta_bs1 on [24:24] 
+End of 57_pruned_fasta_bs6 after 5476ms  (700/1045)
+## Started 29_pruned_fasta_bs9 on [36:36] 
+End of 23_pruned_fasta_bs2 after 4812ms  (701/1045)
+## Started 29_pruned_fasta_bs7 on [27:27] 
+End of 23_pruned_fasta_bs1 after 4656ms  (702/1045)
+## Started 91_pruned_fasta_bs5 on [32:32] 
+End of 23_pruned_fasta_bs3 after 4372ms  (703/1045)
+## Started 91_pruned_fasta_bs9 on [11:11] 
+End of 23_pruned_fasta_bs5 after 4580ms  (704/1045)
+## Started 91_pruned_fasta_bs8 on [35:35] 
+End of 23_pruned_fasta_bs0 after 4561ms  (705/1045)
+## Started 91_pruned_fasta_bs7 on [0:0] 
+End of 23_pruned_fasta_bs9 after 4462ms  (706/1045)
+## Started 91_pruned_fasta_bs0 on [18:18] 
+End of 23_pruned_fasta_bs4 after 4646ms  (707/1045)
+## Started 91_pruned_fasta_bs1 on [19:19] 
+End of 23_pruned_fasta_bs8 after 4537ms  (708/1045)
+## Started 91_pruned_fasta_bs2 on [3:3] 
+End of 23_pruned_fasta_bs7 after 4606ms  (709/1045)
+## Started 91_pruned_fasta_bs3 on [25:25] 
+End of 23_pruned_fasta_bs6 after 4850ms  (710/1045)
+## Started 91_pruned_fasta_bs4 on [26:26] 
+End of 24_pruned_fasta_bs8 after 4675ms  (711/1045)
+## Started 91_pruned_fasta_bs6 on [10:10] 
+End of 24_pruned_fasta_bs3 after 4447ms  (712/1045)
+## Started 37_pruned_fasta_bs9 on [28:28] 
+End of 24_pruned_fasta_bs6 after 4629ms  (713/1045)
+## Started 37_pruned_fasta_bs8 on [12:12] 
+End of 24_pruned_fasta_bs7 after 4886ms  (714/1045)
+## Started 37_pruned_fasta_bs0 on [38:38] 
+End of 24_pruned_fasta_bs5 after 4708ms  (715/1045)
+## Started 37_pruned_fasta_bs1 on [20:20] 
+End of 24_pruned_fasta_bs1 after 4650ms  (716/1045)
+## Started 37_pruned_fasta_bs2 on [29:29] 
+End of 24_pruned_fasta_bs4 after 4787ms  (717/1045)
+## Started 37_pruned_fasta_bs3 on [13:13] 
+End of 24_pruned_fasta_bs0 after 4633ms  (718/1045)
+## Started 37_pruned_fasta_bs4 on [22:22] 
+End of 28_pruned_fasta_bs9 after 5500ms  (719/1045)
+## Started 37_pruned_fasta_bs5 on [34:34] 
+End of 24_pruned_fasta_bs2 after 5086ms  (720/1045)
+## Started 37_pruned_fasta_bs6 on [2:2] 
+End of 24_pruned_fasta_bs9 after 5210ms  (721/1045)
+## Started 37_pruned_fasta_bs7 on [8:8] 
+End of 28_pruned_fasta_bs7 after 5156ms  (722/1045)
+## Started 89_pruned_fasta_bs6 on [15:15] 
+End of 28_pruned_fasta_bs6 after 5146ms  (723/1045)
+## Started 89_pruned_fasta_bs5 on [21:21] 
+End of 28_pruned_fasta_bs8 after 5664ms  (724/1045)
+## Started 89_pruned_fasta_bs3 on [33:33] 
+Runner is still alive after 480s
+End of 29_pruned_fasta_bs5 after 4639ms  (725/1045)
+## Started 89_pruned_fasta_bs4 on [37:37] 
+End of 29_pruned_fasta_bs4 after 4458ms  (726/1045)
+## Started 89_pruned_fasta_bs2 on [31:31] 
+End of 28_pruned_fasta_bs3 after 5069ms  (727/1045)
+## Started 89_pruned_fasta_bs1 on [5:5] 
+End of 29_pruned_fasta_bs8 after 4698ms  (728/1045)
+## Started 89_pruned_fasta_bs0 on [30:30] 
+End of 29_pruned_fasta_bs2 after 4505ms  (729/1045)
+## Started 89_pruned_fasta_bs7 on [7:7] 
+End of 28_pruned_fasta_bs5 after 5322ms  (730/1045)
+## Started 89_pruned_fasta_bs8 on [4:4] 
+End of 29_pruned_fasta_bs1 after 4407ms  (731/1045)
+## Started 89_pruned_fasta_bs9 on [24:24] 
+End of 28_pruned_fasta_bs1 after 5181ms  (732/1045)
+## Started 70_pruned_fasta_bs1 on [14:14] 
+End of 28_pruned_fasta_bs0 after 5158ms  (733/1045)
+## Started 70_pruned_fasta_bs0 on [17:17] 
+End of 29_pruned_fasta_bs3 after 4849ms  (734/1045)
+## Started 70_pruned_fasta_bs2 on [16:16] 
+End of 91_pruned_fasta_bs5 after 3873ms  (735/1045)
+## Started 70_pruned_fasta_bs3 on [32:32] 
+End of 29_pruned_fasta_bs6 after 5135ms  (736/1045)
+## Started 70_pruned_fasta_bs4 on [9:9] 
+End of 29_pruned_fasta_bs0 after 5212ms  (737/1045)
+## Started 70_pruned_fasta_bs5 on [1:1] 
+End of 91_pruned_fasta_bs9 after 3588ms  (738/1045)
+## Started 70_pruned_fasta_bs6 on [11:11] 
+End of 28_pruned_fasta_bs4 after 5718ms  (739/1045)
+## Started 70_pruned_fasta_bs7 on [6:6] 
+End of 91_pruned_fasta_bs7 after 3689ms  (740/1045)
+## Started 70_pruned_fasta_bs8 on [0:0] 
+End of 91_pruned_fasta_bs8 after 3747ms  (741/1045)
+## Started 70_pruned_fasta_bs9 on [35:35] 
+End of 28_pruned_fasta_bs2 after 5826ms  (742/1045)
+## Started 64_pruned_fasta_bs8 on [23:23] 
+End of 89_pruned_fasta_bs5 after 1831ms  (743/1045)
+## Started 64_pruned_fasta_bs9 on [21:21] 
+End of 37_pruned_fasta_bs1 after 2982ms  (744/1045)
+## Started 64_pruned_fasta_bs6 on [20:20] 
+End of 37_pruned_fasta_bs0 after 3050ms  (745/1045)
+## Started 64_pruned_fasta_bs5 on [38:38] 
+End of 89_pruned_fasta_bs6 after 2034ms  (746/1045)
+## Started 64_pruned_fasta_bs7 on [15:15] 
+End of 91_pruned_fasta_bs2 after 3877ms  (747/1045)
+## Started 64_pruned_fasta_bs4 on [3:3] 
+End of 91_pruned_fasta_bs1 after 3998ms  (748/1045)
+## Started 64_pruned_fasta_bs3 on [19:19] 
+End of 37_pruned_fasta_bs2 after 3212ms  (749/1045)
+## Started 64_pruned_fasta_bs2 on [29:29] 
+End of 29_pruned_fasta_bs9 after 4981ms  (750/1045)
+## Started 64_pruned_fasta_bs1 on [36:36] 
+End of 37_pruned_fasta_bs3 after 3208ms  (751/1045)
+## Started 64_pruned_fasta_bs0 on [13:13] 
+End of 37_pruned_fasta_bs8 after 3465ms  (752/1045)
+## Started 84_pruned_fasta_bs9 on [12:12] 
+End of 89_pruned_fasta_bs3 after 1967ms  (753/1045)
+## Started 84_pruned_fasta_bs8 on [33:33] 
+End of 91_pruned_fasta_bs0 after 4322ms  (754/1045)
+## Started 84_pruned_fasta_bs7 on [18:18] 
+End of 37_pruned_fasta_bs9 after 3588ms  (755/1045)
+## Started 84_pruned_fasta_bs6 on [28:28] 
+End of 91_pruned_fasta_bs4 after 3839ms  (756/1045)
+## Started 84_pruned_fasta_bs5 on [26:26] 
+End of 91_pruned_fasta_bs3 after 4235ms  (757/1045)
+## Started 84_pruned_fasta_bs4 on [25:25] 
+End of 37_pruned_fasta_bs5 after 3126ms  (758/1045)
+## Started 84_pruned_fasta_bs3 on [34:34] 
+End of 37_pruned_fasta_bs6 after 3076ms  (759/1045)
+## Started 84_pruned_fasta_bs2 on [2:2] 
+End of 89_pruned_fasta_bs4 after 1938ms  (760/1045)
+## Started 84_pruned_fasta_bs0 on [37:37] 
+End of 29_pruned_fasta_bs7 after 5293ms  (761/1045)
+## Started 84_pruned_fasta_bs1 on [27:27] 
+End of 89_pruned_fasta_bs2 after 1992ms  (762/1045)
+## Started 63_pruned_fasta_bs2 on [31:31] 
+End of 37_pruned_fasta_bs7 after 3325ms  (763/1045)
+## Started 63_pruned_fasta_bs7 on [8:8] 
+End of 37_pruned_fasta_bs4 after 3711ms  (764/1045)
+## Started mlsearch_48_pruned_fasta_0 on [22:22] 
+End of 89_pruned_fasta_bs1 after 2049ms  (765/1045)
+## Started 63_pruned_fasta_bs0 on [5:5] 
+End of 91_pruned_fasta_bs6 after 4287ms  (766/1045)
+## Started 63_pruned_fasta_bs1 on [10:10] 
+End of 89_pruned_fasta_bs7 after 1975ms  (767/1045)
+## Started 63_pruned_fasta_bs3 on [7:7] 
+End of 89_pruned_fasta_bs8 after 1970ms  (768/1045)
+## Started 63_pruned_fasta_bs4 on [4:4] 
+End of 89_pruned_fasta_bs0 after 2031ms  (769/1045)
+## Started 63_pruned_fasta_bs5 on [30:30] 
+End of 64_pruned_fasta_bs8 after 1662ms  (770/1045)
+## Started 63_pruned_fasta_bs6 on [23:23] 
+End of 64_pruned_fasta_bs7 after 1438ms  (771/1045)
+## Started 63_pruned_fasta_bs9 on [15:15] 
+End of 70_pruned_fasta_bs1 after 2185ms  (772/1045)
+## Started 63_pruned_fasta_bs8 on [14:14] 
+End of 70_pruned_fasta_bs0 after 2108ms  (773/1045)
+## Started 78_pruned_fasta_bs9 on [17:17] 
+End of 64_pruned_fasta_bs6 after 1504ms  (774/1045)
+## Started 78_pruned_fasta_bs8 on [20:20] 
+End of 64_pruned_fasta_bs3 after 1431ms  (775/1045)
+## Started 78_pruned_fasta_bs7 on [19:19] 
+End of 64_pruned_fasta_bs4 after 1512ms  (776/1045)
+## Started 78_pruned_fasta_bs6 on [3:3] 
+End of 64_pruned_fasta_bs5 after 1613ms  (777/1045)
+## Started 78_pruned_fasta_bs5 on [38:38] 
+End of 64_pruned_fasta_bs9 after 1669ms  (778/1045)
+## Started 78_pruned_fasta_bs4 on [21:21] 
+End of 84_pruned_fasta_bs6 after 1215ms  (779/1045)
+## Started 78_pruned_fasta_bs3 on [28:28] 
+End of 70_pruned_fasta_bs7 after 2033ms  (780/1045)
+## Started 78_pruned_fasta_bs2 on [6:6] 
+End of 70_pruned_fasta_bs3 after 2215ms  (781/1045)
+## Started 78_pruned_fasta_bs0 on [32:32] 
+End of 84_pruned_fasta_bs8 after 1341ms  (782/1045)
+## Started 78_pruned_fasta_bs1 on [33:33] 
+End of 84_pruned_fasta_bs9 after 1369ms  (783/1045)
+## Started mlsearch_32_pruned_fasta_0 on [12:12] 
+End of 64_pruned_fasta_bs2 after 1484ms  (784/1045)
+## Started mlsearch_60_pruned_fasta_0 on [29:29] 
+End of 70_pruned_fasta_bs2 after 2378ms  (785/1045)
+## Started mlsearch_92_pruned_fasta_0 on [16:16] 
+End of 70_pruned_fasta_bs9 after 2081ms  (786/1045)
+## Started mlsearch_62_pruned_fasta_0 on [35:35] 
+End of 70_pruned_fasta_bs6 after 2295ms  (787/1045)
+## Started mlsearch_90_pruned_fasta_0 on [11:11] 
+End of 84_pruned_fasta_bs7 after 1446ms  (788/1045)
+## Started mlsearch_58_pruned_fasta_0 on [18:18] 
+End of 64_pruned_fasta_bs1 after 1540ms  (789/1045)
+## Started mlsearch_51_pruned_fasta_0 on [36:36] 
+End of 84_pruned_fasta_bs2 after 1299ms  (790/1045)
+## Started mlsearch_26_pruned_fasta_0 on [2:2] 
+End of 89_pruned_fasta_bs9 after 2754ms  (791/1045)
+## Started mlsearch_14_pruned_fasta_0 on [24:24] 
+End of 64_pruned_fasta_bs0 after 1515ms  (792/1045)
+## Started 74_pruned_fasta_bs0 on [13:13] 
+End of 70_pruned_fasta_bs4 after 2375ms  (793/1045)
+## Started 45_pruned_fasta_bs8 on [9:9] 
+End of 84_pruned_fasta_bs5 after 1370ms  (794/1045)
+## Started 45_pruned_fasta_bs9 on [26:26] 
+End of 84_pruned_fasta_bs4 after 1371ms  (795/1045)
+## Started 74_pruned_fasta_bs9 on [25:25] 
+End of 84_pruned_fasta_bs3 after 1337ms  (796/1045)
+## Started 74_pruned_fasta_bs8 on [34:34] 
+End of 70_pruned_fasta_bs5 after 2375ms  (797/1045)
+## Started 45_pruned_fasta_bs1 on [1:1] 
+End of 70_pruned_fasta_bs8 after 2375ms  (798/1045)
+## Started 74_pruned_fasta_bs1 on [0:0] 
+End of 84_pruned_fasta_bs0 after 1366ms  (799/1045)
+## Started 74_pruned_fasta_bs2 on [37:37] 
+End of 84_pruned_fasta_bs1 after 1412ms  (800/1045)
+## Started 74_pruned_fasta_bs3 on [27:27] 
+End of 74_pruned_fasta_bs8 after 542ms  (801/1045)
+## Started 74_pruned_fasta_bs4 on [34:34] 
+End of 74_pruned_fasta_bs9 after 603ms  (802/1045)
+## Started 74_pruned_fasta_bs5 on [25:25] 
+End of 74_pruned_fasta_bs0 after 644ms  (803/1045)
+## Started 74_pruned_fasta_bs6 on [13:13] 
+End of 63_pruned_fasta_bs7 after 1637ms  (804/1045)
+## Started 74_pruned_fasta_bs7 on [8:8] 
+End of 45_pruned_fasta_bs8 after 722ms  (805/1045)
+## Started 45_pruned_fasta_bs2 on [9:9] 
+End of 74_pruned_fasta_bs1 after 571ms  (806/1045)
+## Started 45_pruned_fasta_bs0 on [0:0] 
+End of 45_pruned_fasta_bs9 after 745ms  (807/1045)
+## Started 45_pruned_fasta_bs6 on [26:26] 
+End of 45_pruned_fasta_bs1 after 733ms  (808/1045)
+## Started 45_pruned_fasta_bs7 on [1:1] 
+End of 63_pruned_fasta_bs2 after 1846ms  (809/1045)
+## Started 45_pruned_fasta_bs5 on [31:31] 
+End of 78_pruned_fasta_bs7 after 1193ms  (810/1045)
+## Started 45_pruned_fasta_bs3 on [19:19] 
+End of 63_pruned_fasta_bs3 after 1682ms  (811/1045)
+## Started 45_pruned_fasta_bs4 on [7:7] 
+End of 63_pruned_fasta_bs5 after 1675ms  (812/1045)
+## Started mlsearch_30_pruned_fasta_0 on [30:30] 
+End of 78_pruned_fasta_bs8 after 1286ms  (813/1045)
+## Started mlsearch_6_pruned_fasta_0 on [20:20] 
+End of 78_pruned_fasta_bs9 after 1297ms  (814/1045)
+## Started mlsearch_7_pruned_fasta_0 on [17:17] 
+End of 74_pruned_fasta_bs2 after 652ms  (815/1045)
+## Started 5_pruned_fasta_bs7 on [37:37] 
+End of 63_pruned_fasta_bs4 after 1732ms  (816/1045)
+## Started 5_pruned_fasta_bs3 on [4:4] 
+End of 78_pruned_fasta_bs0 after 1169ms  (817/1045)
+## Started 5_pruned_fasta_bs4 on [32:32] 
+End of 78_pruned_fasta_bs4 after 1251ms  (818/1045)
+## Started 5_pruned_fasta_bs5 on [21:21] 
+End of 63_pruned_fasta_bs0 after 1826ms  (819/1045)
+## Started 5_pruned_fasta_bs6 on [5:5] 
+End of 74_pruned_fasta_bs3 after 658ms  (820/1045)
+## Started 5_pruned_fasta_bs8 on [27:27] 
+End of 78_pruned_fasta_bs3 after 1324ms  (821/1045)
+## Started 5_pruned_fasta_bs0 on [28:28] 
+End of 78_pruned_fasta_bs5 after 1377ms  (822/1045)
+## Started 5_pruned_fasta_bs1 on [38:38] 
+End of 78_pruned_fasta_bs2 after 1317ms  (823/1045)
+## Started 5_pruned_fasta_bs9 on [6:6] 
+End of 63_pruned_fasta_bs1 after 1912ms  (824/1045)
+## Started 5_pruned_fasta_bs2 on [10:10] 
+End of 78_pruned_fasta_bs1 after 1291ms  (825/1045)
+## Started 12_pruned_fasta_bs5 on [33:33] 
+End of 78_pruned_fasta_bs6 after 1434ms  (826/1045)
+## Started 12_pruned_fasta_bs0 on [3:3] 
+End of 74_pruned_fasta_bs5 after 541ms  (827/1045)
+## Started 12_pruned_fasta_bs1 on [25:25] 
+End of 74_pruned_fasta_bs6 after 559ms  (828/1045)
+## Started 12_pruned_fasta_bs3 on [13:13] 
+End of 74_pruned_fasta_bs4 after 660ms  (829/1045)
+## Started 12_pruned_fasta_bs4 on [34:34] 
+End of 63_pruned_fasta_bs6 after 1650ms  (830/1045)
+## Started 12_pruned_fasta_bs6 on [23:23] 
+End of 74_pruned_fasta_bs7 after 583ms  (831/1045)
+## Started 12_pruned_fasta_bs7 on [8:8] 
+End of 45_pruned_fasta_bs7 after 685ms  (832/1045)
+## Started 12_pruned_fasta_bs8 on [1:1] 
+End of 63_pruned_fasta_bs9 after 1862ms  (833/1045)
+## Started 12_pruned_fasta_bs2 on [15:15] 
+End of 45_pruned_fasta_bs2 after 753ms  (834/1045)
+## Started 12_pruned_fasta_bs9 on [9:9] 
+End of 45_pruned_fasta_bs0 after 730ms  (835/1045)
+## Started mlsearch_87_pruned_fasta_0 on [0:0] 
+End of 45_pruned_fasta_bs6 after 734ms  (836/1045)
+## Started mlsearch_47_pruned_fasta_0 on [26:26] 
+End of 5_pruned_fasta_bs4 after 552ms  (837/1045)
+## Started mlsearch_67_pruned_fasta_0 on [32:32] 
+End of 5_pruned_fasta_bs7 after 576ms  (838/1045)
+## Started mlsearch_52_pruned_fasta_0 on [37:37] 
+End of 63_pruned_fasta_bs8 after 1937ms  (839/1045)
+## Started mlsearch_46_pruned_fasta_0 on [14:14] 
+End of 5_pruned_fasta_bs3 after 607ms  (840/1045)
+## Started mlsearch_72_pruned_fasta_0 on [4:4] 
+End of 5_pruned_fasta_bs6 after 561ms  (841/1045)
+## Started mlsearch_9_pruned_fasta_0 on [5:5] 
+End of 5_pruned_fasta_bs5 after 585ms  (842/1045)
+## Started mlsearch_35_pruned_fasta_0 on [21:21] 
+End of 5_pruned_fasta_bs8 after 553ms  (843/1045)
+## Started mlsearch_99_pruned_fasta_0 on [27:27] 
+End of 45_pruned_fasta_bs5 after 741ms  (844/1045)
+## Started mlsearch_77_pruned_fasta_0 on [31:31] 
+End of 45_pruned_fasta_bs4 after 747ms  (845/1045)
+## Started mlsearch_0_pruned_fasta_0 on [7:7] 
+End of 45_pruned_fasta_bs3 after 758ms  (846/1045)
+## Started mlsearch_98_pruned_fasta_0 on [19:19] 
+End of 5_pruned_fasta_bs0 after 576ms  (847/1045)
+## Started mlsearch_54_pruned_fasta_0 on [28:28] 
+End of 5_pruned_fasta_bs2 after 570ms  (848/1045)
+## Started mlsearch_86_pruned_fasta_0 on [10:10] 
+End of 5_pruned_fasta_bs1 after 587ms  (849/1045)
+## Started mlsearch_55_pruned_fasta_0 on [38:38] 
+End of 5_pruned_fasta_bs9 after 582ms  (850/1045)
+## Started mlsearch_43_pruned_fasta_0 on [6:6] 
+End of 12_pruned_fasta_bs0 after 783ms  (851/1045)
+## Started mlsearch_88_pruned_fasta_0 on [3:3] 
+End of 12_pruned_fasta_bs1 after 806ms  (852/1045)
+## Started mlsearch_61_pruned_fasta_0 on [25:25] 
+End of 12_pruned_fasta_bs5 after 854ms  (853/1045)
+## Started mlsearch_2_pruned_fasta_0 on [33:33] 
+End of 12_pruned_fasta_bs4 after 792ms  (854/1045)
+## Started mlsearch_40_pruned_fasta_0 on [34:34] 
+End of 12_pruned_fasta_bs6 after 799ms  (855/1045)
+## Started mlsearch_69_pruned_fasta_0 on [23:23] 
+End of 12_pruned_fasta_bs3 after 836ms  (856/1045)
+## Started mlsearch_10_pruned_fasta_0 on [13:13] 
+End of 12_pruned_fasta_bs7 after 802ms  (857/1045)
+## Started mlsearch_66_pruned_fasta_0 on [8:8] 
+End of 12_pruned_fasta_bs2 after 772ms  (858/1045)
+## Started mlsearch_21_pruned_fasta_0 on [15:15] 
+End of 12_pruned_fasta_bs8 after 782ms  (859/1045)
+## Started mlsearch_81_pruned_fasta_0 on [1:1] 
+End of 12_pruned_fasta_bs9 after 752ms  (860/1045)
+## Started mlsearch_27_pruned_fasta_0 on [9:9] 
+End of mlsearch_27_pruned_fasta_0 after 2430ms  (861/1045)
+## Started mlsearch_39_pruned_fasta_0 on [9:9] 
+End of mlsearch_10_pruned_fasta_0 after 2669ms  (862/1045)
+## Started mlsearch_4_pruned_fasta_0 on [13:13] 
+End of mlsearch_40_pruned_fasta_0 after 2750ms  (863/1045)
+## Started mlsearch_97_pruned_fasta_0 on [34:34] 
+End of mlsearch_81_pruned_fasta_0 after 2579ms  (864/1045)
+## Started mlsearch_22_pruned_fasta_0 on [1:1] 
+End of mlsearch_0_pruned_fasta_0 after 3314ms  (865/1045)
+## Started mlsearch_53_pruned_fasta_0 on [7:7] 
+End of mlsearch_55_pruned_fasta_0 after 3266ms  (866/1045)
+## Started mlsearch_34_pruned_fasta_0 on [38:38] 
+End of mlsearch_61_pruned_fasta_0 after 3021ms  (867/1045)
+## Started mlsearch_8_pruned_fasta_0 on [25:25] 
+End of mlsearch_43_pruned_fasta_0 after 3348ms  (868/1045)
+## Started mlsearch_65_pruned_fasta_0 on [6:6] 
+End of mlsearch_66_pruned_fasta_0 after 3440ms  (869/1045)
+## Started mlsearch_1_pruned_fasta_0 on [8:8] 
+End of mlsearch_69_pruned_fasta_0 after 3591ms  (870/1045)
+## Started mlsearch_93_pruned_fasta_0 on [23:23] 
+End of mlsearch_86_pruned_fasta_0 after 3942ms  (871/1045)
+## Started mlsearch_18_pruned_fasta_0 on [10:10] 
+End of mlsearch_67_pruned_fasta_0 after 4129ms  (872/1045)
+## Started 20_pruned_fasta_bs3 on [32:32] 
+End of mlsearch_77_pruned_fasta_0 after 4065ms  (873/1045)
+## Started 20_pruned_fasta_bs0 on [31:31] 
+End of mlsearch_21_pruned_fasta_0 after 3485ms  (874/1045)
+## Started 20_pruned_fasta_bs9 on [15:15] 
+End of mlsearch_30_pruned_fasta_0 after 4824ms  (875/1045)
+## Started 20_pruned_fasta_bs8 on [30:30] 
+End of mlsearch_6_pruned_fasta_0 after 4944ms  (876/1045)
+## Started 20_pruned_fasta_bs1 on [20:20] 
+End of 20_pruned_fasta_bs3 after 257ms  (877/1045)
+## Started 20_pruned_fasta_bs7 on [32:32] 
+End of mlsearch_88_pruned_fasta_0 after 3990ms  (878/1045)
+## Started 20_pruned_fasta_bs6 on [3:3] 
+End of 20_pruned_fasta_bs0 after 263ms  (879/1045)
+## Started 20_pruned_fasta_bs5 on [31:31] 
+End of 20_pruned_fasta_bs9 after 250ms  (880/1045)
+## Started 20_pruned_fasta_bs4 on [15:15] 
+End of 20_pruned_fasta_bs8 after 249ms  (881/1045)
+## Started 20_pruned_fasta_bs2 on [30:30] 
+End of mlsearch_2_pruned_fasta_0 after 3987ms  (882/1045)
+## Started mlsearch_79_pruned_fasta_0 on [33:33] 
+End of mlsearch_35_pruned_fasta_0 after 4439ms  (883/1045)
+## Started mlsearch_50_pruned_fasta_0 on [21:21] 
+End of mlsearch_54_pruned_fasta_0 after 4427ms  (884/1045)
+## Started mlsearch_85_pruned_fasta_0 on [28:28] 
+End of 20_pruned_fasta_bs1 after 263ms  (885/1045)
+## Started mlsearch_80_pruned_fasta_0 on [20:20] 
+End of mlsearch_98_pruned_fasta_0 after 4507ms  (886/1045)
+## Started mlsearch_56_pruned_fasta_0 on [19:19] 
+End of mlsearch_26_pruned_fasta_0 after 6170ms  (887/1045)
+## Started 73_pruned_fasta_bs1 on [2:2] 
+End of mlsearch_72_pruned_fasta_0 after 4609ms  (888/1045)
+## Started 73_pruned_fasta_bs3 on [4:4] 
+End of mlsearch_90_pruned_fasta_0 after 6223ms  (889/1045)
+## Started 73_pruned_fasta_bs4 on [11:11] 
+End of 20_pruned_fasta_bs7 after 263ms  (890/1045)
+## Started 73_pruned_fasta_bs5 on [32:32] 
+End of 20_pruned_fasta_bs6 after 261ms  (891/1045)
+## Started 73_pruned_fasta_bs6 on [3:3] 
+End of 20_pruned_fasta_bs5 after 262ms  (892/1045)
+## Started 73_pruned_fasta_bs7 on [31:31] 
+End of mlsearch_62_pruned_fasta_0 after 6261ms  (893/1045)
+## Started 73_pruned_fasta_bs8 on [35:35] 
+End of mlsearch_99_pruned_fasta_0 after 4611ms  (894/1045)
+## Started 73_pruned_fasta_bs9 on [27:27] 
+End of mlsearch_47_pruned_fasta_0 after 4722ms  (895/1045)
+## Started 73_pruned_fasta_bs2 on [26:26] 
+End of 20_pruned_fasta_bs2 after 250ms  (896/1045)
+## Started 73_pruned_fasta_bs0 on [30:30] 
+End of 20_pruned_fasta_bs4 after 271ms  (897/1045)
+## Started mlsearch_49_pruned_fasta_0 on [15:15] 
+End of 73_pruned_fasta_bs1 after 256ms  (898/1045)
+## Started 16_pruned_fasta_bs3 on [2:2] 
+End of 73_pruned_fasta_bs5 after 254ms  (899/1045)
+## Started 16_pruned_fasta_bs1 on [32:32] 
+End of 73_pruned_fasta_bs7 after 255ms  (900/1045)
+## Started 16_pruned_fasta_bs2 on [31:31] 
+End of 73_pruned_fasta_bs6 after 264ms  (901/1045)
+## Started 16_pruned_fasta_bs0 on [3:3] 
+End of 73_pruned_fasta_bs3 after 280ms  (902/1045)
+## Started 16_pruned_fasta_bs9 on [4:4] 
+End of mlsearch_87_pruned_fasta_0 after 4964ms  (903/1045)
+## Started 16_pruned_fasta_bs8 on [0:0] 
+End of 73_pruned_fasta_bs4 after 283ms  (904/1045)
+## Started 16_pruned_fasta_bs7 on [11:11] 
+End of 73_pruned_fasta_bs9 after 257ms  (905/1045)
+## Started 16_pruned_fasta_bs6 on [27:27] 
+End of mlsearch_9_pruned_fasta_0 after 4911ms  (906/1045)
+## Started 16_pruned_fasta_bs5 on [5:5] 
+End of 73_pruned_fasta_bs2 after 274ms  (907/1045)
+## Started 16_pruned_fasta_bs4 on [26:26] 
+End of 73_pruned_fasta_bs8 after 289ms  (908/1045)
+## Started mlsearch_36_pruned_fasta_0 on [35:35] 
+End of 73_pruned_fasta_bs0 after 290ms  (909/1045)
+## Started mlsearch_76_pruned_fasta_0 on [30:30] 
+End of mlsearch_14_pruned_fasta_0 after 6561ms  (910/1045)
+## Started mlsearch_94_pruned_fasta_0 on [24:24] 
+End of mlsearch_4_pruned_fasta_0 after 2008ms  (911/1045)
+## Started mlsearch_13_pruned_fasta_0 on [13:13] 
+End of 16_pruned_fasta_bs9 after 278ms  (912/1045)
+## Started mlsearch_15_pruned_fasta_0 on [4:4] 
+End of 16_pruned_fasta_bs3 after 312ms  (913/1045)
+## Started mlsearch_38_pruned_fasta_0 on [2:2] 
+End of 16_pruned_fasta_bs1 after 307ms  (914/1045)
+## Started mlsearch_96_pruned_fasta_0 on [32:32] 
+End of 16_pruned_fasta_bs2 after 298ms  (915/1045)
+## Started 11_pruned_fasta_bs8 on [31:31] 
+End of 16_pruned_fasta_bs0 after 306ms  (916/1045)
+## Started 11_pruned_fasta_bs9 on [3:3] 
+End of 16_pruned_fasta_bs8 after 310ms  (917/1045)
+## Started 11_pruned_fasta_bs7 on [0:0] 
+End of 16_pruned_fasta_bs7 after 310ms  (918/1045)
+## Started 11_pruned_fasta_bs6 on [11:11] 
+End of 16_pruned_fasta_bs5 after 293ms  (919/1045)
+## Started 11_pruned_fasta_bs5 on [5:5] 
+End of 16_pruned_fasta_bs6 after 311ms  (920/1045)
+## Started 11_pruned_fasta_bs4 on [27:27] 
+End of 16_pruned_fasta_bs4 after 334ms  (921/1045)
+## Started 11_pruned_fasta_bs3 on [26:26] 
+End of mlsearch_39_pruned_fasta_0 after 2166ms  (922/1045)
+## Started 11_pruned_fasta_bs2 on [9:9] 
+End of mlsearch_8_pruned_fasta_0 after 1854ms  (923/1045)
+## Started 11_pruned_fasta_bs1 on [25:25] 
+End of mlsearch_60_pruned_fasta_0 after 7021ms  (924/1045)
+## Started 11_pruned_fasta_bs0 on [29:29] 
+End of 11_pruned_fasta_bs8 after 201ms  (925/1045)
+## Started 75_pruned_fasta_bs0 on [31:31] 
+End of 11_pruned_fasta_bs9 after 202ms  (926/1045)
+## Started 75_pruned_fasta_bs9 on [3:3] 
+End of 11_pruned_fasta_bs7 after 195ms  (927/1045)
+## Started 75_pruned_fasta_bs8 on [0:0] 
+End of 11_pruned_fasta_bs6 after 213ms  (928/1045)
+## Started 75_pruned_fasta_bs7 on [11:11] 
+End of 11_pruned_fasta_bs4 after 208ms  (929/1045)
+## Started 75_pruned_fasta_bs6 on [27:27] 
+End of 11_pruned_fasta_bs5 after 211ms  (930/1045)
+## Started 75_pruned_fasta_bs5 on [5:5] 
+End of 11_pruned_fasta_bs2 after 193ms  (931/1045)
+## Started 75_pruned_fasta_bs3 on [9:9] 
+End of 11_pruned_fasta_bs3 after 205ms  (932/1045)
+## Started 75_pruned_fasta_bs4 on [26:26] 
+End of 11_pruned_fasta_bs1 after 193ms  (933/1045)
+## Started 75_pruned_fasta_bs1 on [25:25] 
+End of mlsearch_46_pruned_fasta_0 after 5538ms  (934/1045)
+## Started 75_pruned_fasta_bs2 on [14:14] 
+End of mlsearch_7_pruned_fasta_0 after 6193ms  (935/1045)
+## Started mlsearch_31_pruned_fasta_0 on [17:17] 
+End of 75_pruned_fasta_bs9 after 181ms  (936/1045)
+## Started mlsearch_83_pruned_fasta_0 on [3:3] 
+End of 75_pruned_fasta_bs0 after 192ms  (937/1045)
+## Started 42_pruned_fasta_bs0 on [31:31] 
+End of 11_pruned_fasta_bs0 after 210ms  (938/1045)
+## Started mlsearch_19_pruned_fasta_0 on [29:29] 
+End of 75_pruned_fasta_bs8 after 202ms  (939/1045)
+## Started 42_pruned_fasta_bs1 on [0:0] 
+End of 75_pruned_fasta_bs7 after 187ms  (940/1045)
+## Started 42_pruned_fasta_bs2 on [11:11] 
+End of 75_pruned_fasta_bs6 after 185ms  (941/1045)
+## Started 42_pruned_fasta_bs3 on [27:27] 
+End of mlsearch_53_pruned_fasta_0 after 2223ms  (942/1045)
+## Started 42_pruned_fasta_bs4 on [7:7] 
+End of 75_pruned_fasta_bs5 after 198ms  (943/1045)
+## Started 42_pruned_fasta_bs5 on [5:5] 
+End of mlsearch_97_pruned_fasta_0 after 2412ms  (944/1045)
+## Started 42_pruned_fasta_bs6 on [34:34] 
+End of 75_pruned_fasta_bs3 after 191ms  (945/1045)
+## Started 42_pruned_fasta_bs7 on [9:9] 
+End of 75_pruned_fasta_bs4 after 196ms  (946/1045)
+## Started 42_pruned_fasta_bs8 on [26:26] 
+End of 75_pruned_fasta_bs1 after 193ms  (947/1045)
+## Started 42_pruned_fasta_bs9 on [25:25] 
+End of 75_pruned_fasta_bs2 after 182ms  (948/1045)
+## Started mlsearch_71_pruned_fasta_0 on [14:14] 
+End of mlsearch_22_pruned_fasta_0 after 2487ms  (949/1045)
+## Started 3_pruned_fasta_bs3 on [1:1] 
+End of mlsearch_51_pruned_fasta_0 after 7340ms  (950/1045)
+## Started 3_pruned_fasta_bs7 on [36:36] 
+End of 42_pruned_fasta_bs0 after 202ms  (951/1045)
+## Started 3_pruned_fasta_bs8 on [31:31] 
+End of 42_pruned_fasta_bs3 after 201ms  (952/1045)
+## Started 3_pruned_fasta_bs9 on [27:27] 
+End of 42_pruned_fasta_bs6 after 193ms  (953/1045)
+## Started 3_pruned_fasta_bs6 on [34:34] 
+End of 42_pruned_fasta_bs4 after 203ms  (954/1045)
+## Started 3_pruned_fasta_bs5 on [7:7] 
+End of 42_pruned_fasta_bs1 after 225ms  (955/1045)
+## Started 3_pruned_fasta_bs4 on [0:0] 
+End of 42_pruned_fasta_bs5 after 203ms  (956/1045)
+## Started 3_pruned_fasta_bs2 on [5:5] 
+End of 42_pruned_fasta_bs2 after 225ms  (957/1045)
+## Started 3_pruned_fasta_bs1 on [11:11] 
+End of 42_pruned_fasta_bs7 after 196ms  (958/1045)
+## Started 3_pruned_fasta_bs0 on [9:9] 
+End of 42_pruned_fasta_bs9 after 199ms  (959/1045)
+## Started 95_pruned_fasta_bs5 on [25:25] 
+End of 42_pruned_fasta_bs8 after 215ms  (960/1045)
+## Started 95_pruned_fasta_bs6 on [26:26] 
+End of mlsearch_92_pruned_fasta_0 after 7561ms  (961/1045)
+## Started 95_pruned_fasta_bs4 on [16:16] 
+End of mlsearch_34_pruned_fasta_0 after 2516ms  (962/1045)
+## Started 95_pruned_fasta_bs9 on [38:38] 
+End of 3_pruned_fasta_bs3 after 196ms  (963/1045)
+## Started 95_pruned_fasta_bs7 on [1:1] 
+End of 3_pruned_fasta_bs7 after 202ms  (964/1045)
+## Started 95_pruned_fasta_bs3 on [36:36] 
+End of 3_pruned_fasta_bs8 after 187ms  (965/1045)
+## Started 95_pruned_fasta_bs8 on [31:31] 
+End of 3_pruned_fasta_bs9 after 183ms  (966/1045)
+## Started 95_pruned_fasta_bs2 on [27:27] 
+End of 3_pruned_fasta_bs5 after 195ms  (967/1045)
+## Started 95_pruned_fasta_bs1 on [7:7] 
+End of 3_pruned_fasta_bs6 after 200ms  (968/1045)
+## Started 95_pruned_fasta_bs0 on [34:34] 
+End of 3_pruned_fasta_bs1 after 191ms  (969/1045)
+## Started mlsearch_82_pruned_fasta_0 on [11:11] 
+End of mlsearch_52_pruned_fasta_0 after 6060ms  (970/1045)
+## Started mlsearch_17_pruned_fasta_0 on [37:37] 
+End of 3_pruned_fasta_bs4 after 204ms  (971/1045)
+## Started mlsearch_57_pruned_fasta_0 on [0:0] 
+End of 3_pruned_fasta_bs0 after 182ms  (972/1045)
+## Started mlsearch_23_pruned_fasta_0 on [9:9] 
+End of 3_pruned_fasta_bs2 after 216ms  (973/1045)
+## Started mlsearch_28_pruned_fasta_0 on [5:5] 
+End of 95_pruned_fasta_bs5 after 184ms  (974/1045)
+## Started mlsearch_24_pruned_fasta_0 on [25:25] 
+End of 95_pruned_fasta_bs6 after 202ms  (975/1045)
+## Started mlsearch_29_pruned_fasta_0 on [26:26] 
+End of mlsearch_1_pruned_fasta_0 after 2161ms  (976/1045)
+## Started mlsearch_91_pruned_fasta_0 on [8:8] 
+End of mlsearch_96_pruned_fasta_0 after 931ms  (977/1045)
+## Started mlsearch_37_pruned_fasta_0 on [32:32] 
+End of mlsearch_65_pruned_fasta_0 after 2621ms  (978/1045)
+## Started mlsearch_89_pruned_fasta_0 on [6:6] 
+End of 95_pruned_fasta_bs4 after 201ms  (979/1045)
+## Started 68_pruned_fasta_bs7 on [16:16] 
+End of 95_pruned_fasta_bs9 after 196ms  (980/1045)
+## Started 68_pruned_fasta_bs4 on [38:38] 
+End of 95_pruned_fasta_bs7 after 199ms  (981/1045)
+## Started 68_pruned_fasta_bs3 on [1:1] 
+End of 95_pruned_fasta_bs8 after 186ms  (982/1045)
+## Started 68_pruned_fasta_bs2 on [31:31] 
+End of 95_pruned_fasta_bs3 after 190ms  (983/1045)
+## Started 68_pruned_fasta_bs1 on [36:36] 
+End of mlsearch_50_pruned_fasta_0 after 1718ms  (984/1045)
+## Started 68_pruned_fasta_bs0 on [21:21] 
+End of 95_pruned_fasta_bs2 after 190ms  (985/1045)
+## Started 68_pruned_fasta_bs5 on [27:27] 
+End of 95_pruned_fasta_bs1 after 176ms  (986/1045)
+## Started 68_pruned_fasta_bs6 on [7:7] 
+End of mlsearch_80_pruned_fasta_0 after 1648ms  (987/1045)
+## Started 68_pruned_fasta_bs9 on [20:20] 
+End of 95_pruned_fasta_bs0 after 179ms  (988/1045)
+## Started 68_pruned_fasta_bs8 on [34:34] 
+End of 68_pruned_fasta_bs7 after 113ms  (989/1045)
+## Started mlsearch_70_pruned_fasta_0 on [16:16] 
+End of 68_pruned_fasta_bs4 after 117ms  (990/1045)
+## Started mlsearch_64_pruned_fasta_0 on [38:38] 
+End of 68_pruned_fasta_bs3 after 119ms  (991/1045)
+## Started mlsearch_84_pruned_fasta_0 on [1:1] 
+End of 68_pruned_fasta_bs1 after 117ms  (992/1045)
+## Started mlsearch_63_pruned_fasta_0 on [36:36] 
+End of 68_pruned_fasta_bs2 after 127ms  (993/1045)
+## Started mlsearch_78_pruned_fasta_0 on [31:31] 
+End of 68_pruned_fasta_bs0 after 117ms  (994/1045)
+## Started mlsearch_74_pruned_fasta_0 on [21:21] 
+End of 68_pruned_fasta_bs6 after 111ms  (995/1045)
+## Started mlsearch_45_pruned_fasta_0 on [7:7] 
+End of 68_pruned_fasta_bs5 after 121ms  (996/1045)
+## Started mlsearch_5_pruned_fasta_0 on [27:27] 
+End of 68_pruned_fasta_bs9 after 116ms  (997/1045)
+## Started mlsearch_12_pruned_fasta_0 on [20:20] 
+End of 68_pruned_fasta_bs8 after 117ms  (998/1045)
+## Started mlsearch_20_pruned_fasta_0 on [34:34] 
+End of mlsearch_49_pruned_fasta_0 after 1666ms  (999/1045)
+## Started mlsearch_73_pruned_fasta_0 on [15:15] 
+End of mlsearch_20_pruned_fasta_0 after 33ms  (1000/1045)
+## Started mlsearch_16_pruned_fasta_0 on [34:34] 
+End of mlsearch_31_pruned_fasta_0 after 820ms  (1001/1045)
+## Started mlsearch_11_pruned_fasta_0 on [17:17] 
+End of mlsearch_73_pruned_fasta_0 after 31ms  (1002/1045)
+## Started mlsearch_75_pruned_fasta_0 on [15:15] 
+End of mlsearch_38_pruned_fasta_0 after 1210ms  (1003/1045)
+## Started mlsearch_42_pruned_fasta_0 on [2:2] 
+End of mlsearch_5_pruned_fasta_0 after 75ms  (1004/1045)
+## Started mlsearch_3_pruned_fasta_0 on [27:27] 
+End of mlsearch_11_pruned_fasta_0 after 24ms  (1005/1045)
+## Started mlsearch_95_pruned_fasta_0 on [17:17] 
+End of mlsearch_89_pruned_fasta_0 after 278ms  (1006/1045)
+## Started mlsearch_68_pruned_fasta_0 on [6:6] 
+All commands were launched
+End of mlsearch_16_pruned_fasta_0 after 41ms  (1007/1045)
+End of mlsearch_74_pruned_fasta_0 after 101ms  (1008/1045)
+End of mlsearch_94_pruned_fasta_0 after 1388ms  (1009/1045)
+End of mlsearch_84_pruned_fasta_0 after 143ms  (1010/1045)
+End of mlsearch_75_pruned_fasta_0 after 22ms  (1011/1045)
+End of mlsearch_76_pruned_fasta_0 after 1446ms  (1012/1045)
+End of mlsearch_42_pruned_fasta_0 after 22ms  (1013/1045)
+End of mlsearch_56_pruned_fasta_0 after 1808ms  (1014/1045)
+End of mlsearch_68_pruned_fasta_0 after 13ms  (1015/1045)
+End of mlsearch_3_pruned_fasta_0 after 22ms  (1016/1045)
+End of mlsearch_95_pruned_fasta_0 after 22ms  (1017/1045)
+End of mlsearch_45_pruned_fasta_0 after 115ms  (1018/1045)
+End of mlsearch_12_pruned_fasta_0 after 125ms  (1019/1045)
+End of mlsearch_64_pruned_fasta_0 after 203ms  (1020/1045)
+End of mlsearch_79_pruned_fasta_0 after 2022ms  (1021/1045)
+End of mlsearch_78_pruned_fasta_0 after 176ms  (1022/1045)
+End of mlsearch_85_pruned_fasta_0 after 1957ms  (1023/1045)
+End of mlsearch_63_pruned_fasta_0 after 247ms  (1024/1045)
+End of mlsearch_70_pruned_fasta_0 after 292ms  (1025/1045)
+End of mlsearch_36_pruned_fasta_0 after 1594ms  (1026/1045)
+End of mlsearch_58_pruned_fasta_0 after 8115ms  (1027/1045)
+End of mlsearch_37_pruned_fasta_0 after 423ms  (1028/1045)
+End of mlsearch_83_pruned_fasta_0 after 1019ms  (1029/1045)
+End of mlsearch_82_pruned_fasta_0 after 604ms  (1030/1045)
+End of mlsearch_71_pruned_fasta_0 after 938ms  (1031/1045)
+End of mlsearch_17_pruned_fasta_0 after 607ms  (1032/1045)
+End of mlsearch_57_pruned_fasta_0 after 658ms  (1033/1045)
+End of mlsearch_24_pruned_fasta_0 after 657ms  (1034/1045)
+End of mlsearch_91_pruned_fasta_0 after 620ms  (1035/1045)
+End of mlsearch_23_pruned_fasta_0 after 700ms  (1036/1045)
+End of mlsearch_28_pruned_fasta_0 after 723ms  (1037/1045)
+End of mlsearch_13_pruned_fasta_0 after 1663ms  (1038/1045)
+End of mlsearch_18_pruned_fasta_0 after 2857ms  (1039/1045)
+End of mlsearch_19_pruned_fasta_0 after 1374ms  (1040/1045)
+End of mlsearch_15_pruned_fasta_0 after 1828ms  (1041/1045)
+End of mlsearch_93_pruned_fasta_0 after 2925ms  (1042/1045)
+End of mlsearch_29_pruned_fasta_0 after 954ms  (1043/1045)
+End of mlsearch_32_pruned_fasta_0 after 9128ms  (1044/1045)
+End of mlsearch_48_pruned_fasta_0 after 12290ms  (1045/1045)
+Finished running commands. Total elasped time: 494s
+Load balance ratio: 0.993687
+Saving svg output in ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/pargenes/mlsearch_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

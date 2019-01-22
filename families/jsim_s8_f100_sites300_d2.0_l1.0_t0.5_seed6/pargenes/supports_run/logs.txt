@@ -1,0 +1,199 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 279461
+Remaining commands: 95
+## Started support_53_pruned_fasta on [0:0] 
+## Started support_15_pruned_fasta on [19:19] 
+## Started support_60_pruned_fasta on [9:9] 
+## Started support_76_pruned_fasta on [4:4] 
+## Started support_47_pruned_fasta on [2:2] 
+## Started support_65_pruned_fasta on [1:1] 
+## Started support_26_pruned_fasta on [29:29] 
+## Started support_66_pruned_fasta on [24:24] 
+## Started support_63_pruned_fasta on [21:21] 
+## Started support_17_pruned_fasta on [20:20] 
+## Started support_61_pruned_fasta on [14:14] 
+## Started support_30_pruned_fasta on [11:11] 
+## Started support_35_pruned_fasta on [10:10] 
+## Started support_69_pruned_fasta on [6:6] 
+## Started support_94_pruned_fasta on [5:5] 
+## Started support_29_pruned_fasta on [3:3] 
+## Started support_77_pruned_fasta on [34:34] 
+## Started support_14_pruned_fasta on [31:31] 
+## Started support_40_pruned_fasta on [30:30] 
+## Started support_96_pruned_fasta on [26:26] 
+## Started support_49_pruned_fasta on [25:25] 
+## Started support_64_pruned_fasta on [22:22] 
+## Started support_92_pruned_fasta on [16:16] 
+## Started support_39_pruned_fasta on [15:15] 
+## Started support_46_pruned_fasta on [12:12] 
+## Started support_20_pruned_fasta on [7:7] 
+## Started support_43_pruned_fasta on [36:36] 
+## Started support_90_pruned_fasta on [35:35] 
+## Started support_98_pruned_fasta on [32:32] 
+## Started support_91_pruned_fasta on [27:27] 
+## Started support_32_pruned_fasta on [23:23] 
+## Started support_18_pruned_fasta on [17:17] 
+## Started support_95_pruned_fasta on [13:13] 
+## Started support_87_pruned_fasta on [8:8] 
+## Started support_51_pruned_fasta on [37:37] 
+## Started support_4_pruned_fasta on [33:33] 
+## Started support_5_pruned_fasta on [28:28] 
+## Started support_73_pruned_fasta on [18:18] 
+## Started support_42_pruned_fasta on [38:38] 
+End of support_63_pruned_fasta after 3ms  (1/95)
+## Started support_86_pruned_fasta on [21:21] 
+End of support_95_pruned_fasta after 3ms  (2/95)
+## Started support_11_pruned_fasta on [13:13] 
+End of support_20_pruned_fasta after 4ms  (3/95)
+## Started support_52_pruned_fasta on [7:7] 
+End of support_73_pruned_fasta after 4ms  (4/95)
+## Started support_31_pruned_fasta on [18:18] 
+End of support_17_pruned_fasta after 4ms  (5/95)
+## Started support_21_pruned_fasta on [20:20] 
+End of support_42_pruned_fasta after 4ms  (6/95)
+## Started support_7_pruned_fasta on [38:38] 
+End of support_5_pruned_fasta after 4ms  (7/95)
+## Started support_62_pruned_fasta on [28:28] 
+End of support_91_pruned_fasta after 4ms  (8/95)
+## Started support_36_pruned_fasta on [27:27] 
+End of support_64_pruned_fasta after 5ms  (9/95)
+## Started support_19_pruned_fasta on [22:22] 
+End of support_11_pruned_fasta after 1ms  (10/95)
+## Started support_6_pruned_fasta on [13:13] 
+End of support_29_pruned_fasta after 5ms  (11/95)
+## Started support_3_pruned_fasta on [3:3] 
+End of support_15_pruned_fasta after 5ms  (12/95)
+## Started support_88_pruned_fasta on [19:19] 
+End of support_49_pruned_fasta after 6ms  (13/95)
+## Started support_80_pruned_fasta on [25:25] 
+End of support_3_pruned_fasta after 1ms  (14/95)
+## Started support_24_pruned_fasta on [3:3] 
+End of support_53_pruned_fasta after 8ms  (15/95)
+## Started support_85_pruned_fasta on [0:0] 
+End of support_76_pruned_fasta after 8ms  (16/95)
+## Started support_71_pruned_fasta on [4:4] 
+End of support_94_pruned_fasta after 8ms  (17/95)
+## Started support_37_pruned_fasta on [5:5] 
+End of support_66_pruned_fasta after 8ms  (18/95)
+## Started support_89_pruned_fasta on [24:24] 
+End of support_65_pruned_fasta after 8ms  (19/95)
+## Started support_81_pruned_fasta on [1:1] 
+End of support_31_pruned_fasta after 4ms  (20/95)
+## Started support_34_pruned_fasta on [18:18] 
+End of support_18_pruned_fasta after 9ms  (21/95)
+## Started support_82_pruned_fasta on [17:17] 
+End of support_19_pruned_fasta after 4ms  (22/95)
+## Started support_56_pruned_fasta on [22:22] 
+End of support_39_pruned_fasta after 9ms  (23/95)
+## Started support_55_pruned_fasta on [15:15] 
+End of support_43_pruned_fasta after 9ms  (24/95)
+## Started support_22_pruned_fasta on [36:36] 
+End of support_4_pruned_fasta after 9ms  (25/95)
+## Started support_8_pruned_fasta on [33:33] 
+End of support_96_pruned_fasta after 9ms  (26/95)
+## Started support_1_pruned_fasta on [26:26] 
+End of support_69_pruned_fasta after 10ms  (27/95)
+## Started support_13_pruned_fasta on [6:6] 
+End of support_77_pruned_fasta after 10ms  (28/95)
+## Started support_75_pruned_fasta on [34:34] 
+End of support_36_pruned_fasta after 5ms  (29/95)
+## Started support_57_pruned_fasta on [27:27] 
+End of support_24_pruned_fasta after 3ms  (30/95)
+## Started support_12_pruned_fasta on [3:3] 
+End of support_61_pruned_fasta after 10ms  (31/95)
+## Started support_79_pruned_fasta on [14:14] 
+End of support_40_pruned_fasta after 11ms  (32/95)
+## Started support_50_pruned_fasta on [30:30] 
+End of support_98_pruned_fasta after 11ms  (33/95)
+## Started support_27_pruned_fasta on [32:32] 
+End of support_37_pruned_fasta after 3ms  (34/95)
+## Started support_93_pruned_fasta on [5:5] 
+End of support_75_pruned_fasta after 1ms  (35/95)
+## Started support_67_pruned_fasta on [34:34] 
+End of support_89_pruned_fasta after 3ms  (36/95)
+## Started support_68_pruned_fasta on [24:24] 
+End of support_21_pruned_fasta after 7ms  (37/95)
+## Started support_28_pruned_fasta on [20:20] 
+End of support_90_pruned_fasta after 12ms  (38/95)
+## Started support_48_pruned_fasta on [35:35] 
+End of support_86_pruned_fasta after 8ms  (39/95)
+## Started support_9_pruned_fasta on [21:21] 
+End of support_47_pruned_fasta after 12ms  (40/95)
+## Started support_83_pruned_fasta on [2:2] 
+End of support_71_pruned_fasta after 4ms  (41/95)
+## Started support_72_pruned_fasta on [4:4] 
+End of support_80_pruned_fasta after 6ms  (42/95)
+## Started support_78_pruned_fasta on [25:25] 
+End of support_51_pruned_fasta after 12ms  (43/95)
+## Started support_74_pruned_fasta on [37:37] 
+End of support_46_pruned_fasta after 12ms  (44/95)
+## Started support_38_pruned_fasta on [12:12] 
+End of support_12_pruned_fasta after 2ms  (45/95)
+## Started support_99_pruned_fasta on [3:3] 
+End of support_30_pruned_fasta after 13ms  (46/95)
+## Started support_58_pruned_fasta on [11:11] 
+End of support_82_pruned_fasta after 4ms  (47/95)
+## Started support_84_pruned_fasta on [17:17] 
+End of support_14_pruned_fasta after 13ms  (48/95)
+## Started support_45_pruned_fasta on [31:31] 
+End of support_68_pruned_fasta after 1ms  (49/95)
+## Started support_97_pruned_fasta on [24:24] 
+End of support_52_pruned_fasta after 10ms  (50/95)
+## Started support_23_pruned_fasta on [7:7] 
+End of support_85_pruned_fasta after 6ms  (51/95)
+## Started support_2_pruned_fasta on [0:0] 
+End of support_92_pruned_fasta after 14ms  (52/95)
+## Started support_10_pruned_fasta on [16:16] 
+End of support_26_pruned_fasta after 14ms  (53/95)
+## Started support_54_pruned_fasta on [29:29] 
+End of support_88_pruned_fasta after 8ms  (54/95)
+## Started support_16_pruned_fasta on [19:19] 
+End of support_57_pruned_fasta after 4ms  (55/95)
+## Started support_70_pruned_fasta on [27:27] 
+End of support_87_pruned_fasta after 14ms  (56/95)
+## Started support_0_pruned_fasta on [8:8] 
+All commands were launched
+End of support_60_pruned_fasta after 15ms  (57/95)
+End of support_74_pruned_fasta after 2ms  (58/95)
+End of support_13_pruned_fasta after 5ms  (59/95)
+End of support_7_pruned_fasta after 10ms  (60/95)
+End of support_78_pruned_fasta after 2ms  (61/95)
+End of support_45_pruned_fasta after 2ms  (62/95)
+End of support_56_pruned_fasta after 6ms  (63/95)
+End of support_34_pruned_fasta after 6ms  (64/95)
+End of support_28_pruned_fasta after 3ms  (65/95)
+End of support_84_pruned_fasta after 2ms  (66/95)
+End of support_81_pruned_fasta after 7ms  (67/95)
+End of support_32_pruned_fasta after 16ms  (68/95)
+End of support_6_pruned_fasta after 10ms  (69/95)
+End of support_16_pruned_fasta after 2ms  (70/95)
+End of support_8_pruned_fasta after 6ms  (71/95)
+End of support_22_pruned_fasta after 7ms  (72/95)
+End of support_62_pruned_fasta after 12ms  (73/95)
+End of support_35_pruned_fasta after 17ms  (74/95)
+End of support_50_pruned_fasta after 6ms  (75/95)
+End of support_83_pruned_fasta after 4ms  (76/95)
+End of support_79_pruned_fasta after 6ms  (77/95)
+End of support_70_pruned_fasta after 3ms  (78/95)
+End of support_38_pruned_fasta after 5ms  (79/95)
+End of support_23_pruned_fasta after 4ms  (80/95)
+End of support_93_pruned_fasta after 6ms  (81/95)
+End of support_55_pruned_fasta after 8ms  (82/95)
+End of support_27_pruned_fasta after 7ms  (83/95)
+End of support_1_pruned_fasta after 10ms  (84/95)
+End of support_97_pruned_fasta after 7ms  (85/95)
+End of support_9_pruned_fasta after 9ms  (86/95)
+End of support_67_pruned_fasta after 10ms  (87/95)
+End of support_10_pruned_fasta after 7ms  (88/95)
+End of support_99_pruned_fasta after 9ms  (89/95)
+End of support_2_pruned_fasta after 8ms  (90/95)
+End of support_72_pruned_fasta after 10ms  (91/95)
+End of support_54_pruned_fasta after 8ms  (92/95)
+End of support_0_pruned_fasta after 9ms  (93/95)
+End of support_58_pruned_fasta after 11ms  (94/95)
+End of support_48_pruned_fasta after 16ms  (95/95)
+Finished running commands. Total elasped time: 0s
+Load balance ratio: 0.564103
+Saving svg output in ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/pargenes/supports_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

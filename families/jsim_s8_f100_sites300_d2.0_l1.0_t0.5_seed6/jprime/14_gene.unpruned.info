@@ -1,0 +1,14 @@
+# GUESTTREEGEN
+Arguments:	[-max, 5000000, -s, 20, ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/jprime/species.pruned.tree, 2.0, 1.0, 0.5, ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/jprime/14_gene]
+Attempts:	2
+No. of vertices:	153
+No. of extant leaves:	56
+No. of speciations:	34
+No. of duplications:	33
+No. of losses:	21
+No. of transfers:	9
+Total branch time:	21.928278
+Total branch time beneath host stem:	21.928278
+Duplication ML estimate:	1.5049061
+Loss ML estimate:	0.95766754
+Transfer ML estimate:	0.41042894
