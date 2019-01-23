@@ -1,2 +1,0 @@
-> family 1 tree 1 re-rooting (total cost = 4, duplications = 2, losses = 0, contraction threshold = no, ALE logLk = -7.39863, libpll logLk = -1270.56, execution time = 0 s.)
-(G5_28:0.993691,((G1_27:0.061958,G2_27:0.088362):0.244833,G0_27:0.119525):0.993691);

@@ -1,1 +1,0 @@
-8 100 300 2.0 1.0 0.0 ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0

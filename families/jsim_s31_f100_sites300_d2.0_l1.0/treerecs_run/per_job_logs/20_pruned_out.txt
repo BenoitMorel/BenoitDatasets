@@ -1,13 +1,0 @@
-Treerecs, Inria - team Beagle, 2017
-> Branch supports distribution (support value, frequency):                           
-[0.00 - 53.00] :  ******************** (100.00%)
-
-Median value of supports: 53 (min = 53 and max = 53)
-> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [=============>      ]67% (remaining time: 0 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-                                                                        Solutions saved in ../BenoitDatasets/families/jsim_s8_f100_sites300_d2.0_l1.0/families/20_pruned/treerecs/treerecs_output.newick
-Total elapsed time 0.063 seconds.
