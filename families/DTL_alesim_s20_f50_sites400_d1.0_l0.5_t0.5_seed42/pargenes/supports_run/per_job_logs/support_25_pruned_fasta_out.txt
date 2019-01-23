@@ -1,0 +1,39 @@
+mpi-scheduler --support --tree ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/mlsearch_run/results/25_pruned_fasta/25_pruned_fasta.raxml.bestTree --bs-trees ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/concatenated_bootstraps/25_pruned_fasta.bs --threads 1 --prefix ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/supports_run/results/25_pruned_fasta.support 
+
+RAxML-NG v. 0.6.0git BETA released on 27.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+mpi-scheduler --support --tree ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/mlsearch_run/results/25_pruned_fasta/25_pruned_fasta.raxml.bestTree --bs-trees ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/concatenated_bootstraps/25_pruned_fasta.bs --threads 1 --prefix ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/supports_run/results/25_pruned_fasta.support
+
+Analysis options:
+  run mode: Compute bipartition support
+  start tree(s): user
+  random seed: 1548168234
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+Reading reference tree from file: ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/mlsearch_run/results/25_pruned_fasta/25_pruned_fasta.raxml.bestTree
+Reference tree size: 55
+
+Reading bootstrap trees from file: ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/concatenated_bootstraps/25_pruned_fasta.bs
+Bootstrap trees found: 100
+
+Best ML tree with bootstrap support values saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/supports_run/results/25_pruned_fasta.support.raxml.support
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/supports_run/results/25_pruned_fasta.support.raxml.log
+
+Analysis started: 22-Jan-2019 15:43:54 / finished: 22-Jan-2019 15:43:54
+
+Elapsed time: 0.016 seconds
+

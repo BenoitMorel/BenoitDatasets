@@ -1,0 +1,27 @@
+Treerecs, Inria - team Beagle, 2017
+> Branch supports distribution (support value, frequency):                           
+[0.00 - 66.57]   :  ****                 (13.63%)
+[66.57 - 72.14]  :  *                    ( 4.54%)
+[72.14 - 77.71]  :  *                    ( 4.54%)
+[77.71 - 83.28]  :  *                    ( 4.54%)
+[83.28 - 88.85]  :  *                    ( 4.54%)
+[88.85 - 94.42]  :  *                    ( 4.54%)
+[94.42 - 100.00] :  ******************** (63.63%)
+
+Median value of supports: 100 (min = 61 and max = 100)
+> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [==>                 ]14% (remaining time: 1 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [=====>              ]29% (remaining time: 1 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [========>           ]43% (remaining time: 1 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [===========>        ]57% (remaining time: 0 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [==============>     ]71% (remaining time: 0 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [=================>  ]86% (remaining time: 0 s.)> Note: gene tree 1 is un-rooted.
+  ...the tree is going to be rooted.
+Reconciling genetree 1: [====================]100% (remaining time: 0 s.)                                                                         Solutions saved in ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/19_pruned/treerecs/treerecs_output.newick
+Total elapsed time 1.284 seconds.

@@ -1,0 +1,119 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 141341
+Remaining commands: 55
+## Started parse_20_pruned_fasta on [0:0] 
+## Started parse_29_pruned_fasta on [19:19] 
+## Started parse_5_pruned_fasta on [9:9] 
+## Started parse_22_pruned_fasta on [4:4] 
+## Started parse_26_pruned_fasta on [2:2] 
+## Started parse_2_pruned_fasta on [1:1] 
+## Started parse_3_pruned_fasta on [29:29] 
+## Started parse_41_pruned_fasta on [24:24] 
+## Started parse_38_pruned_fasta on [21:21] 
+## Started parse_33_pruned_fasta on [20:20] 
+## Started parse_47_pruned_fasta on [14:14] 
+## Started parse_35_pruned_fasta on [11:11] 
+## Started parse_37_pruned_fasta on [10:10] 
+## Started parse_17_pruned_fasta on [6:6] 
+## Started parse_44_pruned_fasta on [5:5] 
+## Started parse_7_pruned_fasta on [3:3] 
+## Started parse_28_pruned_fasta on [34:34] 
+## Started parse_14_pruned_fasta on [31:31] 
+## Started parse_50_pruned_fasta on [30:30] 
+## Started parse_32_pruned_fasta on [26:26] 
+## Started parse_45_pruned_fasta on [25:25] 
+## Started parse_4_pruned_fasta on [22:22] 
+## Started parse_6_pruned_fasta on [16:16] 
+## Started parse_27_pruned_fasta on [15:15] 
+## Started parse_53_pruned_fasta on [12:12] 
+## Started parse_42_pruned_fasta on [7:7] 
+## Started parse_23_pruned_fasta on [36:36] 
+## Started parse_52_pruned_fasta on [35:35] 
+## Started parse_54_pruned_fasta on [32:32] 
+## Started parse_9_pruned_fasta on [27:27] 
+## Started parse_10_pruned_fasta on [23:23] 
+## Started parse_31_pruned_fasta on [17:17] 
+## Started parse_1_pruned_fasta on [13:13] 
+## Started parse_21_pruned_fasta on [8:8] 
+## Started parse_13_pruned_fasta on [37:37] 
+## Started parse_19_pruned_fasta on [33:33] 
+## Started parse_34_pruned_fasta on [28:28] 
+## Started parse_8_pruned_fasta on [18:18] 
+## Started parse_46_pruned_fasta on [38:38] 
+End of parse_4_pruned_fasta after 17ms  (1/55)
+## Started parse_18_pruned_fasta on [22:22] 
+End of parse_35_pruned_fasta after 17ms  (2/55)
+## Started parse_0_pruned_fasta on [11:11] 
+End of parse_27_pruned_fasta after 17ms  (3/55)
+## Started parse_48_pruned_fasta on [15:15] 
+End of parse_8_pruned_fasta after 17ms  (4/55)
+End of parse_9_pruned_fasta after 17ms  (5/55)
+## Started parse_24_pruned_fasta on [18:18] 
+## Started parse_15_pruned_fasta on [27:27] 
+End of parse_53_pruned_fasta after 17ms  (6/55)
+## Started parse_39_pruned_fasta on [12:12] 
+End of parse_18_pruned_fasta after 1ms  (7/55)
+## Started parse_43_pruned_fasta on [22:22] 
+End of parse_45_pruned_fasta after 19ms  (8/55)
+## Started parse_30_pruned_fasta on [25:25] 
+End of parse_13_pruned_fasta after 19ms  (9/55)
+## Started parse_12_pruned_fasta on [37:37] 
+End of parse_14_pruned_fasta after 19ms  (10/55)
+## Started parse_40_pruned_fasta on [31:31] 
+End of parse_7_pruned_fasta after 19ms  (11/55)
+## Started parse_49_pruned_fasta on [3:3] 
+End of parse_54_pruned_fasta after 19ms  (12/55)
+## Started parse_51_pruned_fasta on [32:32] 
+End of parse_50_pruned_fasta after 19ms  (13/55)
+## Started parse_16_pruned_fasta on [30:30] 
+End of parse_5_pruned_fasta after 19ms  (14/55)
+## Started parse_36_pruned_fasta on [9:9] 
+End of parse_42_pruned_fasta after 19ms  (15/55)
+## Started parse_11_pruned_fasta on [7:7] 
+End of parse_32_pruned_fasta after 19ms  (16/55)
+## Started parse_25_pruned_fasta on [26:26] 
+All commands were launched
+End of parse_41_pruned_fasta after 19ms  (17/55)
+End of parse_47_pruned_fasta after 19ms  (18/55)
+End of parse_19_pruned_fasta after 19ms  (19/55)
+End of parse_26_pruned_fasta after 19ms  (20/55)
+End of parse_44_pruned_fasta after 19ms  (21/55)
+End of parse_17_pruned_fasta after 19ms  (22/55)
+End of parse_37_pruned_fasta after 19ms  (23/55)
+End of parse_2_pruned_fasta after 19ms  (24/55)
+End of parse_6_pruned_fasta after 19ms  (25/55)
+End of parse_22_pruned_fasta after 19ms  (26/55)
+End of parse_46_pruned_fasta after 20ms  (27/55)
+End of parse_10_pruned_fasta after 20ms  (28/55)
+End of parse_28_pruned_fasta after 20ms  (29/55)
+End of parse_30_pruned_fasta after 1ms  (30/55)
+End of parse_15_pruned_fasta after 3ms  (31/55)
+End of parse_21_pruned_fasta after 20ms  (32/55)
+End of parse_20_pruned_fasta after 20ms  (33/55)
+End of parse_39_pruned_fasta after 3ms  (34/55)
+End of parse_29_pruned_fasta after 20ms  (35/55)
+End of parse_38_pruned_fasta after 20ms  (36/55)
+End of parse_52_pruned_fasta after 20ms  (37/55)
+End of parse_0_pruned_fasta after 3ms  (38/55)
+End of parse_33_pruned_fasta after 21ms  (39/55)
+End of parse_48_pruned_fasta after 4ms  (40/55)
+End of parse_24_pruned_fasta after 4ms  (41/55)
+End of parse_31_pruned_fasta after 21ms  (42/55)
+End of parse_12_pruned_fasta after 2ms  (43/55)
+End of parse_34_pruned_fasta after 21ms  (44/55)
+End of parse_16_pruned_fasta after 2ms  (45/55)
+End of parse_43_pruned_fasta after 3ms  (46/55)
+End of parse_36_pruned_fasta after 2ms  (47/55)
+End of parse_51_pruned_fasta after 3ms  (48/55)
+End of parse_49_pruned_fasta after 3ms  (49/55)
+End of parse_40_pruned_fasta after 3ms  (50/55)
+End of parse_25_pruned_fasta after 3ms  (51/55)
+End of parse_11_pruned_fasta after 3ms  (52/55)
+End of parse_3_pruned_fasta after 26ms  (53/55)
+End of parse_23_pruned_fasta after 26ms  (54/55)
+End of parse_1_pruned_fasta after 27ms  (55/55)
+Finished running commands. Total elasped time: 0s
+Load balance ratio: 0.714412
+Saving svg output in ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/parse_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

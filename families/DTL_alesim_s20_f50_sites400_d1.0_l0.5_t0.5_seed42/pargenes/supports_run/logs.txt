@@ -1,0 +1,97 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 147541
+Remaining commands: 44
+## Started support_31_pruned_fasta on [0:0] 
+## Started support_14_pruned_fasta on [19:19] 
+## Started support_29_pruned_fasta on [9:9] 
+## Started support_17_pruned_fasta on [4:4] 
+## Started support_26_pruned_fasta on [2:2] 
+## Started support_47_pruned_fasta on [1:1] 
+## Started support_15_pruned_fasta on [29:29] 
+## Started support_19_pruned_fasta on [24:24] 
+## Started support_36_pruned_fasta on [21:21] 
+## Started support_7_pruned_fasta on [20:20] 
+## Started support_21_pruned_fasta on [14:14] 
+## Started support_25_pruned_fasta on [11:11] 
+## Started support_52_pruned_fasta on [10:10] 
+## Started support_11_pruned_fasta on [6:6] 
+## Started support_42_pruned_fasta on [5:5] 
+## Started support_46_pruned_fasta on [3:3] 
+## Started support_51_pruned_fasta on [34:34] 
+## Started support_32_pruned_fasta on [31:31] 
+## Started support_41_pruned_fasta on [30:30] 
+## Started support_33_pruned_fasta on [26:26] 
+## Started support_43_pruned_fasta on [25:25] 
+## Started support_20_pruned_fasta on [22:22] 
+## Started support_10_pruned_fasta on [16:16] 
+## Started support_13_pruned_fasta on [15:15] 
+## Started support_1_pruned_fasta on [12:12] 
+## Started support_22_pruned_fasta on [7:7] 
+## Started support_6_pruned_fasta on [36:36] 
+## Started support_34_pruned_fasta on [35:35] 
+## Started support_37_pruned_fasta on [32:32] 
+## Started support_24_pruned_fasta on [27:27] 
+## Started support_3_pruned_fasta on [23:23] 
+## Started support_0_pruned_fasta on [17:17] 
+## Started support_54_pruned_fasta on [13:13] 
+## Started support_50_pruned_fasta on [8:8] 
+## Started support_2_pruned_fasta on [37:37] 
+## Started support_23_pruned_fasta on [33:33] 
+## Started support_45_pruned_fasta on [28:28] 
+## Started support_44_pruned_fasta on [18:18] 
+## Started support_38_pruned_fasta on [38:38] 
+End of support_36_pruned_fasta after 3ms  (1/44)
+## Started support_48_pruned_fasta on [21:21] 
+End of support_14_pruned_fasta after 3ms  (2/44)
+## Started support_28_pruned_fasta on [19:19] 
+End of support_45_pruned_fasta after 3ms  (3/44)
+## Started support_5_pruned_fasta on [28:28] 
+End of support_15_pruned_fasta after 3ms  (4/44)
+## Started support_49_pruned_fasta on [29:29] 
+End of support_47_pruned_fasta after 3ms  (5/44)
+## Started support_40_pruned_fasta on [1:1] 
+All commands were launched
+End of support_41_pruned_fasta after 4ms  (6/44)
+End of support_7_pruned_fasta after 4ms  (7/44)
+End of support_51_pruned_fasta after 6ms  (8/44)
+End of support_50_pruned_fasta after 6ms  (9/44)
+End of support_17_pruned_fasta after 6ms  (10/44)
+End of support_21_pruned_fasta after 6ms  (11/44)
+End of support_13_pruned_fasta after 7ms  (12/44)
+End of support_54_pruned_fasta after 7ms  (13/44)
+End of support_19_pruned_fasta after 7ms  (14/44)
+End of support_32_pruned_fasta after 8ms  (15/44)
+End of support_5_pruned_fasta after 4ms  (16/44)
+End of support_37_pruned_fasta after 8ms  (17/44)
+End of support_42_pruned_fasta after 8ms  (18/44)
+End of support_2_pruned_fasta after 9ms  (19/44)
+End of support_46_pruned_fasta after 9ms  (20/44)
+End of support_22_pruned_fasta after 9ms  (21/44)
+End of support_28_pruned_fasta after 7ms  (22/44)
+End of support_24_pruned_fasta after 12ms  (23/44)
+End of support_49_pruned_fasta after 8ms  (24/44)
+End of support_26_pruned_fasta after 13ms  (25/44)
+End of support_20_pruned_fasta after 13ms  (26/44)
+End of support_10_pruned_fasta after 13ms  (27/44)
+End of support_44_pruned_fasta after 14ms  (28/44)
+End of support_40_pruned_fasta after 11ms  (29/44)
+End of support_52_pruned_fasta after 15ms  (30/44)
+End of support_6_pruned_fasta after 15ms  (31/44)
+End of support_25_pruned_fasta after 16ms  (32/44)
+End of support_48_pruned_fasta after 14ms  (33/44)
+End of support_0_pruned_fasta after 20ms  (34/44)
+End of support_29_pruned_fasta after 21ms  (35/44)
+End of support_43_pruned_fasta after 25ms  (36/44)
+End of support_11_pruned_fasta after 26ms  (37/44)
+End of support_38_pruned_fasta after 34ms  (38/44)
+End of support_34_pruned_fasta after 36ms  (39/44)
+End of support_31_pruned_fasta after 37ms  (40/44)
+End of support_23_pruned_fasta after 43ms  (41/44)
+End of support_33_pruned_fasta after 54ms  (42/44)
+End of support_3_pruned_fasta after 79ms  (43/44)
+End of support_1_pruned_fasta after 105ms  (44/44)
+Finished running commands. Total elasped time: 0s
+Load balance ratio: 0.180685
+Saving svg output in ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes/supports_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

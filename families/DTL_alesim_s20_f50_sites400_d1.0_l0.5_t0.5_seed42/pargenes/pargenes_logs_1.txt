@@ -1,0 +1,10 @@
+########################
+#    PARGENES v1.0.1   #
+########################
+
+ParGenes was called as follow:
+/home/morelbt/github/phd_experiments/../pargenes/pargenes/pargenes.py -a ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/alignments -b 100 -o ../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/pargenes -c 40 -s 1 -r /home/morelbt/github/phd_experiments/tools/families/raxml_command.txt --continue
+
+[0:00:00] end of MSAs initializations
+[0:00:00] end of anlysing parsing results
+[0:00:00] END OF THE RUN OF pargenes.py
