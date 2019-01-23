@@ -1,0 +1,6 @@
+event(20,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",duplication)
+event(17,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",duplication)
+event(18,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",duplication)
+event(1,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",duplication)
+event(3,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",loss)
+event(5,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/41_pruned/phyldog/phyldog",duplication)

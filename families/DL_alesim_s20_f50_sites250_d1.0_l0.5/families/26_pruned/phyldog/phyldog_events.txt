@@ -1,0 +1,2 @@
+event(14,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/26_pruned/phyldog/phyldog",duplication)
+event(2,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/26_pruned/phyldog/phyldog",duplication)

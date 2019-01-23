@@ -1,0 +1,11 @@
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	DUPLICATIONS : 0	LOSSES : 0
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 27_3516 <===> 21_3515
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 0_3523 <===> 17_3524
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 27_3516, 21_3515 <===> 0_3523, 17_3524
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 27_3516, 21_3515, 0_3523, 17_3524 <===> 14_3495
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 8_3480 <===> 27_3516, 21_3515, 0_3523, 17_3524, 14_3495
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 4_3505 <===> 28_3506
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 2_3527 <===> 6_3528
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 2_3527, 6_3528 <===> 22_3485
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 4_3505, 28_3506 <===> 2_3527, 6_3528, 22_3485
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/48_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 8_3480, 27_3516, 21_3515, 0_3523, 17_3524, 14_3495 <===> 4_3505, 28_3506, 2_3527, 6_3528, 22_3485

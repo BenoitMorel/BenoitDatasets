@@ -1,0 +1,5 @@
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/25_pruned/phyldog/phyldog	DUPLICATIONS : 0	LOSSES : 0
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/25_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 7_3780 <===> 18_3781
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/25_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 8_3757 <===> 5_3768
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/25_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 7_3780, 18_3781 <===> 8_3757, 5_3768
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/25_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 7_3780, 18_3781, 8_3757, 5_3768 <===> 6_3675

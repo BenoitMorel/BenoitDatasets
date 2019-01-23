@@ -1,0 +1,11 @@
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	DUPLICATIONS : 0	LOSSES : 0
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 21_17503 <===> 27_17504
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 0_17565 <===> 17_17566
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 21_17503, 27_17504 <===> 0_17565, 17_17566
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 14_17394 <===> 21_17503, 27_17504, 0_17565, 17_17566
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 8_17311 <===> 14_17394, 21_17503, 27_17504, 0_17565, 17_17566
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 2_17577 <===> 6_17578
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 22_17340 <===> 2_17577, 6_17578
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 28_17428 <===> 4_17427
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 22_17340, 2_17577, 6_17578 <===> 28_17428, 4_17427
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s30_f50_sites119_d2.0_l1.0/families/40_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 8_17311, 14_17394, 21_17503, 27_17504, 0_17565, 17_17566 <===> 22_17340, 2_17577, 6_17578, 28_17428, 4_17427

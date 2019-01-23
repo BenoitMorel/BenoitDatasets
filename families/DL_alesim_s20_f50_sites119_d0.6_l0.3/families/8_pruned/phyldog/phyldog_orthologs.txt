@@ -1,0 +1,11 @@
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	DUPLICATIONS : 1	LOSSES : 0
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_9644 <===> 9_9645
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_9658 <===> 9_9659
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: 12_9644, 9_9645 <===> 12_9658, 9_9659
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_9644, 9_9645, 12_9658, 9_9659 <===> 14_9463
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 16_9440 <===> 11_9439
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 19_9522 <===> 16_9440, 11_9439
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_9644, 9_9645, 12_9658, 9_9659, 14_9463 <===> 19_9522, 16_9440, 11_9439
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 17_9360 <===> 1_9359
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 10_9228 <===> 17_9360, 1_9359
+/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites119_d0.6_l0.3/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_9644, 9_9645, 12_9658, 9_9659, 14_9463, 19_9522, 16_9440, 11_9439 <===> 10_9228, 17_9360, 1_9359
