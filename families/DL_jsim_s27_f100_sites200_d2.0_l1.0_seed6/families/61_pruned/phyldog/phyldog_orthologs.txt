@@ -1,0 +1,13 @@
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	DUPLICATIONS : 6	LOSSES : 5
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G0_5 <===> G1_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G5_6 <===> G7_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G4_6 <===> G5_6, G7_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G3_5 <===> G4_6, G5_6, G7_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G0_5, G1_6 <===> G3_5, G4_6, G5_6, G7_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G11_5 <===> G12_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G0_5, G1_6, G3_5, G4_6, G5_6, G7_6 <===> G11_5, G12_6
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G0_5, G1_6, G3_5, G4_6, G5_6, G7_6, G11_5, G12_6 <===> G14_5
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G17_8 <===> G18_8
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G17_8, G18_8 <===> G20_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G0_5, G1_6, G3_5, G4_6, G5_6, G7_6, G11_5, G12_6, G14_5 <===> G17_8, G18_8, G20_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d2.0_l1.0_seed6/families/61_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G0_5, G1_6, G3_5, G4_6, G5_6, G7_6, G11_5, G12_6, G14_5, G17_8, G18_8, G20_16 <===> G23_25

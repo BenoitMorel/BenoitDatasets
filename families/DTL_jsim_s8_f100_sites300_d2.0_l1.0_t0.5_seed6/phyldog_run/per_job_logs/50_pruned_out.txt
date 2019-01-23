@@ -1,0 +1,75 @@
+Species Tree file......................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/phyldogSpeciesTree.newick
+Number of leaves.......................: 14
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/50_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 30
+Number of sites........................: 300
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 30
+Sites to use...........................: complete
+Complete sites.........................: 300
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 30 4
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/50_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 30
+Writing an alignment for PLL with 30 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -7714.99
+Genes in the tree: 30
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -7540.93 (3 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/50_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -7705.23
+		Sequence loglk: -7540.93 and scenario loglk: -164.3
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -7704.3 compared to -7705.23
+among all spr tried, a better tree has been found -7704.3
+new rb max size 2
+Better tree overall: -7702.73 compared to -7704.3
+among all spr tried, a better tree has been found -7702.73
+new rb max size 3
+Better tree overall: -7699.01 compared to -7702.73
+among all spr tried, a better tree has been found -7699.01
+new rb max size 4
+Better tree overall: -7698.31 compared to -7699.01
+among all spr tried, a better tree has been found -7698.31
+new rb max size 5
+Better tree overall: -7697.85 compared to -7698.31
+among all spr tried, a better tree has been found -7697.85
+new rb max size 6
+Better tree overall: -7697.47 compared to -7697.85
+among all spr tried, a better tree has been found -7697.47
+new rb max size 7
+Reconciled tree: 
+((G45_25:0.201417[&&NHX:Ev=S:S=2:ND=0],(G47_16:0.0386599[&&NHX:Ev=S:S=22:ND=1],(G46_20:0.0510345[&&NHX:Ev=S:S=18:ND=2],G49_20:0.365664[&&NHX:Ev=S:S=18:ND=3]):1.18182e-06[&&NHX:Ev=D:S=18:ND=4]):0.179232[&&NHX:Ev=S:S=8:ND=5]):0.129826[&&NHX:Ev=S:S=0:ND=6],((((G0_0:0.267264[&&NHX:Ev=S:S=9:ND=7],G1_1:0.29381[&&NHX:Ev=S:S=10:ND=8]):0.56169[&&NHX:Ev=S:S=5:ND=9],G3_3:0.796311[&&NHX:Ev=S:S=6:ND=10]):0.672462[&&NHX:Ev=S:S=3:ND=11],((((G12_5:0.109167[&&NHX:Ev=S:S=11:ND=12],G13_6:0.131432[&&NHX:Ev=S:S=12:ND=13]):0.289921[&&NHX:Ev=S:S=7:ND=14],(G5_5:0.24329[&&NHX:Ev=S:S=11:ND=15],(G6_5:0.127322[&&NHX:Ev=S:S=11:ND=16],(G7_6:0.0094886[&&NHX:Ev=S:S=12:ND=17],G8_6:0.031483[&&NHX:Ev=S:S=12:ND=18]):0.07856[&&NHX:Ev=D:S=12:ND=19]):0.0937857[&&NHX:Ev=S:S=7:ND=20]):0.218318[&&NHX:Ev=D:S=7:ND=21]):0.61655[&&NHX:Ev=D:S=7:ND=22],(((G16_15:0.0115762[&&NHX:Ev=S:S=21:ND=23],G17_15:0.025883[&&NHX:Ev=S:S=21:ND=24]):0.108099[&&NHX:Ev=D:S=21:ND=25],(G19_8:0.0226783[&&NHX:Ev=S:S=19:ND=26],G20_8:0.025138[&&NHX:Ev=S:S=19:ND=27]):0.0408648[&&NHX:Ev=D:S=19:ND=28]):0.256159[&&NHX:Ev=S:S=13:ND=29],(G23_9:0.346289[&&NHX:Ev=S:S=25:ND=30],(G24_15:0.217222[&&NHX:Ev=S:S=21:ND=31],(G25_16:0.137541[&&NHX:Ev=S:S=22:ND=32],G26_16:0.111946[&&NHX:Ev=S:S=22:ND=33]):0.0976297[&&NHX:Ev=D:S=22:ND=34]):0.0771081[&&NHX:Ev=S:S=16:ND=35]):0.0757301[&&NHX:Ev=S:S=13:ND=36]):0.266329[&&NHX:Ev=D:S=13:ND=37]):1.19073e-06[&&NHX:Ev=S:S=4:ND=38],((G31_8:0.514838[&&NHX:Ev=S:S=19:ND=39],(G32_9:0.26599[&&NHX:Ev=S:S=25:ND=40],G33_9:0.171879[&&NHX:Ev=S:S=25:ND=41]):0.106489[&&NHX:Ev=D:S=25:ND=42]):1.16264e-06[&&NHX:Ev=S:S=15:ND=43],((G35_5:0.0223383[&&NHX:Ev=S:S=11:ND=44],(G36_5:1e-06[&&NHX:Ev=S:S=11:ND=45],G37_5:1e-06[&&NHX:Ev=S:S=11:ND=46]):0.0222646[&&NHX:Ev=D:S=11:ND=47]):0.0972908[&&NHX:Ev=D:S=11:ND=48],G40_6:0.0941099[&&NHX:Ev=S:S=12:ND=49]):0.164418[&&NHX:Ev=S:S=7:ND=50]):0.214574[&&NHX:Ev=S:S=4:ND=51]):0.0606673[&&NHX:Ev=D:S=4:ND=52]):0.00744187[&&NHX:Ev=S:S=1:ND=53],(G55_25:0.040318[&&NHX:Ev=S:S=2:ND=54],G56_25:0.0224052[&&NHX:Ev=S:S=2:ND=55]):2.50241[&&NHX:Ev=D:S=2:ND=56]):0.129826[&&NHX:Ev=S:S=0:ND=57])[&&NHX:Ev=D:S=0:ND=58];
+
+		Total final logLikelihood value: -7697.47
+		Sequence loglk: -7569.48 and scenario loglk: -127.99
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.

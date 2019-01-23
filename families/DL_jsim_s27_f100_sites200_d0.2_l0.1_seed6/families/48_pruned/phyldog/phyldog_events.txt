@@ -1,0 +1,3 @@
+event(24,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/48_pruned/phyldog/phyldog",loss)
+event(9,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/48_pruned/phyldog/phyldog",loss)
+event(6,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/48_pruned/phyldog/phyldog",loss)

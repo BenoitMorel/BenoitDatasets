@@ -1,0 +1,60 @@
+Species Tree file......................: ../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/phyldogSpeciesTree.newick
+Number of leaves.......................: 14
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: ../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/34_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 11
+Number of sites........................: 200
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 11
+Sites to use...........................: complete
+Complete sites.........................: 200
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 11 4
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: ../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/34_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 11
+Writing an alignment for PLL with 11 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -2703.91
+Genes in the tree: 11
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -2648.89 (3 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file ../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/34_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -2696.15
+		Sequence loglk: -2648.89 and scenario loglk: -47.2588
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -2683.15 compared to -2696.15
+among all spr tried, a better tree has been found -2683.15
+new rb max size 2
+Reconciled tree: 
+(((G13_19:0.285401[&&NHX:Ev=S:S=17:ND=0],G14_20:0.162884[&&NHX:Ev=S:S=18:ND=1]):0.122004[&&NHX:Ev=S:S=14:ND=2],(((G0_0:0.325903[&&NHX:Ev=S:S=9:ND=3],G1_1:0.337167[&&NHX:Ev=S:S=10:ND=4]):0.758782[&&NHX:Ev=S:S=5:ND=5],(G5_5:0.227777[&&NHX:Ev=S:S=11:ND=6],G6_6:1e-06[&&NHX:Ev=S:S=12:ND=7]):0.68252[&&NHX:Ev=S:S=7:ND=8]):0.334351[&&NHX:Ev=S:S=1:ND=9],(G3_3:1.2299[&&NHX:Ev=S:S=6:ND=10],((G10_16:0.279324[&&NHX:Ev=S:S=22:ND=11],G9_15:0.226274[&&NHX:Ev=S:S=21:ND=12]):0.475184[&&NHX:Ev=S:S=16:ND=13],G8_8:0.484722[&&NHX:Ev=S:S=19:ND=14]):1.12492e-06[&&NHX:Ev=S:S=13:ND=15]):0.188358[&&NHX:Ev=S:S=1:ND=16]):0.18486[&&NHX:Ev=D:S=1:ND=17]):0.782125[&&NHX:Ev=D:S=1:ND=18],G19_25:0.782125[&&NHX:Ev=S:S=2:ND=19])[&&NHX:Ev=S:S=0:ND=20];
+
+		Total final logLikelihood value: -2683.15
+		Sequence loglk: -2649.98 and scenario loglk: -33.1707
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 1.000000s.

@@ -1,0 +1,2 @@
+event(8,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/15_pruned/phyldog/phyldog",loss)
+event(2,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/15_pruned/phyldog/phyldog",duplication)

@@ -1,0 +1,60 @@
+Species Tree file......................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/phyldogSpeciesTree.newick
+Number of leaves.......................: 14
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/70_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 11
+Number of sites........................: 300
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 11
+Sites to use...........................: complete
+Complete sites.........................: 300
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 11 5
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/70_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 11
+Writing an alignment for PLL with 11 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -2992.76
+Genes in the tree: 11
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -2933.21 (3 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/70_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -3012.42
+		Sequence loglk: -2933.21 and scenario loglk: -79.2093
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -2995.08 compared to -3012.42
+among all spr tried, a better tree has been found -2995.08
+new rb max size 2
+Reconciled tree: 
+(((G1_25:0.110988[&&NHX:Ev=S:S=2:ND=0],G2_25:0.0358878[&&NHX:Ev=S:S=2:ND=1]):0.408726[&&NHX:Ev=D:S=2:ND=2],(((G13_25:0.0839678[&&NHX:Ev=S:S=2:ND=3],(G15_25:0.0100265[&&NHX:Ev=S:S=2:ND=4],G16_25:1e-06[&&NHX:Ev=S:S=2:ND=5]):0.0477593[&&NHX:Ev=D:S=2:ND=6]):0.0524109[&&NHX:Ev=D:S=2:ND=7],G14_25:1e-06[&&NHX:Ev=S:S=2:ND=8]):1.37504[&&NHX:Ev=D:S=2:ND=9],(G4_15:0.261109[&&NHX:Ev=S:S=21:ND=10],G5_16:0.314206[&&NHX:Ev=S:S=22:ND=11]):1.15987e-06[&&NHX:Ev=S:S=16:ND=12]):0.16684[&&NHX:Ev=S:S=0:ND=13]):0.0764895[&&NHX:Ev=D:S=0:ND=14],(G0_25:0.609686[&&NHX:Ev=S:S=2:ND=15],(G10_9:0.107773[&&NHX:Ev=S:S=25:ND=16],G9_3:0.177597[&&NHX:Ev=S:S=6:ND=17]):0.405388[&&NHX:Ev=S:S=1:ND=18]):0.0764895[&&NHX:Ev=S:S=0:ND=19])[&&NHX:Ev=D:S=0:ND=20];
+
+		Total final logLikelihood value: -2995.08
+		Sequence loglk: -2933.21 and scenario loglk: -61.8678
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 0.000000s.

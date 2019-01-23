@@ -1,0 +1,24 @@
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	DUPLICATIONS : 7	LOSSES : 3
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n35_56 <===> n36_57
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n24_31 <===> n35_56, n36_57
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n12_24 <===> n24_31, n35_56, n36_57
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n17_42 <===> n17_43
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n27_38 <===> n28_39
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n27_40 <===> n28_41
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n27_38, n28_39 <===> n27_40, n28_41
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n17_42, n17_43 <===> n27_38, n28_39, n27_40, n28_41
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n12_24, n24_31, n35_56, n36_57 <===> n17_42, n17_43, n27_38, n28_39, n27_40, n28_41
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n15_32 <===> n15_33
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n31_48 <===> n32_49
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n33_52 <===> n34_53
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n33_54 <===> n34_55
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n33_52, n34_53 <===> n33_54, n34_55
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n31_48, n32_49 <===> n33_52, n34_53, n33_54, n34_55
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n37_58 <===> n38_59
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n31_48, n32_49, n33_52, n34_53, n33_54, n34_55 <===> n37_58, n38_59
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n15_32, n15_33 <===> n31_48, n32_49, n33_52, n34_53, n33_54, n34_55, n37_58, n38_59
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n12_35 <===> n15_32, n15_33, n31_48, n32_49, n33_52, n34_53, n33_54, n34_55, n37_58, n38_59
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n12_24, n24_31, n35_56, n36_57, n17_42, n17_43, n27_38, n28_39, n27_40, n28_41 <===> n12_35, n15_32, n15_33, n31_48, n32_49, n33_52, n34_53, n33_54, n34_55, n37_58, n38_59
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n2_44 <===> n2_45
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: n2_13 <===> n2_44, n2_45
+../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/15_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: n12_24, n24_31, n35_56, n36_57, n17_42, n17_43, n27_38, n28_39, n27_40, n28_41, n12_35, n15_32, n15_33, n31_48, n32_49, n33_52, n34_53, n33_54, n34_55, n37_58, n38_59 <===> n2_13, n2_44, n2_45

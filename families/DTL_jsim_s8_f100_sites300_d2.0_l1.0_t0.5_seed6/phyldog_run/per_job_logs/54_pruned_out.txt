@@ -1,0 +1,78 @@
+Species Tree file......................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/phyldogSpeciesTree.newick
+Number of leaves.......................: 14
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD LIBPLL2
+Alphabet type .........................: DNA
+Sequence file .........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/54_pruned/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 45
+Number of sites........................: 300
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 45
+Sites to use...........................: complete
+Complete sites.........................: 300
+Substitution model.....................: GTR
+External frequencies initialization for: None
+Parameter found........................: GTR.a=1
+Parameter found........................: GTR.b=1
+Parameter found........................: GTR.c=1
+Parameter found........................: GTR.d=1
+Parameter found........................: GTR.e=1
+Parameter found........................: GTR.theta=0.5
+Parameter found........................: GTR.theta1=0.5
+Parameter found........................: GTR.theta2=0.5
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 45 4
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/54_pruned/raxmlGeneTree.newick
+Number of leaves.......................: 45
+Writing an alignment for PLL with 45 sequences. File: tmpPLL_alignment_alignment.fasta
+WARNING!!! Parameter codon.partition not specified. Default used instead: 0
+LikelihoodEvaluator::libpllEvaluateFromScratch
+Libpll-2 will use avx vectorization
+LikelihoodEvaluator::fullOptimizeTreeinfo before: ll = -12691
+Genes in the tree: 45
+LikelihoodEvaluator::fullOptimizeTreeinfo after: ll = -12448.7 (3 iterations)
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file ../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/54_pruned/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -12679.8
+		Sequence loglk: -12448.7 and scenario loglk: -231.121
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+new rb max size 1
+Better tree overall: -12669.4 compared to -12679.8
+among all spr tried, a better tree has been found -12669.4
+new rb max size 2
+Better tree overall: -12659.1 compared to -12669.4
+among all spr tried, a better tree has been found -12659.1
+new rb max size 3
+Better tree overall: -12652.1 compared to -12659.1
+among all spr tried, a better tree has been found -12652.1
+new rb max size 4
+Better tree overall: -12641.9 compared to -12652.1
+among all spr tried, a better tree has been found -12641.9
+new rb max size 5
+Better tree overall: -12635.8 compared to -12641.9
+among all spr tried, a better tree has been found -12635.8
+new rb max size 6
+Better tree overall: -12629.7 compared to -12635.8
+among all spr tried, a better tree has been found -12629.7
+new rb max size 7
+Better tree overall: -12627.1 compared to -12629.7
+among all spr tried, a better tree has been found -12627.1
+new rb max size 8
+Reconciled tree: 
+((((G48_5:0.142813[&&NHX:Ev=S:S=11:ND=0],G49_6:0.1003[&&NHX:Ev=S:S=12:ND=1]):0.905068[&&NHX:Ev=S:S=7:ND=2],(((((G51_8:0.00602716[&&NHX:Ev=S:S=19:ND=3],G52_8:0.0493713[&&NHX:Ev=S:S=19:ND=4]):0.422303[&&NHX:Ev=D:S=19:ND=5],((G54_9:0.353394[&&NHX:Ev=S:S=25:ND=6],G55_10:0.273303[&&NHX:Ev=S:S=26:ND=7]):0.00786284[&&NHX:Ev=S:S=23:ND=8],(G57_12:0.129555[&&NHX:Ev=S:S=24:ND=9],G58_12:0.203138[&&NHX:Ev=S:S=24:ND=10]):0.112832[&&NHX:Ev=D:S=24:ND=11]):0.135552[&&NHX:Ev=S:S=20:ND=12]):0.171203[&&NHX:Ev=S:S=15:ND=13],(G62_15:0.21872[&&NHX:Ev=S:S=21:ND=14],G63_16:0.232214[&&NHX:Ev=S:S=22:ND=15]):0.297032[&&NHX:Ev=S:S=16:ND=16]):0.0632345[&&NHX:Ev=S:S=13:ND=17],(G66_19:0.324199[&&NHX:Ev=S:S=17:ND=18],G67_20:0.217279[&&NHX:Ev=S:S=18:ND=19]):0.295526[&&NHX:Ev=S:S=14:ND=20]):1.15802e-06[&&NHX:Ev=S:S=8:ND=21],(((G69_19:0.0654724[&&NHX:Ev=S:S=17:ND=22],G70_19:0.0412694[&&NHX:Ev=S:S=17:ND=23]):0.171951[&&NHX:Ev=D:S=17:ND=24],((G75_20:0.0688722[&&NHX:Ev=S:S=18:ND=25],(G76_20:0.0217652[&&NHX:Ev=S:S=18:ND=26],G77_20:0.0374932[&&NHX:Ev=S:S=18:ND=27]):0.0196945[&&NHX:Ev=D:S=18:ND=28]):0.138508[&&NHX:Ev=D:S=18:ND=29],G80_20:0.202783[&&NHX:Ev=S:S=18:ND=30]):0.0336186[&&NHX:Ev=D:S=18:ND=31]):1.1493e-06[&&NHX:Ev=S:S=14:ND=32],(G72_19:0.101562[&&NHX:Ev=S:S=17:ND=33],G73_12:0.0698683[&&NHX:Ev=S:S=24:ND=34]):0.123284[&&NHX:Ev=S:S=8:ND=35]):0.357689[&&NHX:Ev=D:S=8:ND=36]):0.102265[&&NHX:Ev=D:S=8:ND=37]):0.0841807[&&NHX:Ev=S:S=4:ND=38],((G10_6:0.186963[&&NHX:Ev=S:S=12:ND=39],G9_5:0.0651992[&&NHX:Ev=S:S=11:ND=40]):0.777943[&&NHX:Ev=S:S=7:ND=41],((((G18_8:0.29381[&&NHX:Ev=S:S=19:ND=42],G19_8:0.2676[&&NHX:Ev=S:S=19:ND=43]):0.121226[&&NHX:Ev=D:S=19:ND=44],(((G21_9:0.286887[&&NHX:Ev=S:S=25:ND=45],G25_10:0.371499[&&NHX:Ev=S:S=26:ND=46]):1.13535e-06[&&NHX:Ev=S:S=23:ND=47],G28_12:0.274267[&&NHX:Ev=S:S=24:ND=48]):1.12298e-06[&&NHX:Ev=S:S=20:ND=49],(G22_10:0.109315[&&NHX:Ev=S:S=26:ND=50],G23_12:0.113598[&&NHX:Ev=S:S=24:ND=51]):0.24501[&&NHX:Ev=S:S=20:ND=52]):0.105874[&&NHX:Ev=D:S=20:ND=53]):0.0863461[&&NHX:Ev=S:S=15:ND=54],((((G31_15:0.173871[&&NHX:Ev=S:S=21:ND=55],(G32_15:0.118416[&&NHX:Ev=S:S=21:ND=56],G33_15:0.123573[&&NHX:Ev=S:S=21:ND=57]):0.0616926[&&NHX:Ev=D:S=21:ND=58]):0.00799881[&&NHX:Ev=D:S=21:ND=59],G36_15:0.176969[&&NHX:Ev=S:S=21:ND=60]):0.0733065[&&NHX:Ev=D:S=21:ND=61],G38_16:0.231167[&&NHX:Ev=S:S=22:ND=62]):0.0150595[&&NHX:Ev=S:S=16:ND=63],((G40_15:0.0644903[&&NHX:Ev=S:S=21:ND=64],G41_15:0.115873[&&NHX:Ev=S:S=21:ND=65]):0.192018[&&NHX:Ev=D:S=21:ND=66],G43_16:0.269326[&&NHX:Ev=S:S=22:ND=67]):0.0300313[&&NHX:Ev=S:S=16:ND=68]):0.301544[&&NHX:Ev=D:S=16:ND=69]):0.271817[&&NHX:Ev=S:S=13:ND=70],((G12_8:0.117626[&&NHX:Ev=S:S=19:ND=71],G13_8:0.136663[&&NHX:Ev=S:S=19:ND=72]):0.037087[&&NHX:Ev=D:S=19:ND=73],G15_8:0.178602[&&NHX:Ev=S:S=19:ND=74]):0.631436[&&NHX:Ev=D:S=19:ND=75]):1.11456e-06[&&NHX:Ev=D:S=13:ND=76]):0.167648[&&NHX:Ev=S:S=4:ND=77]):0.192385[&&NHX:Ev=D:S=4:ND=78],((G0_0:0.407785[&&NHX:Ev=S:S=9:ND=79],G1_1:0.31795[&&NHX:Ev=S:S=10:ND=80]):0.274899[&&NHX:Ev=S:S=5:ND=81],(G3_3:0.496875[&&NHX:Ev=S:S=6:ND=82],(G4_3:0.0235387[&&NHX:Ev=S:S=6:ND=83],G5_3:0.0391421[&&NHX:Ev=S:S=6:ND=84]):0.424044[&&NHX:Ev=D:S=6:ND=85]):0.288285[&&NHX:Ev=D:S=6:ND=86]):0.192385[&&NHX:Ev=S:S=3:ND=87])[&&NHX:Ev=S:S=1:ND=88];
+
+		Total final logLikelihood value: -12627.1
+		Sequence loglk: -12459.3 and scenario loglk: -167.741
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 1.000000s.

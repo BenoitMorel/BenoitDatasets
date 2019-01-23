@@ -1,0 +1,7 @@
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	DUPLICATIONS : 3	LOSSES : 4
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G3_15 <===> G4_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G7_16 <===> G8_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G6_15 <===> G7_16, G8_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G3_15, G4_16 <===> G6_15, G7_16, G8_16
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	PARALOGY RELATIONSHIP: G0_3 <===> G1_3
+../BenoitDatasets/families/DL_jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/8_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: G3_15, G4_16, G6_15, G7_16, G8_16 <===> G0_3, G1_3
