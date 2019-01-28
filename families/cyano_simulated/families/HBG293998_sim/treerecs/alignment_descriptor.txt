@@ -1,0 +1,2 @@
+DAYHOFF
+/home/morelbt/github/BenoitDatasets/families/cyano_simulated/families/HBG293998_sim/alignment.msa
