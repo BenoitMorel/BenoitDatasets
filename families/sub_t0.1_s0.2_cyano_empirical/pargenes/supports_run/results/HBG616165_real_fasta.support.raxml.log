@@ -1,0 +1,33 @@
+
+RAxML-NG v. 0.8.0git BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 04-Feb-2019 16:19:59 as follows:
+
+mpi-scheduler --support --tree /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/results/HBG616165_real_fasta/HBG616165_real_fasta.raxml.bestTree --bs-trees /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/concatenated_bootstraps/HBG616165_real_fasta.bs --threads 1 --prefix /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/supports_run/results/HBG616165_real_fasta.support
+
+Analysis options:
+  run mode: Compute bipartition support (Felsenstein Bootstrap)
+  start tree(s): user
+  random seed: 1549293599
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+Reading reference tree from file: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/results/HBG616165_real_fasta/HBG616165_real_fasta.raxml.bestTree
+Reference tree size: 36
+
+Reading bootstrap trees from file: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/concatenated_bootstraps/HBG616165_real_fasta.bs
+Loaded 100 trees with 36 taxa.
+
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/supports_run/results/HBG616165_real_fasta.support.raxml.support
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/supports_run/results/HBG616165_real_fasta.support.raxml.log
+
+Analysis started: 04-Feb-2019 16:19:59 / finished: 04-Feb-2019 16:19:59
+
+Elapsed time: 0.007 seconds
+

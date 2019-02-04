@@ -1,0 +1,1959 @@
+The master process runs on node hitssv543.villa-bosch.de and on pid 376739
+Remaining commands: 957
+## Started mlsearch_HBG405820_real_fasta_0 on [0:1] 
+## Started mlsearch_HBG625289_real_fasta_0 on [19:20] 
+## Started mlsearch_HBG621785_real_fasta_0 on [9:10] 
+## Started mlsearch_HBG444050_real_fasta_0 on [4:5] 
+## Started mlsearch_HBG284415_real_fasta_0 on [2:3] 
+## Started mlsearch_HBG603668_real_fasta_0 on [29:30] 
+## Started mlsearch_HBG555665_real_fasta_0 on [24:25] 
+## Started HBG405820_real_fasta_bs3 on [21:21] 
+## Started HBG405820_real_fasta_bs9 on [14:14] 
+## Started HBG405820_real_fasta_bs8 on [11:11] 
+## Started HBG405820_real_fasta_bs7 on [6:6] 
+## Started HBG405820_real_fasta_bs6 on [34:34] 
+## Started HBG405820_real_fasta_bs0 on [31:31] 
+## Started HBG405820_real_fasta_bs5 on [26:26] 
+## Started HBG405820_real_fasta_bs1 on [22:22] 
+## Started HBG405820_real_fasta_bs2 on [16:16] 
+## Started HBG405820_real_fasta_bs4 on [15:15] 
+## Started HBG625289_real_fasta_bs7 on [12:12] 
+## Started HBG625289_real_fasta_bs8 on [7:7] 
+## Started HBG625289_real_fasta_bs9 on [36:36] 
+## Started HBG625289_real_fasta_bs6 on [35:35] 
+## Started HBG625289_real_fasta_bs5 on [32:32] 
+## Started HBG625289_real_fasta_bs2 on [27:27] 
+## Started HBG625289_real_fasta_bs0 on [23:23] 
+## Started HBG625289_real_fasta_bs1 on [17:17] 
+## Started HBG625289_real_fasta_bs4 on [13:13] 
+## Started HBG625289_real_fasta_bs3 on [8:8] 
+## Started HBG621785_real_fasta_bs7 on [37:37] 
+## Started HBG621785_real_fasta_bs0 on [33:33] 
+## Started HBG621785_real_fasta_bs1 on [28:28] 
+## Started HBG621785_real_fasta_bs2 on [18:18] 
+## Started HBG621785_real_fasta_bs3 on [38:38] 
+End of mlsearch_HBG621785_real_fasta_0 after 12337ms  (1/957)
+## Started HBG621785_real_fasta_bs4 on [9:9] 
+## Started HBG621785_real_fasta_bs5 on [10:10] 
+End of mlsearch_HBG555665_real_fasta_0 after 13387ms  (2/957)
+## Started HBG621785_real_fasta_bs6 on [24:24] 
+## Started HBG621785_real_fasta_bs8 on [25:25] 
+End of mlsearch_HBG405820_real_fasta_0 after 14020ms  (3/957)
+## Started HBG621785_real_fasta_bs9 on [0:0] 
+## Started HBG289648_real_fasta_bs1 on [1:1] 
+End of mlsearch_HBG444050_real_fasta_0 after 14712ms  (4/957)
+## Started HBG289648_real_fasta_bs2 on [4:4] 
+## Started HBG289648_real_fasta_bs3 on [5:5] 
+End of mlsearch_HBG603668_real_fasta_0 after 21172ms  (5/957)
+## Started HBG289648_real_fasta_bs4 on [29:29] 
+## Started HBG289648_real_fasta_bs5 on [30:30] 
+End of mlsearch_HBG284415_real_fasta_0 after 22119ms  (6/957)
+## Started HBG289648_real_fasta_bs6 on [2:2] 
+## Started HBG289648_real_fasta_bs7 on [3:3] 
+End of mlsearch_HBG625289_real_fasta_0 after 26747ms  (7/957)
+## Started HBG289648_real_fasta_bs8 on [19:19] 
+## Started HBG289648_real_fasta_bs0 on [20:20] 
+Runner is still alive after 60s
+Runner is still alive after 120s
+End of HBG621785_real_fasta_bs0 after 158351ms  (8/957)
+## Started HBG289648_real_fasta_bs9 on [33:33] 
+End of HBG621785_real_fasta_bs7 after 159220ms  (9/957)
+## Started HBG616165_real_fasta_bs2 on [37:37] 
+End of HBG405820_real_fasta_bs5 after 164836ms  (10/957)
+## Started HBG616165_real_fasta_bs0 on [26:26] 
+End of HBG289648_real_fasta_bs7 after 143977ms  (11/957)
+## Started HBG616165_real_fasta_bs1 on [3:3] 
+End of HBG289648_real_fasta_bs8 after 142424ms  (12/957)
+## Started HBG616165_real_fasta_bs3 on [19:19] 
+End of HBG405820_real_fasta_bs8 after 170153ms  (13/957)
+## Started HBG616165_real_fasta_bs5 on [11:11] 
+End of HBG621785_real_fasta_bs2 after 170290ms  (14/957)
+## Started HBG616165_real_fasta_bs4 on [18:18] 
+End of HBG289648_real_fasta_bs1 after 158721ms  (15/957)
+## Started HBG616165_real_fasta_bs6 on [1:1] 
+End of HBG289648_real_fasta_bs2 after 159311ms  (16/957)
+## Started HBG616165_real_fasta_bs9 on [4:4] 
+End of HBG621785_real_fasta_bs4 after 162088ms  (17/957)
+## Started HBG616165_real_fasta_bs7 on [9:9] 
+End of HBG289648_real_fasta_bs0 after 148716ms  (18/957)
+## Started HBG616165_real_fasta_bs8 on [20:20] 
+End of HBG405820_real_fasta_bs2 after 176998ms  (19/957)
+## Started HBG444050_real_fasta_bs3 on [16:16] 
+End of HBG289648_real_fasta_bs5 after 156845ms  (20/957)
+## Started HBG444050_real_fasta_bs4 on [30:30] 
+End of HBG289648_real_fasta_bs3 after 163794ms  (21/957)
+## Started HBG444050_real_fasta_bs5 on [5:5] 
+End of HBG289648_real_fasta_bs4 after 158107ms  (22/957)
+## Started HBG444050_real_fasta_bs6 on [29:29] 
+End of HBG621785_real_fasta_bs8 after 165975ms  (23/957)
+## Started HBG444050_real_fasta_bs7 on [25:25] 
+End of HBG405820_real_fasta_bs6 after 179776ms  (24/957)
+## Started HBG444050_real_fasta_bs8 on [34:34] 
+Runner is still alive after 180s
+End of HBG405820_real_fasta_bs0 after 181212ms  (25/957)
+## Started HBG444050_real_fasta_bs9 on [31:31] 
+End of HBG621785_real_fasta_bs5 after 171156ms  (26/957)
+## Started HBG444050_real_fasta_bs2 on [10:10] 
+End of HBG405820_real_fasta_bs4 after 183890ms  (27/957)
+## Started HBG444050_real_fasta_bs1 on [15:15] 
+End of HBG621785_real_fasta_bs3 after 184269ms  (28/957)
+## Started HBG444050_real_fasta_bs0 on [38:38] 
+End of HBG621785_real_fasta_bs1 after 185138ms  (29/957)
+## Started HBG284415_real_fasta_bs0 on [28:28] 
+End of HBG405820_real_fasta_bs7 after 185346ms  (30/957)
+## Started HBG284415_real_fasta_bs9 on [6:6] 
+End of HBG621785_real_fasta_bs6 after 173739ms  (31/957)
+## Started HBG284415_real_fasta_bs8 on [24:24] 
+End of HBG405820_real_fasta_bs3 after 187405ms  (32/957)
+## Started HBG284415_real_fasta_bs7 on [21:21] 
+End of HBG405820_real_fasta_bs1 after 187439ms  (33/957)
+## Started HBG284415_real_fasta_bs6 on [22:22] 
+End of HBG405820_real_fasta_bs9 after 190344ms  (34/957)
+## Started HBG284415_real_fasta_bs1 on [14:14] 
+End of HBG289648_real_fasta_bs6 after 170846ms  (35/957)
+## Started HBG284415_real_fasta_bs2 on [2:2] 
+End of HBG621785_real_fasta_bs9 after 190259ms  (36/957)
+## Started HBG284415_real_fasta_bs3 on [0:0] 
+Runner is still alive after 240s
+End of HBG625289_real_fasta_bs6 after 271042ms  (37/957)
+## Started HBG284415_real_fasta_bs4 on [35:35] 
+End of HBG625289_real_fasta_bs8 after 286836ms  (38/957)
+## Started HBG284415_real_fasta_bs5 on [7:7] 
+End of HBG625289_real_fasta_bs3 after 288791ms  (39/957)
+## Started HBG284758_real_fasta_bs3 on [8:8] 
+End of HBG625289_real_fasta_bs1 after 289955ms  (40/957)
+## Started HBG284758_real_fasta_bs0 on [17:17] 
+Runner is still alive after 300s
+End of HBG625289_real_fasta_bs7 after 304486ms  (41/957)
+## Started HBG284758_real_fasta_bs6 on [12:12] 
+End of HBG625289_real_fasta_bs0 after 305563ms  (42/957)
+## Started HBG284758_real_fasta_bs7 on [23:23] 
+End of HBG625289_real_fasta_bs4 after 309686ms  (43/957)
+## Started HBG284758_real_fasta_bs8 on [13:13] 
+End of HBG625289_real_fasta_bs5 after 310370ms  (44/957)
+## Started HBG284758_real_fasta_bs9 on [32:32] 
+End of HBG616165_real_fasta_bs2 after 153723ms  (45/957)
+## Started HBG284758_real_fasta_bs1 on [37:37] 
+End of HBG616165_real_fasta_bs3 after 143991ms  (46/957)
+## Started HBG284758_real_fasta_bs5 on [19:19] 
+End of HBG289648_real_fasta_bs9 after 158592ms  (47/957)
+## Started HBG284758_real_fasta_bs2 on [33:33] 
+End of HBG616165_real_fasta_bs1 after 153848ms  (48/957)
+## Started HBG284758_real_fasta_bs4 on [3:3] 
+End of HBG616165_real_fasta_bs5 after 151016ms  (49/957)
+## Started HBG603668_real_fasta_bs6 on [11:11] 
+End of HBG625289_real_fasta_bs9 after 322063ms  (50/957)
+## Started HBG603668_real_fasta_bs8 on [36:36] 
+End of HBG616165_real_fasta_bs7 after 149011ms  (51/957)
+## Started HBG603668_real_fasta_bs9 on [9:9] 
+End of HBG625289_real_fasta_bs2 after 325399ms  (52/957)
+## Started HBG603668_real_fasta_bs7 on [27:27] 
+End of HBG616165_real_fasta_bs0 after 164068ms  (53/957)
+## Started HBG603668_real_fasta_bs5 on [26:26] 
+End of HBG616165_real_fasta_bs6 after 158674ms  (54/957)
+## Started HBG603668_real_fasta_bs4 on [1:1] 
+End of HBG616165_real_fasta_bs9 after 162345ms  (55/957)
+## Started HBG603668_real_fasta_bs3 on [4:4] 
+End of HBG616165_real_fasta_bs4 after 172851ms  (56/957)
+## Started HBG603668_real_fasta_bs2 on [18:18] 
+End of HBG616165_real_fasta_bs8 after 175051ms  (57/957)
+## Started HBG603668_real_fasta_bs0 on [20:20] 
+Runner is still alive after 360s
+End of HBG444050_real_fasta_bs6 after 182590ms  (58/957)
+## Started HBG603668_real_fasta_bs1 on [29:29] 
+End of HBG444050_real_fasta_bs4 after 184533ms  (59/957)
+## Started HBG734490_real_fasta_bs6 on [30:30] 
+End of HBG444050_real_fasta_bs0 after 179190ms  (60/957)
+## Started HBG734490_real_fasta_bs0 on [38:38] 
+End of HBG444050_real_fasta_bs3 after 191274ms  (61/957)
+## Started HBG734490_real_fasta_bs5 on [16:16] 
+End of HBG444050_real_fasta_bs2 after 187578ms  (62/957)
+## Started HBG734490_real_fasta_bs4 on [10:10] 
+End of HBG444050_real_fasta_bs5 after 193083ms  (63/957)
+## Started HBG734490_real_fasta_bs3 on [5:5] 
+End of HBG444050_real_fasta_bs9 after 190579ms  (64/957)
+## Started HBG734490_real_fasta_bs2 on [31:31] 
+End of HBG444050_real_fasta_bs1 after 190307ms  (65/957)
+## Started HBG734490_real_fasta_bs1 on [15:15] 
+End of HBG444050_real_fasta_bs7 after 199715ms  (66/957)
+## Started HBG734490_real_fasta_bs8 on [25:25] 
+End of HBG444050_real_fasta_bs8 after 203425ms  (67/957)
+## Started HBG734490_real_fasta_bs9 on [34:34] 
+Runner is still alive after 420s
+End of HBG284758_real_fasta_bs0 after 148910ms  (68/957)
+## Started HBG734490_real_fasta_bs7 on [17:17] 
+End of HBG284758_real_fasta_bs3 after 155800ms  (69/957)
+## Started HBG405439_real_fasta_bs8 on [8:8] 
+End of HBG284758_real_fasta_bs7 after 141590ms  (70/957)
+## Started HBG405439_real_fasta_bs7 on [23:23] 
+End of HBG284415_real_fasta_bs0 after 262819ms  (71/957)
+## Started HBG405439_real_fasta_bs6 on [28:28] 
+End of HBG284758_real_fasta_bs5 after 135951ms  (72/957)
+## Started HBG405439_real_fasta_bs5 on [19:19] 
+End of HBG284415_real_fasta_bs8 after 263221ms  (73/957)
+## Started HBG405439_real_fasta_bs4 on [24:24] 
+End of HBG284415_real_fasta_bs7 after 263807ms  (74/957)
+## Started HBG405439_real_fasta_bs3 on [21:21] 
+End of HBG284758_real_fasta_bs1 after 144570ms  (75/957)
+## Started HBG405439_real_fasta_bs0 on [37:37] 
+End of HBG284415_real_fasta_bs2 after 264968ms  (76/957)
+## Started HBG405439_real_fasta_bs1 on [2:2] 
+End of HBG284758_real_fasta_bs9 after 148164ms  (77/957)
+## Started HBG405439_real_fasta_bs2 on [32:32] 
+End of HBG284758_real_fasta_bs6 after 154563ms  (78/957)
+## Started HBG405439_real_fasta_bs9 on [12:12] 
+End of HBG284415_real_fasta_bs6 after 275875ms  (79/957)
+## Started HBG616483_real_fasta_bs8 on [22:22] 
+End of HBG284415_real_fasta_bs1 after 274135ms  (80/957)
+## Started HBG616483_real_fasta_bs9 on [14:14] 
+End of HBG284758_real_fasta_bs8 after 159870ms  (81/957)
+## Started HBG616483_real_fasta_bs7 on [13:13] 
+End of HBG284758_real_fasta_bs2 after 153457ms  (82/957)
+## Started HBG616483_real_fasta_bs6 on [33:33] 
+End of HBG284415_real_fasta_bs9 after 286374ms  (83/957)
+## Started HBG616483_real_fasta_bs5 on [6:6] 
+End of HBG284758_real_fasta_bs4 after 153396ms  (84/957)
+## Started HBG616483_real_fasta_bs4 on [3:3] 
+Runner is still alive after 480s
+End of HBG734490_real_fasta_bs6 after 125599ms  (85/957)
+## Started HBG616483_real_fasta_bs3 on [30:30] 
+End of HBG734490_real_fasta_bs1 after 119317ms  (86/957)
+## Started HBG616483_real_fasta_bs2 on [15:15] 
+End of HBG284415_real_fasta_bs3 after 291205ms  (87/957)
+## Started HBG616483_real_fasta_bs1 on [0:0] 
+End of HBG734490_real_fasta_bs3 after 125972ms  (88/957)
+## Started HBG616483_real_fasta_bs0 on [5:5] 
+End of HBG734490_real_fasta_bs5 after 130827ms  (89/957)
+## Started HBG354397_real_fasta_bs3 on [16:16] 
+End of HBG734490_real_fasta_bs2 after 129571ms  (90/957)
+## Started HBG354397_real_fasta_bs1 on [31:31] 
+End of HBG734490_real_fasta_bs0 after 140257ms  (91/957)
+## Started HBG354397_real_fasta_bs4 on [38:38] 
+End of HBG734490_real_fasta_bs8 after 126281ms  (92/957)
+## Started HBG354397_real_fasta_bs5 on [25:25] 
+End of HBG284415_real_fasta_bs4 after 238457ms  (93/957)
+## Started HBG354397_real_fasta_bs6 on [35:35] 
+End of HBG734490_real_fasta_bs4 after 138818ms  (94/957)
+## Started HBG354397_real_fasta_bs7 on [10:10] 
+End of HBG734490_real_fasta_bs9 after 133219ms  (95/957)
+## Started HBG354397_real_fasta_bs2 on [34:34] 
+End of HBG603668_real_fasta_bs7 after 206558ms  (96/957)
+## Started HBG354397_real_fasta_bs8 on [27:27] 
+End of HBG603668_real_fasta_bs6 after 213037ms  (97/957)
+## Started HBG354397_real_fasta_bs9 on [11:11] 
+Runner is still alive after 540s
+End of HBG603668_real_fasta_bs4 after 211292ms  (98/957)
+## Started HBG354397_real_fasta_bs0 on [1:1] 
+End of HBG603668_real_fasta_bs5 after 217184ms  (99/957)
+## Started HBG486560_real_fasta_bs5 on [26:26] 
+End of HBG603668_real_fasta_bs9 after 226937ms  (100/957)
+## Started HBG486560_real_fasta_bs8 on [9:9] 
+End of HBG603668_real_fasta_bs3 after 226587ms  (101/957)
+## Started HBG486560_real_fasta_bs0 on [4:4] 
+End of HBG603668_real_fasta_bs0 after 212799ms  (102/957)
+## Started HBG486560_real_fasta_bs2 on [20:20] 
+End of HBG603668_real_fasta_bs8 after 243125ms  (103/957)
+## Started HBG486560_real_fasta_bs3 on [36:36] 
+End of HBG734490_real_fasta_bs7 after 126941ms  (104/957)
+## Started HBG486560_real_fasta_bs4 on [17:17] 
+End of HBG405439_real_fasta_bs8 after 128397ms  (105/957)
+## Started HBG486560_real_fasta_bs1 on [8:8] 
+End of HBG405439_real_fasta_bs6 after 126606ms  (106/957)
+## Started HBG486560_real_fasta_bs6 on [28:28] 
+End of HBG405439_real_fasta_bs7 after 129011ms  (107/957)
+## Started HBG486560_real_fasta_bs7 on [23:23] 
+End of HBG405439_real_fasta_bs0 after 119355ms  (108/957)
+## Started HBG486560_real_fasta_bs9 on [37:37] 
+End of HBG405439_real_fasta_bs5 after 129796ms  (109/957)
+## Started HBG286723_real_fasta_bs2 on [19:19] 
+End of HBG284415_real_fasta_bs5 after 293857ms  (110/957)
+## Started HBG286723_real_fasta_bs3 on [7:7] 
+End of HBG603668_real_fasta_bs2 after 239127ms  (111/957)
+## Started HBG286723_real_fasta_bs4 on [18:18] 
+End of HBG405439_real_fasta_bs4 after 133800ms  (112/957)
+## Started HBG286723_real_fasta_bs5 on [24:24] 
+End of HBG405439_real_fasta_bs3 after 132943ms  (113/957)
+## Started HBG286723_real_fasta_bs6 on [21:21] 
+End of HBG405439_real_fasta_bs1 after 127993ms  (114/957)
+## Started HBG286723_real_fasta_bs7 on [2:2] 
+End of HBG616483_real_fasta_bs9 after 123175ms  (115/957)
+## Started HBG286723_real_fasta_bs8 on [14:14] 
+End of HBG603668_real_fasta_bs1 after 227320ms  (116/957)
+## Started HBG286723_real_fasta_bs1 on [29:29] 
+End of HBG616483_real_fasta_bs8 after 129026ms  (117/957)
+## Started HBG286723_real_fasta_bs9 on [22:22] 
+End of HBG405439_real_fasta_bs9 after 137964ms  (118/957)
+## Started HBG286723_real_fasta_bs0 on [12:12] 
+End of HBG405439_real_fasta_bs2 after 138764ms  (119/957)
+## Started HBG287139_real_fasta_bs5 on [32:32] 
+End of HBG616483_real_fasta_bs4 after 126256ms  (120/957)
+## Started HBG287139_real_fasta_bs9 on [3:3] 
+Runner is still alive after 600s
+End of HBG616483_real_fasta_bs5 after 130055ms  (121/957)
+## Started HBG287139_real_fasta_bs0 on [6:6] 
+End of HBG616483_real_fasta_bs7 after 134118ms  (122/957)
+## Started HBG287139_real_fasta_bs1 on [13:13] 
+End of HBG616483_real_fasta_bs6 after 135543ms  (123/957)
+## Started HBG287139_real_fasta_bs2 on [33:33] 
+End of HBG616483_real_fasta_bs2 after 118249ms  (124/957)
+## Started HBG287139_real_fasta_bs3 on [15:15] 
+End of HBG616483_real_fasta_bs0 after 121060ms  (125/957)
+## Started HBG287139_real_fasta_bs4 on [5:5] 
+End of HBG616483_real_fasta_bs3 after 133493ms  (126/957)
+## Started HBG287139_real_fasta_bs6 on [30:30] 
+End of HBG354397_real_fasta_bs3 after 124998ms  (127/957)
+## Started HBG287139_real_fasta_bs7 on [16:16] 
+End of HBG354397_real_fasta_bs4 after 123393ms  (128/957)
+## Started HBG287139_real_fasta_bs8 on [38:38] 
+End of HBG354397_real_fasta_bs6 after 117739ms  (129/957)
+## Started HBG693845_real_fasta_bs9 on [35:35] 
+End of HBG616483_real_fasta_bs1 after 133505ms  (130/957)
+## Started HBG693845_real_fasta_bs8 on [0:0] 
+End of HBG354397_real_fasta_bs1 after 130880ms  (131/957)
+## Started HBG693845_real_fasta_bs2 on [31:31] 
+End of HBG354397_real_fasta_bs7 after 128795ms  (132/957)
+## Started HBG693845_real_fasta_bs1 on [10:10] 
+End of HBG354397_real_fasta_bs5 after 136038ms  (133/957)
+## Started HBG693845_real_fasta_bs0 on [25:25] 
+End of HBG354397_real_fasta_bs2 after 126174ms  (134/957)
+## Started HBG693845_real_fasta_bs3 on [34:34] 
+End of HBG354397_real_fasta_bs8 after 125582ms  (135/957)
+## Started HBG693845_real_fasta_bs4 on [27:27] 
+Runner is still alive after 660s
+End of HBG354397_real_fasta_bs9 after 140538ms  (136/957)
+## Started HBG693845_real_fasta_bs5 on [11:11] 
+End of HBG354397_real_fasta_bs0 after 138364ms  (137/957)
+## Started HBG693845_real_fasta_bs6 on [1:1] 
+End of HBG486560_real_fasta_bs8 after 132312ms  (138/957)
+## Started HBG693845_real_fasta_bs7 on [9:9] 
+End of HBG486560_real_fasta_bs5 after 139119ms  (139/957)
+## Started HBG351035_real_fasta_bs1 on [26:26] 
+End of HBG486560_real_fasta_bs2 after 124649ms  (140/957)
+## Started HBG351035_real_fasta_bs0 on [20:20] 
+End of HBG486560_real_fasta_bs0 after 126644ms  (141/957)
+## Started HBG351035_real_fasta_bs4 on [4:4] 
+End of HBG486560_real_fasta_bs9 after 120956ms  (142/957)
+## Started HBG351035_real_fasta_bs2 on [37:37] 
+End of HBG486560_real_fasta_bs3 after 133842ms  (143/957)
+## Started HBG351035_real_fasta_bs3 on [36:36] 
+End of HBG486560_real_fasta_bs1 after 128971ms  (144/957)
+## Started HBG351035_real_fasta_bs5 on [8:8] 
+End of HBG486560_real_fasta_bs7 after 128182ms  (145/957)
+## Started HBG351035_real_fasta_bs9 on [23:23] 
+End of HBG286723_real_fasta_bs3 after 125678ms  (146/957)
+## Started HBG351035_real_fasta_bs6 on [7:7] 
+End of HBG486560_real_fasta_bs4 after 141824ms  (147/957)
+## Started HBG351035_real_fasta_bs7 on [17:17] 
+End of HBG286723_real_fasta_bs1 after 119701ms  (148/957)
+## Started HBG351035_real_fasta_bs8 on [29:29] 
+End of HBG286723_real_fasta_bs6 after 124747ms  (149/957)
+## Started HBG555665_real_fasta_bs8 on [21:21] 
+End of HBG286723_real_fasta_bs2 after 132033ms  (150/957)
+## Started HBG555665_real_fasta_bs4 on [19:19] 
+End of HBG286723_real_fasta_bs7 after 128099ms  (151/957)
+## Started HBG555665_real_fasta_bs3 on [2:2] 
+End of HBG486560_real_fasta_bs6 after 141720ms  (152/957)
+## Started HBG555665_real_fasta_bs2 on [28:28] 
+Runner is still alive after 720s
+End of HBG286723_real_fasta_bs5 after 136738ms  (153/957)
+## Started HBG555665_real_fasta_bs1 on [24:24] 
+End of HBG286723_real_fasta_bs8 after 137745ms  (154/957)
+## Started HBG555665_real_fasta_bs0 on [14:14] 
+End of HBG286723_real_fasta_bs4 after 143987ms  (155/957)
+## Started HBG555665_real_fasta_bs5 on [18:18] 
+End of HBG286723_real_fasta_bs9 after 136904ms  (156/957)
+## Started HBG555665_real_fasta_bs6 on [22:22] 
+End of HBG286723_real_fasta_bs0 after 133541ms  (157/957)
+## Started HBG555665_real_fasta_bs7 on [12:12] 
+End of HBG287139_real_fasta_bs2 after 134164ms  (158/957)
+## Started HBG555665_real_fasta_bs9 on [33:33] 
+End of HBG287139_real_fasta_bs1 after 142007ms  (159/957)
+## Started HBG610926_real_fasta_bs9 on [13:13] 
+End of HBG287139_real_fasta_bs5 after 150092ms  (160/957)
+## Started HBG610926_real_fasta_bs5 on [32:32] 
+End of HBG287139_real_fasta_bs9 after 151022ms  (161/957)
+## Started HBG610926_real_fasta_bs4 on [3:3] 
+End of HBG693845_real_fasta_bs9 after 124004ms  (162/957)
+## Started HBG610926_real_fasta_bs3 on [35:35] 
+End of HBG287139_real_fasta_bs4 after 135991ms  (163/957)
+## Started HBG610926_real_fasta_bs0 on [5:5] 
+End of HBG287139_real_fasta_bs0 after 157473ms  (164/957)
+## Started HBG610926_real_fasta_bs1 on [6:6] 
+End of HBG693845_real_fasta_bs8 after 136154ms  (165/957)
+## Started HBG610926_real_fasta_bs2 on [0:0] 
+End of HBG287139_real_fasta_bs8 after 140553ms  (166/957)
+## Started HBG610926_real_fasta_bs6 on [38:38] 
+End of HBG693845_real_fasta_bs2 after 139751ms  (167/957)
+## Started HBG610926_real_fasta_bs7 on [31:31] 
+End of HBG287139_real_fasta_bs6 after 151973ms  (168/957)
+## Started HBG610926_real_fasta_bs8 on [30:30] 
+End of HBG287139_real_fasta_bs7 after 153527ms  (169/957)
+## Started HBG735169_real_fasta_bs5 on [16:16] 
+End of HBG693845_real_fasta_bs1 after 139886ms  (170/957)
+## Started HBG735169_real_fasta_bs8 on [10:10] 
+Runner is still alive after 780s
+End of HBG693845_real_fasta_bs0 after 139041ms  (171/957)
+## Started HBG735169_real_fasta_bs7 on [25:25] 
+End of HBG287139_real_fasta_bs3 after 173107ms  (172/957)
+## Started HBG735169_real_fasta_bs0 on [15:15] 
+End of HBG693845_real_fasta_bs4 after 133805ms  (173/957)
+## Started HBG735169_real_fasta_bs1 on [27:27] 
+End of HBG693845_real_fasta_bs3 after 151560ms  (174/957)
+## Started HBG735169_real_fasta_bs2 on [34:34] 
+End of HBG693845_real_fasta_bs5 after 134278ms  (175/957)
+## Started HBG735169_real_fasta_bs3 on [11:11] 
+End of HBG351035_real_fasta_bs4 after 121403ms  (176/957)
+## Started HBG735169_real_fasta_bs9 on [4:4] 
+End of HBG351035_real_fasta_bs2 after 114605ms  (177/957)
+## Started HBG735169_real_fasta_bs4 on [37:37] 
+End of HBG693845_real_fasta_bs7 after 130247ms  (178/957)
+## Started HBG735169_real_fasta_bs6 on [9:9] 
+End of HBG351035_real_fasta_bs1 after 128874ms  (179/957)
+## Started HBG399638_real_fasta_bs8 on [26:26] 
+End of HBG351035_real_fasta_bs0 after 132849ms  (180/957)
+## Started HBG399638_real_fasta_bs7 on [20:20] 
+End of HBG351035_real_fasta_bs3 after 122414ms  (181/957)
+## Started HBG399638_real_fasta_bs6 on [36:36] 
+End of HBG351035_real_fasta_bs8 after 119544ms  (182/957)
+## Started HBG399638_real_fasta_bs5 on [29:29] 
+End of HBG351035_real_fasta_bs9 after 126069ms  (183/957)
+## Started HBG399638_real_fasta_bs4 on [23:23] 
+End of HBG693845_real_fasta_bs6 after 153678ms  (184/957)
+## Started HBG399638_real_fasta_bs3 on [1:1] 
+End of HBG351035_real_fasta_bs5 after 133695ms  (185/957)
+## Started HBG399638_real_fasta_bs2 on [8:8] 
+Runner is still alive after 840s
+End of HBG351035_real_fasta_bs6 after 134546ms  (186/957)
+## Started HBG399638_real_fasta_bs1 on [7:7] 
+End of HBG351035_real_fasta_bs7 after 137384ms  (187/957)
+## Started HBG399638_real_fasta_bs0 on [17:17] 
+End of HBG610926_real_fasta_bs3 after 107893ms  (188/957)
+## Started HBG399638_real_fasta_bs9 on [35:35] 
+End of HBG610926_real_fasta_bs4 after 110096ms  (189/957)
+## Started HBG747311_real_fasta_bs0 on [3:3] 
+End of HBG610926_real_fasta_bs5 after 115804ms  (190/957)
+## Started HBG747311_real_fasta_bs1 on [32:32] 
+End of HBG555665_real_fasta_bs2 after 149550ms  (191/957)
+## Started HBG747311_real_fasta_bs2 on [28:28] 
+End of HBG555665_real_fasta_bs8 after 159330ms  (192/957)
+## Started HBG747311_real_fasta_bs3 on [21:21] 
+End of HBG610926_real_fasta_bs9 after 125056ms  (193/957)
+## Started HBG747311_real_fasta_bs4 on [13:13] 
+End of HBG610926_real_fasta_bs0 after 117530ms  (194/957)
+## Started HBG747311_real_fasta_bs5 on [5:5] 
+End of HBG555665_real_fasta_bs1 after 152507ms  (195/957)
+## Started HBG747311_real_fasta_bs6 on [24:24] 
+End of HBG610926_real_fasta_bs1 after 120507ms  (196/957)
+## Started HBG747311_real_fasta_bs7 on [6:6] 
+End of HBG610926_real_fasta_bs2 after 115792ms  (197/957)
+## Started HBG747311_real_fasta_bs8 on [0:0] 
+End of HBG555665_real_fasta_bs4 after 170016ms  (198/957)
+## Started HBG747311_real_fasta_bs9 on [19:19] 
+End of HBG610926_real_fasta_bs6 after 113857ms  (199/957)
+## Started HBG341268_real_fasta_bs2 on [38:38] 
+End of HBG555665_real_fasta_bs9 after 145562ms  (200/957)
+## Started HBG341268_real_fasta_bs3 on [33:33] 
+End of HBG555665_real_fasta_bs0 after 163489ms  (201/957)
+## Started HBG341268_real_fasta_bs0 on [14:14] 
+End of HBG555665_real_fasta_bs3 after 178911ms  (202/957)
+## Started HBG341268_real_fasta_bs9 on [2:2] 
+End of HBG610926_real_fasta_bs8 after 119365ms  (203/957)
+## Started HBG341268_real_fasta_bs8 on [30:30] 
+End of HBG735169_real_fasta_bs8 after 115484ms  (204/957)
+## Started HBG341268_real_fasta_bs7 on [10:10] 
+End of HBG735169_real_fasta_bs0 after 114912ms  (205/957)
+## Started HBG341268_real_fasta_bs6 on [15:15] 
+Runner is still alive after 900s
+End of HBG555665_real_fasta_bs6 after 171317ms  (206/957)
+## Started HBG341268_real_fasta_bs5 on [22:22] 
+End of HBG735169_real_fasta_bs7 after 121090ms  (207/957)
+## Started HBG341268_real_fasta_bs1 on [25:25] 
+End of HBG610926_real_fasta_bs7 after 130886ms  (208/957)
+## Started HBG341268_real_fasta_bs4 on [31:31] 
+End of HBG555665_real_fasta_bs5 after 179894ms  (209/957)
+## Started HBG593711_real_fasta_bs0 on [18:18] 
+End of HBG735169_real_fasta_bs1 after 116377ms  (210/957)
+## Started HBG593711_real_fasta_bs1 on [27:27] 
+End of HBG735169_real_fasta_bs5 after 131270ms  (211/957)
+## Started HBG593711_real_fasta_bs2 on [16:16] 
+End of HBG555665_real_fasta_bs7 after 184375ms  (212/957)
+## Started HBG593711_real_fasta_bs3 on [12:12] 
+End of HBG735169_real_fasta_bs2 after 132000ms  (213/957)
+## Started HBG593711_real_fasta_bs4 on [34:34] 
+End of HBG735169_real_fasta_bs4 after 119643ms  (214/957)
+## Started HBG593711_real_fasta_bs5 on [37:37] 
+End of HBG735169_real_fasta_bs6 after 122152ms  (215/957)
+## Started HBG593711_real_fasta_bs7 on [9:9] 
+End of HBG735169_real_fasta_bs9 after 126996ms  (216/957)
+## Started HBG593711_real_fasta_bs8 on [4:4] 
+End of HBG399638_real_fasta_bs8 after 127241ms  (217/957)
+## Started HBG593711_real_fasta_bs9 on [26:26] 
+End of HBG735169_real_fasta_bs3 after 137116ms  (218/957)
+## Started HBG593711_real_fasta_bs6 on [11:11] 
+End of HBG399638_real_fasta_bs5 after 123719ms  (219/957)
+## Started HBG286705_real_fasta_bs3 on [29:29] 
+End of HBG399638_real_fasta_bs7 after 131375ms  (220/957)
+## Started HBG284200_real_fasta_bs0 on [20:20] 
+End of HBG399638_real_fasta_bs6 after 134634ms  (221/957)
+## Started HBG284200_real_fasta_bs1 on [36:36] 
+End of HBG399638_real_fasta_bs1 after 117253ms  (222/957)
+## Started HBG286705_real_fasta_bs8 on [7:7] 
+End of HBG399638_real_fasta_bs2 after 123699ms  (223/957)
+## Started HBG284200_real_fasta_bs5 on [8:8] 
+Runner is still alive after 960s
+End of HBG399638_real_fasta_bs4 after 130617ms  (224/957)
+## Started HBG284200_real_fasta_bs6 on [23:23] 
+End of HBG399638_real_fasta_bs3 after 130102ms  (225/957)
+## Started HBG284200_real_fasta_bs7 on [1:1] 
+End of HBG747311_real_fasta_bs0 after 108039ms  (226/957)
+## Started HBG284200_real_fasta_bs4 on [3:3] 
+End of HBG399638_real_fasta_bs0 after 136073ms  (227/957)
+## Started HBG284200_real_fasta_bs8 on [17:17] 
+End of HBG747311_real_fasta_bs2 after 116891ms  (228/957)
+## Started HBG284200_real_fasta_bs9 on [28:28] 
+End of HBG747311_real_fasta_bs4 after 112434ms  (229/957)
+## Started HBG284200_real_fasta_bs3 on [13:13] 
+End of HBG747311_real_fasta_bs1 after 122956ms  (230/957)
+## Started HBG286705_real_fasta_bs0 on [32:32] 
+End of HBG399638_real_fasta_bs9 after 127057ms  (231/957)
+## Started HBG286705_real_fasta_bs1 on [35:35] 
+End of HBG747311_real_fasta_bs5 after 115478ms  (232/957)
+## Started HBG286705_real_fasta_bs9 on [5:5] 
+End of HBG747311_real_fasta_bs3 after 121634ms  (233/957)
+## Started HBG284200_real_fasta_bs2 on [21:21] 
+End of HBG747311_real_fasta_bs6 after 117933ms  (234/957)
+## Started HBG286705_real_fasta_bs4 on [24:24] 
+End of HBG747311_real_fasta_bs9 after 123579ms  (235/957)
+## Started HBG286705_real_fasta_bs5 on [19:19] 
+End of HBG341268_real_fasta_bs2 after 126773ms  (236/957)
+## Started HBG286705_real_fasta_bs6 on [38:38] 
+End of HBG341268_real_fasta_bs0 after 121990ms  (237/957)
+## Started HBG286705_real_fasta_bs7 on [14:14] 
+End of HBG747311_real_fasta_bs8 after 132209ms  (238/957)
+## Started HBG286705_real_fasta_bs2 on [0:0] 
+End of HBG747311_real_fasta_bs7 after 133696ms  (239/957)
+## Started HBG678447_real_fasta_bs7 on [6:6] 
+End of HBG341268_real_fasta_bs8 after 122131ms  (240/957)
+## Started HBG678447_real_fasta_bs0 on [30:30] 
+End of HBG341268_real_fasta_bs3 after 130195ms  (241/957)
+## Started HBG678447_real_fasta_bs1 on [33:33] 
+End of HBG341268_real_fasta_bs7 after 123979ms  (242/957)
+## Started HBG678447_real_fasta_bs2 on [10:10] 
+Runner is still alive after 1020s
+End of HBG341268_real_fasta_bs9 after 127474ms  (243/957)
+## Started HBG678447_real_fasta_bs3 on [2:2] 
+End of HBG341268_real_fasta_bs1 after 126660ms  (244/957)
+## Started HBG678447_real_fasta_bs4 on [25:25] 
+End of HBG593711_real_fasta_bs1 after 123080ms  (245/957)
+## Started HBG678447_real_fasta_bs5 on [27:27] 
+End of HBG341268_real_fasta_bs6 after 132341ms  (246/957)
+## Started HBG678447_real_fasta_bs6 on [15:15] 
+End of HBG341268_real_fasta_bs4 after 129460ms  (247/957)
+## Started HBG678447_real_fasta_bs9 on [31:31] 
+End of HBG593711_real_fasta_bs0 after 132567ms  (248/957)
+## Started HBG678447_real_fasta_bs8 on [18:18] 
+End of HBG341268_real_fasta_bs5 after 141712ms  (249/957)
+## Started HBG635083_real_fasta_bs0 on [22:22] 
+End of HBG593711_real_fasta_bs3 after 128850ms  (250/957)
+## Started HBG635083_real_fasta_bs4 on [12:12] 
+End of HBG593711_real_fasta_bs2 after 140774ms  (251/957)
+## Started HBG635083_real_fasta_bs1 on [16:16] 
+End of HBG593711_real_fasta_bs5 after 120072ms  (252/957)
+## Started HBG635083_real_fasta_bs2 on [37:37] 
+End of HBG593711_real_fasta_bs7 after 123599ms  (253/957)
+## Started HBG635083_real_fasta_bs3 on [9:9] 
+End of HBG593711_real_fasta_bs4 after 134703ms  (254/957)
+## Started HBG586599_real_fasta_bs4 on [34:34] 
+End of HBG593711_real_fasta_bs8 after 124015ms  (255/957)
+## Started HBG635083_real_fasta_bs5 on [4:4] 
+End of HBG593711_real_fasta_bs9 after 122250ms  (256/957)
+## Started HBG635083_real_fasta_bs6 on [26:26] 
+End of HBG284200_real_fasta_bs0 after 113352ms  (257/957)
+## Started HBG635083_real_fasta_bs7 on [20:20] 
+End of HBG286705_real_fasta_bs8 after 112511ms  (258/957)
+## Started HBG635083_real_fasta_bs8 on [7:7] 
+End of HBG286705_real_fasta_bs3 after 120785ms  (259/957)
+## Started HBG635083_real_fasta_bs9 on [29:29] 
+End of HBG284200_real_fasta_bs7 after 108376ms  (260/957)
+## Started HBG586599_real_fasta_bs9 on [1:1] 
+End of HBG284200_real_fasta_bs1 after 118079ms  (261/957)
+## Started HBG586599_real_fasta_bs0 on [36:36] 
+End of HBG593711_real_fasta_bs6 after 129613ms  (262/957)
+## Started HBG586599_real_fasta_bs1 on [11:11] 
+End of HBG284200_real_fasta_bs6 after 115986ms  (263/957)
+## Started HBG586599_real_fasta_bs2 on [23:23] 
+Runner is still alive after 1080s
+End of HBG284200_real_fasta_bs4 after 114072ms  (264/957)
+## Started HBG586599_real_fasta_bs5 on [3:3] 
+End of HBG284200_real_fasta_bs5 after 132364ms  (265/957)
+## Started HBG586599_real_fasta_bs3 on [8:8] 
+End of HBG284200_real_fasta_bs8 after 113500ms  (266/957)
+## Started HBG586599_real_fasta_bs6 on [17:17] 
+End of HBG286705_real_fasta_bs0 after 110749ms  (267/957)
+## Started HBG586599_real_fasta_bs7 on [32:32] 
+End of HBG286705_real_fasta_bs1 after 112495ms  (268/957)
+## Started HBG586599_real_fasta_bs8 on [35:35] 
+End of HBG286705_real_fasta_bs9 after 111776ms  (269/957)
+## Started HBG594146_real_fasta_bs9 on [5:5] 
+End of HBG284200_real_fasta_bs2 after 110510ms  (270/957)
+## Started HBG594146_real_fasta_bs8 on [21:21] 
+End of HBG286705_real_fasta_bs4 after 112329ms  (271/957)
+## Started HBG594146_real_fasta_bs7 on [24:24] 
+End of HBG284200_real_fasta_bs9 after 121281ms  (272/957)
+## Started HBG594146_real_fasta_bs6 on [28:28] 
+End of HBG284200_real_fasta_bs3 after 122419ms  (273/957)
+## Started HBG594146_real_fasta_bs5 on [13:13] 
+End of HBG678447_real_fasta_bs7 after 100058ms  (274/957)
+## Started HBG594146_real_fasta_bs4 on [6:6] 
+End of HBG678447_real_fasta_bs1 after 98261ms  (275/957)
+## Started HBG594146_real_fasta_bs3 on [33:33] 
+End of HBG678447_real_fasta_bs2 after 97279ms  (276/957)
+## Started HBG594146_real_fasta_bs2 on [10:10] 
+End of HBG286705_real_fasta_bs5 after 111354ms  (277/957)
+## Started HBG594146_real_fasta_bs1 on [19:19] 
+End of HBG678447_real_fasta_bs0 after 102683ms  (278/957)
+## Started HBG594146_real_fasta_bs0 on [30:30] 
+End of HBG286705_real_fasta_bs7 after 108337ms  (279/957)
+## Started HBG285867_real_fasta_bs1 on [14:14] 
+End of HBG286705_real_fasta_bs6 after 111495ms  (280/957)
+## Started HBG285867_real_fasta_bs9 on [38:38] 
+End of HBG286705_real_fasta_bs2 after 113243ms  (281/957)
+## Started HBG285867_real_fasta_bs0 on [0:0] 
+End of HBG678447_real_fasta_bs6 after 95271ms  (282/957)
+## Started HBG285867_real_fasta_bs2 on [15:15] 
+End of HBG678447_real_fasta_bs5 after 97285ms  (283/957)
+## Started HBG285867_real_fasta_bs3 on [27:27] 
+End of HBG678447_real_fasta_bs3 after 110639ms  (284/957)
+## Started HBG285867_real_fasta_bs4 on [2:2] 
+End of HBG678447_real_fasta_bs4 after 105719ms  (285/957)
+## Started HBG285867_real_fasta_bs5 on [25:25] 
+End of HBG678447_real_fasta_bs9 after 102423ms  (286/957)
+## Started HBG285867_real_fasta_bs6 on [31:31] 
+Runner is still alive after 1140s
+End of HBG678447_real_fasta_bs8 after 104093ms  (287/957)
+## Started HBG285867_real_fasta_bs7 on [18:18] 
+End of HBG635083_real_fasta_bs4 after 109240ms  (288/957)
+## Started HBG285867_real_fasta_bs8 on [12:12] 
+End of HBG635083_real_fasta_bs0 after 119653ms  (289/957)
+## Started HBG710319_real_fasta_bs0 on [22:22] 
+End of HBG635083_real_fasta_bs1 after 114792ms  (290/957)
+## Started HBG710319_real_fasta_bs9 on [16:16] 
+End of HBG635083_real_fasta_bs3 after 112910ms  (291/957)
+## Started HBG710319_real_fasta_bs8 on [9:9] 
+End of HBG635083_real_fasta_bs9 after 99872ms  (292/957)
+## Started HBG710319_real_fasta_bs7 on [29:29] 
+End of HBG635083_real_fasta_bs2 after 121039ms  (293/957)
+## Started HBG710319_real_fasta_bs4 on [37:37] 
+End of HBG635083_real_fasta_bs5 after 115109ms  (294/957)
+## Started HBG710319_real_fasta_bs6 on [4:4] 
+End of HBG635083_real_fasta_bs7 after 113248ms  (295/957)
+## Started HBG710319_real_fasta_bs5 on [20:20] 
+End of HBG635083_real_fasta_bs6 after 119692ms  (296/957)
+## Started HBG710319_real_fasta_bs1 on [26:26] 
+End of HBG586599_real_fasta_bs9 after 112292ms  (297/957)
+## Started HBG710319_real_fasta_bs2 on [1:1] 
+End of HBG586599_real_fasta_bs4 after 127976ms  (298/957)
+## Started HBG710319_real_fasta_bs3 on [34:34] 
+End of HBG635083_real_fasta_bs8 after 122691ms  (299/957)
+## Started HBG571647_real_fasta_bs9 on [7:7] 
+End of HBG586599_real_fasta_bs5 after 115447ms  (300/957)
+## Started HBG571647_real_fasta_bs8 on [3:3] 
+Runner is still alive after 1200s
+End of HBG586599_real_fasta_bs0 after 126936ms  (301/957)
+## Started HBG571647_real_fasta_bs0 on [36:36] 
+End of HBG586599_real_fasta_bs2 after 125460ms  (302/957)
+## Started HBG571647_real_fasta_bs7 on [23:23] 
+End of HBG586599_real_fasta_bs6 after 109957ms  (303/957)
+## Started HBG571647_real_fasta_bs6 on [17:17] 
+End of HBG586599_real_fasta_bs8 after 107513ms  (304/957)
+## Started HBG571647_real_fasta_bs5 on [35:35] 
+End of HBG594146_real_fasta_bs9 after 107057ms  (305/957)
+## Started HBG571647_real_fasta_bs4 on [5:5] 
+End of HBG586599_real_fasta_bs1 after 132366ms  (306/957)
+## Started HBG571647_real_fasta_bs3 on [11:11] 
+End of HBG594146_real_fasta_bs6 after 107010ms  (307/957)
+## Started HBG571647_real_fasta_bs2 on [28:28] 
+End of HBG594146_real_fasta_bs8 after 110860ms  (308/957)
+## Started HBG571647_real_fasta_bs1 on [21:21] 
+End of HBG594146_real_fasta_bs5 after 106814ms  (309/957)
+## Started HBG626671_real_fasta_bs3 on [13:13] 
+End of HBG586599_real_fasta_bs3 after 121383ms  (310/957)
+## Started HBG626671_real_fasta_bs5 on [8:8] 
+End of HBG586599_real_fasta_bs7 after 119914ms  (311/957)
+## Started HBG626671_real_fasta_bs2 on [32:32] 
+End of HBG594146_real_fasta_bs2 after 107281ms  (312/957)
+## Started HBG626671_real_fasta_bs6 on [10:10] 
+End of HBG594146_real_fasta_bs1 after 108447ms  (313/957)
+## Started HBG626671_real_fasta_bs4 on [19:19] 
+End of HBG285867_real_fasta_bs9 after 104608ms  (314/957)
+## Started HBG626671_real_fasta_bs7 on [38:38] 
+End of HBG594146_real_fasta_bs4 after 112767ms  (315/957)
+## Started HBG626671_real_fasta_bs8 on [6:6] 
+End of HBG285867_real_fasta_bs1 after 107473ms  (316/957)
+## Started HBG626671_real_fasta_bs9 on [14:14] 
+End of HBG285867_real_fasta_bs2 after 106100ms  (317/957)
+## Started HBG626671_real_fasta_bs0 on [15:15] 
+End of HBG285867_real_fasta_bs3 after 105688ms  (318/957)
+## Started HBG626671_real_fasta_bs1 on [27:27] 
+End of HBG594146_real_fasta_bs3 after 120490ms  (319/957)
+## Started HBG284990_real_fasta_bs9 on [33:33] 
+End of HBG285867_real_fasta_bs0 after 109793ms  (320/957)
+## Started HBG284990_real_fasta_bs8 on [0:0] 
+End of HBG594146_real_fasta_bs0 after 120971ms  (321/957)
+## Started HBG284990_real_fasta_bs7 on [30:30] 
+End of HBG285867_real_fasta_bs5 after 107023ms  (322/957)
+## Started HBG284990_real_fasta_bs4 on [25:25] 
+End of HBG710319_real_fasta_bs9 after 76875ms  (323/957)
+## Started HBG284990_real_fasta_bs2 on [16:16] 
+End of HBG594146_real_fasta_bs7 after 137704ms  (324/957)
+## Started HBG284990_real_fasta_bs3 on [24:24] 
+End of HBG285867_real_fasta_bs4 after 111160ms  (325/957)
+## Started HBG284990_real_fasta_bs1 on [2:2] 
+End of HBG285867_real_fasta_bs6 after 107985ms  (326/957)
+## Started HBG284990_real_fasta_bs0 on [31:31] 
+End of HBG710319_real_fasta_bs0 after 85959ms  (327/957)
+## Started HBG284990_real_fasta_bs6 on [22:22] 
+End of HBG710319_real_fasta_bs8 after 80053ms  (328/957)
+## Started HBG284990_real_fasta_bs5 on [9:9] 
+End of HBG710319_real_fasta_bs7 after 80147ms  (329/957)
+## Started HBG497378_real_fasta_bs2 on [29:29] 
+End of HBG710319_real_fasta_bs4 after 81451ms  (330/957)
+## Started HBG497378_real_fasta_bs3 on [37:37] 
+End of HBG285867_real_fasta_bs7 after 114934ms  (331/957)
+## Started HBG497378_real_fasta_bs1 on [18:18] 
+End of HBG710319_real_fasta_bs5 after 79135ms  (332/957)
+## Started HBG497378_real_fasta_bs4 on [20:20] 
+Runner is still alive after 1260s
+End of HBG710319_real_fasta_bs6 after 84812ms  (333/957)
+## Started HBG497378_real_fasta_bs0 on [4:4] 
+End of HBG285867_real_fasta_bs8 after 109289ms  (334/957)
+## Started HBG497378_real_fasta_bs8 on [12:12] 
+End of HBG710319_real_fasta_bs1 after 79531ms  (335/957)
+## Started HBG497378_real_fasta_bs9 on [26:26] 
+End of HBG710319_real_fasta_bs2 after 79825ms  (336/957)
+## Started HBG497378_real_fasta_bs5 on [1:1] 
+End of HBG710319_real_fasta_bs3 after 84852ms  (337/957)
+## Started HBG497378_real_fasta_bs6 on [34:34] 
+End of HBG571647_real_fasta_bs8 after 104076ms  (338/957)
+## Started HBG497378_real_fasta_bs7 on [3:3] 
+End of HBG571647_real_fasta_bs9 after 109652ms  (339/957)
+## Started HBG538831_real_fasta_bs7 on [7:7] 
+End of HBG571647_real_fasta_bs0 after 108217ms  (340/957)
+## Started HBG538831_real_fasta_bs0 on [36:36] 
+End of HBG571647_real_fasta_bs7 after 107871ms  (341/957)
+## Started HBG538831_real_fasta_bs1 on [23:23] 
+End of HBG571647_real_fasta_bs3 after 102946ms  (342/957)
+## Started HBG538831_real_fasta_bs2 on [11:11] 
+End of HBG571647_real_fasta_bs4 after 105114ms  (343/957)
+## Started HBG538831_real_fasta_bs3 on [5:5] 
+End of HBG571647_real_fasta_bs1 after 102333ms  (344/957)
+## Started HBG538831_real_fasta_bs4 on [21:21] 
+End of HBG571647_real_fasta_bs6 after 110514ms  (345/957)
+## Started HBG538831_real_fasta_bs5 on [17:17] 
+End of HBG571647_real_fasta_bs5 after 109195ms  (346/957)
+## Started HBG538831_real_fasta_bs9 on [35:35] 
+End of HBG626671_real_fasta_bs3 after 106720ms  (347/957)
+## Started HBG538831_real_fasta_bs8 on [13:13] 
+Runner is still alive after 1320s
+End of HBG626671_real_fasta_bs5 after 106960ms  (348/957)
+## Started HBG538831_real_fasta_bs6 on [8:8] 
+End of HBG626671_real_fasta_bs6 after 101417ms  (349/957)
+## Started HBG438550_real_fasta_bs1 on [10:10] 
+End of HBG626671_real_fasta_bs4 after 100362ms  (350/957)
+## Started HBG438550_real_fasta_bs9 on [19:19] 
+End of HBG626671_real_fasta_bs8 after 98538ms  (351/957)
+## Started HBG438550_real_fasta_bs8 on [6:6] 
+End of HBG626671_real_fasta_bs9 after 102420ms  (352/957)
+## Started HBG438550_real_fasta_bs7 on [14:14] 
+End of HBG571647_real_fasta_bs2 after 118915ms  (353/957)
+## Started HBG438550_real_fasta_bs6 on [28:28] 
+End of HBG626671_real_fasta_bs2 after 114286ms  (354/957)
+## Started HBG438550_real_fasta_bs5 on [32:32] 
+End of HBG626671_real_fasta_bs1 after 101814ms  (355/957)
+## Started HBG438550_real_fasta_bs4 on [27:27] 
+End of HBG284990_real_fasta_bs2 after 94700ms  (356/957)
+## Started HBG438550_real_fasta_bs3 on [16:16] 
+End of HBG626671_real_fasta_bs7 after 111689ms  (357/957)
+## Started HBG438550_real_fasta_bs2 on [38:38] 
+End of HBG284990_real_fasta_bs0 after 96098ms  (358/957)
+## Started HBG438550_real_fasta_bs0 on [31:31] 
+End of HBG284990_real_fasta_bs4 after 100410ms  (359/957)
+## Started HBG635132_real_fasta_bs5 on [25:25] 
+End of HBG284990_real_fasta_bs9 after 107762ms  (360/957)
+## Started HBG635132_real_fasta_bs0 on [33:33] 
+End of HBG497378_real_fasta_bs2 after 90118ms  (361/957)
+## Started HBG635132_real_fasta_bs1 on [29:29] 
+End of HBG284990_real_fasta_bs8 after 109156ms  (362/957)
+## Started HBG635132_real_fasta_bs6 on [0:0] 
+End of HBG626671_real_fasta_bs0 after 114690ms  (363/957)
+## Started HBG635132_real_fasta_bs9 on [15:15] 
+End of HBG284990_real_fasta_bs7 after 111645ms  (364/957)
+## Started HBG635132_real_fasta_bs8 on [30:30] 
+End of HBG284990_real_fasta_bs6 after 103063ms  (365/957)
+## Started HBG635132_real_fasta_bs7 on [22:22] 
+End of HBG284990_real_fasta_bs3 after 109765ms  (366/957)
+## Started HBG635132_real_fasta_bs2 on [24:24] 
+End of HBG284990_real_fasta_bs1 after 112152ms  (367/957)
+## Started HBG635132_real_fasta_bs3 on [2:2] 
+End of HBG497378_real_fasta_bs4 after 98257ms  (368/957)
+## Started HBG635132_real_fasta_bs4 on [20:20] 
+End of HBG497378_real_fasta_bs5 after 92033ms  (369/957)
+## Started HBG285623_real_fasta_bs5 on [1:1] 
+End of HBG497378_real_fasta_bs1 after 100602ms  (370/957)
+## Started HBG285623_real_fasta_bs6 on [18:18] 
+End of HBG497378_real_fasta_bs9 after 96615ms  (371/957)
+## Started HBG285623_real_fasta_bs8 on [26:26] 
+End of HBG284990_real_fasta_bs5 after 110685ms  (372/957)
+## Started HBG285623_real_fasta_bs9 on [9:9] 
+End of HBG497378_real_fasta_bs8 after 102049ms  (373/957)
+## Started HBG285623_real_fasta_bs7 on [12:12] 
+End of HBG497378_real_fasta_bs3 after 112482ms  (374/957)
+## Started HBG285623_real_fasta_bs4 on [37:37] 
+End of HBG497378_real_fasta_bs0 after 112167ms  (375/957)
+## Started HBG285623_real_fasta_bs0 on [4:4] 
+End of HBG497378_real_fasta_bs6 after 104785ms  (376/957)
+## Started HBG285623_real_fasta_bs1 on [34:34] 
+Runner is still alive after 1380s
+End of HBG538831_real_fasta_bs7 after 77918ms  (377/957)
+## Started HBG285623_real_fasta_bs3 on [7:7] 
+End of HBG538831_real_fasta_bs3 after 71112ms  (378/957)
+## Started HBG285623_real_fasta_bs2 on [5:5] 
+End of HBG538831_real_fasta_bs2 after 73921ms  (379/957)
+## Started HBG724395_real_fasta_bs0 on [11:11] 
+End of HBG538831_real_fasta_bs4 after 72944ms  (380/957)
+## Started HBG724395_real_fasta_bs9 on [21:21] 
+End of HBG538831_real_fasta_bs0 after 77314ms  (381/957)
+## Started HBG724395_real_fasta_bs8 on [36:36] 
+End of HBG538831_real_fasta_bs1 after 76626ms  (382/957)
+## Started HBG724395_real_fasta_bs7 on [23:23] 
+End of HBG538831_real_fasta_bs5 after 75756ms  (383/957)
+## Started HBG724395_real_fasta_bs6 on [17:17] 
+End of HBG538831_real_fasta_bs9 after 77791ms  (384/957)
+## Started HBG724395_real_fasta_bs5 on [35:35] 
+End of HBG538831_real_fasta_bs8 after 74163ms  (385/957)
+## Started HBG724395_real_fasta_bs3 on [13:13] 
+End of HBG538831_real_fasta_bs6 after 75893ms  (386/957)
+## Started HBG724395_real_fasta_bs2 on [8:8] 
+End of HBG497378_real_fasta_bs7 after 100260ms  (387/957)
+## Started HBG724395_real_fasta_bs1 on [3:3] 
+End of HBG438550_real_fasta_bs8 after 81649ms  (388/957)
+## Started HBG724395_real_fasta_bs4 on [6:6] 
+End of HBG438550_real_fasta_bs5 after 76566ms  (389/957)
+## Started HBG632212_real_fasta_bs3 on [32:32] 
+End of HBG438550_real_fasta_bs1 after 84972ms  (390/957)
+## Started HBG632212_real_fasta_bs2 on [10:10] 
+End of HBG438550_real_fasta_bs6 after 79094ms  (391/957)
+## Started HBG632212_real_fasta_bs1 on [28:28] 
+End of HBG438550_real_fasta_bs0 after 72173ms  (392/957)
+## Started HBG632212_real_fasta_bs0 on [31:31] 
+End of HBG438550_real_fasta_bs9 after 86688ms  (393/957)
+## Started HBG632212_real_fasta_bs4 on [19:19] 
+End of HBG438550_real_fasta_bs4 after 75971ms  (394/957)
+## Started HBG632212_real_fasta_bs5 on [27:27] 
+End of HBG438550_real_fasta_bs7 after 82582ms  (395/957)
+## Started HBG632212_real_fasta_bs6 on [14:14] 
+End of HBG438550_real_fasta_bs2 after 76041ms  (396/957)
+## Started HBG632212_real_fasta_bs7 on [38:38] 
+End of HBG438550_real_fasta_bs3 after 76672ms  (397/957)
+## Started HBG632212_real_fasta_bs8 on [16:16] 
+End of HBG285623_real_fasta_bs4 after 64188ms  (398/957)
+## Started HBG632212_real_fasta_bs9 on [37:37] 
+End of HBG285623_real_fasta_bs6 after 75348ms  (399/957)
+## Started HBG286952_real_fasta_bs9 on [18:18] 
+End of HBG285623_real_fasta_bs8 after 77869ms  (400/957)
+## Started HBG286952_real_fasta_bs8 on [26:26] 
+End of HBG285623_real_fasta_bs5 after 79968ms  (401/957)
+## Started HBG286952_real_fasta_bs5 on [1:1] 
+Runner is still alive after 1440s
+End of HBG285623_real_fasta_bs9 after 78031ms  (402/957)
+## Started HBG286952_real_fasta_bs4 on [9:9] 
+End of HBG635132_real_fasta_bs0 after 98634ms  (403/957)
+## Started HBG286952_real_fasta_bs6 on [33:33] 
+End of HBG635132_real_fasta_bs1 after 100299ms  (404/957)
+## Started HBG286952_real_fasta_bs7 on [29:29] 
+End of HBG635132_real_fasta_bs5 after 102042ms  (405/957)
+## Started HBG286952_real_fasta_bs3 on [25:25] 
+End of HBG285623_real_fasta_bs7 after 80993ms  (406/957)
+## Started HBG286952_real_fasta_bs2 on [12:12] 
+End of HBG635132_real_fasta_bs8 after 100133ms  (407/957)
+## Started HBG286952_real_fasta_bs1 on [30:30] 
+End of HBG635132_real_fasta_bs9 after 106073ms  (408/957)
+## Started HBG286952_real_fasta_bs0 on [15:15] 
+End of HBG635132_real_fasta_bs7 after 106406ms  (409/957)
+## Started HBG616253_real_fasta_bs2 on [22:22] 
+End of HBG635132_real_fasta_bs4 after 101706ms  (410/957)
+## Started HBG616253_real_fasta_bs9 on [20:20] 
+End of HBG635132_real_fasta_bs6 after 112979ms  (411/957)
+## Started HBG616253_real_fasta_bs8 on [0:0] 
+End of HBG285623_real_fasta_bs0 after 86125ms  (412/957)
+## Started HBG616253_real_fasta_bs7 on [4:4] 
+End of HBG285623_real_fasta_bs3 after 80809ms  (413/957)
+## Started HBG616253_real_fasta_bs6 on [7:7] 
+End of HBG285623_real_fasta_bs2 after 79071ms  (414/957)
+## Started HBG616253_real_fasta_bs5 on [5:5] 
+End of HBG285623_real_fasta_bs1 after 83488ms  (415/957)
+## Started HBG616253_real_fasta_bs4 on [34:34] 
+End of HBG635132_real_fasta_bs3 after 111912ms  (416/957)
+## Started HBG616253_real_fasta_bs3 on [2:2] 
+End of HBG635132_real_fasta_bs2 after 116796ms  (417/957)
+## Started HBG616253_real_fasta_bs0 on [24:24] 
+End of HBG724395_real_fasta_bs0 after 96989ms  (418/957)
+## Started HBG616253_real_fasta_bs1 on [11:11] 
+End of HBG724395_real_fasta_bs9 after 96996ms  (419/957)
+## Started HBG634907_real_fasta_bs3 on [21:21] 
+End of HBG724395_real_fasta_bs8 after 98071ms  (420/957)
+## Started HBG634907_real_fasta_bs7 on [36:36] 
+End of HBG724395_real_fasta_bs2 after 89456ms  (421/957)
+## Started HBG634907_real_fasta_bs8 on [8:8] 
+End of HBG632212_real_fasta_bs3 after 80808ms  (422/957)
+## Started HBG634907_real_fasta_bs6 on [32:32] 
+End of HBG632212_real_fasta_bs5 after 77617ms  (423/957)
+## Started HBG634907_real_fasta_bs9 on [27:27] 
+End of HBG724395_real_fasta_bs3 after 98393ms  (424/957)
+## Started HBG634907_real_fasta_bs4 on [13:13] 
+End of HBG724395_real_fasta_bs7 after 107255ms  (425/957)
+## Started HBG634907_real_fasta_bs5 on [23:23] 
+End of HBG632212_real_fasta_bs6 after 84487ms  (426/957)
+## Started HBG634907_real_fasta_bs0 on [14:14] 
+End of HBG632212_real_fasta_bs4 after 85069ms  (427/957)
+## Started HBG634907_real_fasta_bs1 on [19:19] 
+End of HBG632212_real_fasta_bs2 after 87612ms  (428/957)
+## Started HBG634907_real_fasta_bs2 on [10:10] 
+End of HBG724395_real_fasta_bs5 after 104158ms  (429/957)
+## Started HBG299420_real_fasta_bs7 on [35:35] 
+End of HBG724395_real_fasta_bs1 after 95747ms  (430/957)
+## Started HBG299420_real_fasta_bs0 on [3:3] 
+End of HBG632212_real_fasta_bs0 after 88781ms  (431/957)
+## Started HBG299420_real_fasta_bs1 on [31:31] 
+End of HBG286952_real_fasta_bs9 after 66253ms  (432/957)
+## Started HBG299420_real_fasta_bs2 on [18:18] 
+Runner is still alive after 1500s
+End of HBG286952_real_fasta_bs4 after 60012ms  (433/957)
+## Started HBG299420_real_fasta_bs3 on [9:9] 
+End of HBG724395_real_fasta_bs6 after 110448ms  (434/957)
+## Started HBG299420_real_fasta_bs4 on [17:17] 
+End of HBG286952_real_fasta_bs5 after 65081ms  (435/957)
+## Started HBG299420_real_fasta_bs5 on [1:1] 
+End of HBG632212_real_fasta_bs8 after 91682ms  (436/957)
+## Started HBG299420_real_fasta_bs6 on [16:16] 
+End of HBG632212_real_fasta_bs7 after 93191ms  (437/957)
+## Started HBG299420_real_fasta_bs8 on [38:38] 
+End of HBG632212_real_fasta_bs9 after 75333ms  (438/957)
+## Started HBG299420_real_fasta_bs9 on [37:37] 
+End of HBG286952_real_fasta_bs8 after 69555ms  (439/957)
+## Started HBG634528_real_fasta_bs0 on [26:26] 
+End of HBG632212_real_fasta_bs1 after 97934ms  (440/957)
+## Started HBG634528_real_fasta_bs9 on [28:28] 
+End of HBG724395_real_fasta_bs4 after 100780ms  (441/957)
+## Started HBG634528_real_fasta_bs8 on [6:6] 
+End of HBG286952_real_fasta_bs6 after 68617ms  (442/957)
+## Started HBG634528_real_fasta_bs7 on [33:33] 
+End of HBG286952_real_fasta_bs3 after 68563ms  (443/957)
+## Started HBG634528_real_fasta_bs6 on [25:25] 
+End of HBG286952_real_fasta_bs2 after 70705ms  (444/957)
+## Started HBG634528_real_fasta_bs5 on [12:12] 
+End of HBG286952_real_fasta_bs7 after 72861ms  (445/957)
+## Started HBG634528_real_fasta_bs4 on [29:29] 
+End of HBG286952_real_fasta_bs1 after 69569ms  (446/957)
+## Started HBG634528_real_fasta_bs3 on [30:30] 
+End of HBG286952_real_fasta_bs0 after 66553ms  (447/957)
+## Started HBG634528_real_fasta_bs2 on [15:15] 
+End of HBG616253_real_fasta_bs8 after 74939ms  (448/957)
+## Started HBG634528_real_fasta_bs1 on [0:0] 
+End of HBG616253_real_fasta_bs6 after 76579ms  (449/957)
+## Started HBG565931_real_fasta_bs5 on [7:7] 
+End of HBG616253_real_fasta_bs7 after 79392ms  (450/957)
+## Started HBG565931_real_fasta_bs6 on [4:4] 
+End of HBG616253_real_fasta_bs2 after 82899ms  (451/957)
+## Started HBG565931_real_fasta_bs7 on [22:22] 
+End of HBG616253_real_fasta_bs5 after 79966ms  (452/957)
+## Started HBG565931_real_fasta_bs4 on [5:5] 
+End of HBG616253_real_fasta_bs9 after 85791ms  (453/957)
+## Started HBG565931_real_fasta_bs8 on [20:20] 
+End of HBG616253_real_fasta_bs4 after 82887ms  (454/957)
+## Started HBG565931_real_fasta_bs9 on [34:34] 
+End of HBG616253_real_fasta_bs0 after 84359ms  (455/957)
+## Started HBG565931_real_fasta_bs3 on [24:24] 
+End of HBG616253_real_fasta_bs3 after 86931ms  (456/957)
+## Started HBG565931_real_fasta_bs2 on [2:2] 
+End of HBG616253_real_fasta_bs1 after 77213ms  (457/957)
+## Started HBG565931_real_fasta_bs1 on [11:11] 
+Runner is still alive after 1560s
+End of HBG634907_real_fasta_bs9 after 73029ms  (458/957)
+## Started HBG565931_real_fasta_bs0 on [27:27] 
+End of HBG634907_real_fasta_bs3 after 79345ms  (459/957)
+## Started HBG284933_real_fasta_bs8 on [21:21] 
+End of HBG634907_real_fasta_bs4 after 71350ms  (460/957)
+## Started HBG284933_real_fasta_bs0 on [13:13] 
+End of HBG634528_real_fasta_bs9 after 56196ms  (461/957)
+## Started HBG284933_real_fasta_bs1 on [28:28] 
+End of HBG634528_real_fasta_bs8 after 56113ms  (462/957)
+## Started HBG284933_real_fasta_bs9 on [6:6] 
+End of HBG299420_real_fasta_bs7 after 66539ms  (463/957)
+## Started HBG284933_real_fasta_bs2 on [35:35] 
+End of HBG634907_real_fasta_bs6 after 77363ms  (464/957)
+## Started HBG284933_real_fasta_bs3 on [32:32] 
+End of HBG634907_real_fasta_bs7 after 82157ms  (465/957)
+## Started HBG284933_real_fasta_bs4 on [36:36] 
+End of HBG634907_real_fasta_bs1 after 70780ms  (466/957)
+## Started HBG284933_real_fasta_bs5 on [19:19] 
+End of HBG299420_real_fasta_bs1 after 68545ms  (467/957)
+## Started HBG284933_real_fasta_bs6 on [31:31] 
+End of HBG634528_real_fasta_bs0 after 62105ms  (468/957)
+## Started HBG284933_real_fasta_bs7 on [26:26] 
+End of HBG634907_real_fasta_bs5 after 74775ms  (469/957)
+## Started HBG695666_real_fasta_bs9 on [23:23] 
+End of HBG299420_real_fasta_bs3 after 68771ms  (470/957)
+## Started HBG695666_real_fasta_bs5 on [9:9] 
+End of HBG634907_real_fasta_bs2 after 73423ms  (471/957)
+## Started HBG695666_real_fasta_bs4 on [10:10] 
+End of HBG634528_real_fasta_bs7 after 61120ms  (472/957)
+## Started HBG695666_real_fasta_bs8 on [33:33] 
+End of HBG634907_real_fasta_bs8 after 85653ms  (473/957)
+## Started HBG695666_real_fasta_bs7 on [8:8] 
+End of HBG634528_real_fasta_bs6 after 60889ms  (474/957)
+## Started HBG695666_real_fasta_bs3 on [25:25] 
+End of HBG299420_real_fasta_bs5 after 71698ms  (475/957)
+## Started HBG695666_real_fasta_bs6 on [1:1] 
+End of HBG634907_real_fasta_bs0 after 78502ms  (476/957)
+## Started HBG695666_real_fasta_bs2 on [14:14] 
+End of HBG634528_real_fasta_bs5 after 58914ms  (477/957)
+## Started HBG695666_real_fasta_bs1 on [12:12] 
+End of HBG634528_real_fasta_bs4 after 58873ms  (478/957)
+## Started HBG695666_real_fasta_bs0 on [29:29] 
+End of HBG299420_real_fasta_bs2 after 76397ms  (479/957)
+## Started HBG664087_real_fasta_bs9 on [18:18] 
+End of HBG299420_real_fasta_bs0 after 78126ms  (480/957)
+## Started HBG664087_real_fasta_bs0 on [3:3] 
+End of HBG299420_real_fasta_bs4 after 76743ms  (481/957)
+## Started HBG664087_real_fasta_bs1 on [17:17] 
+End of HBG634528_real_fasta_bs2 after 57852ms  (482/957)
+## Started HBG664087_real_fasta_bs2 on [15:15] 
+End of HBG299420_real_fasta_bs9 after 73906ms  (483/957)
+## Started HBG664087_real_fasta_bs4 on [37:37] 
+End of HBG299420_real_fasta_bs6 after 78531ms  (484/957)
+## Started HBG664087_real_fasta_bs3 on [16:16] 
+End of HBG299420_real_fasta_bs8 after 78652ms  (485/957)
+## Started HBG664087_real_fasta_bs5 on [38:38] 
+End of HBG634528_real_fasta_bs3 after 64761ms  (486/957)
+## Started HBG664087_real_fasta_bs8 on [30:30] 
+End of HBG634528_real_fasta_bs1 after 58666ms  (487/957)
+## Started HBG664087_real_fasta_bs6 on [0:0] 
+End of HBG565931_real_fasta_bs5 after 79792ms  (488/957)
+## Started HBG664087_real_fasta_bs7 on [7:7] 
+End of HBG565931_real_fasta_bs6 after 78653ms  (489/957)
+## Started HBG286432_real_fasta_bs7 on [4:4] 
+Runner is still alive after 1620s
+End of HBG565931_real_fasta_bs9 after 77745ms  (490/957)
+## Started HBG286432_real_fasta_bs8 on [34:34] 
+End of HBG565931_real_fasta_bs7 after 83337ms  (491/957)
+## Started HBG286432_real_fasta_bs2 on [22:22] 
+End of HBG565931_real_fasta_bs8 after 83778ms  (492/957)
+## Started HBG286432_real_fasta_bs0 on [20:20] 
+End of HBG565931_real_fasta_bs4 after 86304ms  (493/957)
+## Started HBG286432_real_fasta_bs9 on [5:5] 
+End of HBG565931_real_fasta_bs2 after 77326ms  (494/957)
+## Started HBG286432_real_fasta_bs3 on [2:2] 
+End of HBG284933_real_fasta_bs8 after 70224ms  (495/957)
+## Started HBG286432_real_fasta_bs4 on [21:21] 
+End of HBG565931_real_fasta_bs3 after 81780ms  (496/957)
+## Started HBG286432_real_fasta_bs5 on [24:24] 
+End of HBG284933_real_fasta_bs1 after 74618ms  (497/957)
+## Started HBG286432_real_fasta_bs1 on [28:28] 
+End of HBG284933_real_fasta_bs4 after 74312ms  (498/957)
+## Started HBG286432_real_fasta_bs6 on [36:36] 
+End of HBG695666_real_fasta_bs5 after 72628ms  (499/957)
+## Started HBG709130_real_fasta_bs7 on [9:9] 
+End of HBG284933_real_fasta_bs2 after 78102ms  (500/957)
+## Started HBG709130_real_fasta_bs8 on [35:35] 
+End of HBG284933_real_fasta_bs0 after 79281ms  (501/957)
+## Started HBG709130_real_fasta_bs9 on [13:13] 
+End of HBG284933_real_fasta_bs5 after 75228ms  (502/957)
+## Started HBG709130_real_fasta_bs6 on [19:19] 
+End of HBG565931_real_fasta_bs1 after 83799ms  (503/957)
+## Started HBG709130_real_fasta_bs0 on [11:11] 
+End of HBG284933_real_fasta_bs9 after 79690ms  (504/957)
+## Started HBG709130_real_fasta_bs5 on [6:6] 
+End of HBG284933_real_fasta_bs6 after 75908ms  (505/957)
+## Started HBG709130_real_fasta_bs1 on [31:31] 
+End of HBG284933_real_fasta_bs3 after 78684ms  (506/957)
+## Started HBG709130_real_fasta_bs2 on [32:32] 
+End of HBG565931_real_fasta_bs0 after 82643ms  (507/957)
+## Started HBG709130_real_fasta_bs3 on [27:27] 
+End of HBG695666_real_fasta_bs9 after 78865ms  (508/957)
+## Started HBG709130_real_fasta_bs4 on [23:23] 
+End of HBG284933_real_fasta_bs7 after 80073ms  (509/957)
+## Started HBG737336_real_fasta_bs5 on [26:26] 
+End of HBG695666_real_fasta_bs2 after 77332ms  (510/957)
+## Started HBG737336_real_fasta_bs4 on [14:14] 
+End of HBG695666_real_fasta_bs6 after 77900ms  (511/957)
+## Started HBG737336_real_fasta_bs3 on [1:1] 
+End of HBG695666_real_fasta_bs8 after 82162ms  (512/957)
+## Started HBG737336_real_fasta_bs2 on [33:33] 
+End of HBG695666_real_fasta_bs1 after 81093ms  (513/957)
+## Started HBG737336_real_fasta_bs1 on [12:12] 
+End of HBG695666_real_fasta_bs4 after 87309ms  (514/957)
+## Started HBG737336_real_fasta_bs0 on [10:10] 
+End of HBG695666_real_fasta_bs3 after 84907ms  (515/957)
+## Started HBG737336_real_fasta_bs7 on [25:25] 
+End of HBG695666_real_fasta_bs7 after 86876ms  (516/957)
+## Started HBG737336_real_fasta_bs6 on [8:8] 
+End of HBG695666_real_fasta_bs0 after 86258ms  (517/957)
+## Started HBG737336_real_fasta_bs9 on [29:29] 
+End of HBG664087_real_fasta_bs2 after 90946ms  (518/957)
+## Started HBG737336_real_fasta_bs8 on [15:15] 
+End of HBG664087_real_fasta_bs1 after 92560ms  (519/957)
+## Started HBG580260_real_fasta_bs5 on [17:17] 
+End of HBG664087_real_fasta_bs0 after 94382ms  (520/957)
+## Started HBG580260_real_fasta_bs0 on [3:3] 
+End of HBG664087_real_fasta_bs9 after 95936ms  (521/957)
+## Started HBG580260_real_fasta_bs1 on [18:18] 
+End of HBG664087_real_fasta_bs3 after 94260ms  (522/957)
+## Started HBG580260_real_fasta_bs2 on [16:16] 
+End of HBG664087_real_fasta_bs4 after 97541ms  (523/957)
+## Started HBG580260_real_fasta_bs3 on [37:37] 
+Runner is still alive after 1680s
+End of HBG709130_real_fasta_bs0 after 39427ms  (524/957)
+## Started HBG580260_real_fasta_bs4 on [11:11] 
+End of HBG664087_real_fasta_bs8 after 98306ms  (525/957)
+## Started HBG580260_real_fasta_bs6 on [30:30] 
+End of HBG709130_real_fasta_bs9 after 40881ms  (526/957)
+## Started HBG580260_real_fasta_bs7 on [13:13] 
+End of HBG709130_real_fasta_bs5 after 40859ms  (527/957)
+## Started HBG580260_real_fasta_bs8 on [6:6] 
+End of HBG709130_real_fasta_bs1 after 40849ms  (528/957)
+## Started HBG580260_real_fasta_bs9 on [31:31] 
+End of HBG709130_real_fasta_bs7 after 43870ms  (529/957)
+## Started HBG581236_real_fasta_bs9 on [9:9] 
+End of HBG709130_real_fasta_bs8 after 43709ms  (530/957)
+## Started HBG359242_real_fasta_bs6 on [35:35] 
+End of HBG709130_real_fasta_bs6 after 43355ms  (531/957)
+## Started HBG581236_real_fasta_bs3 on [19:19] 
+End of HBG709130_real_fasta_bs4 after 39267ms  (532/957)
+## Started HBG581236_real_fasta_bs2 on [23:23] 
+End of HBG664087_real_fasta_bs5 after 103980ms  (533/957)
+## Started HBG581236_real_fasta_bs1 on [38:38] 
+End of HBG709130_real_fasta_bs2 after 44395ms  (534/957)
+## Started HBG581236_real_fasta_bs0 on [32:32] 
+End of HBG286432_real_fasta_bs8 after 66948ms  (535/957)
+## Started HBG359242_real_fasta_bs0 on [34:34] 
+End of HBG709130_real_fasta_bs3 after 45956ms  (536/957)
+## Started HBG359242_real_fasta_bs1 on [27:27] 
+End of HBG286432_real_fasta_bs9 after 64681ms  (537/957)
+## Started HBG359242_real_fasta_bs2 on [5:5] 
+End of HBG286432_real_fasta_bs2 after 70563ms  (538/957)
+## Started HBG359242_real_fasta_bs3 on [22:22] 
+End of HBG664087_real_fasta_bs6 after 102248ms  (539/957)
+## Started HBG359242_real_fasta_bs4 on [0:0] 
+End of HBG286432_real_fasta_bs7 after 76001ms  (540/957)
+## Started HBG359242_real_fasta_bs5 on [4:4] 
+End of HBG286432_real_fasta_bs0 after 67289ms  (541/957)
+## Started HBG359242_real_fasta_bs7 on [20:20] 
+End of HBG664087_real_fasta_bs7 after 84377ms  (542/957)
+## Started HBG359242_real_fasta_bs8 on [7:7] 
+End of HBG286432_real_fasta_bs1 after 66531ms  (543/957)
+## Started HBG359242_real_fasta_bs9 on [28:28] 
+End of HBG286432_real_fasta_bs3 after 74852ms  (544/957)
+## Started HBG581236_real_fasta_bs8 on [2:2] 
+End of HBG286432_real_fasta_bs5 after 71542ms  (545/957)
+## Started HBG581236_real_fasta_bs7 on [24:24] 
+End of HBG286432_real_fasta_bs4 after 74640ms  (546/957)
+## Started HBG581236_real_fasta_bs6 on [21:21] 
+End of HBG286432_real_fasta_bs6 after 80363ms  (547/957)
+## Started HBG581236_real_fasta_bs5 on [36:36] 
+End of HBG737336_real_fasta_bs5 after 81876ms  (548/957)
+## Started HBG581236_real_fasta_bs4 on [26:26] 
+End of HBG737336_real_fasta_bs3 after 84135ms  (549/957)
+## Started HBG754477_real_fasta_bs8 on [1:1] 
+End of HBG737336_real_fasta_bs4 after 86301ms  (550/957)
+## Started HBG754477_real_fasta_bs0 on [14:14] 
+End of HBG737336_real_fasta_bs2 after 85474ms  (551/957)
+## Started HBG754477_real_fasta_bs9 on [33:33] 
+End of HBG580260_real_fasta_bs5 after 69041ms  (552/957)
+## Started HBG754477_real_fasta_bs7 on [17:17] 
+End of HBG580260_real_fasta_bs0 after 69029ms  (553/957)
+## Started HBG754477_real_fasta_bs1 on [3:3] 
+Runner is still alive after 1740s
+End of HBG737336_real_fasta_bs7 after 82681ms  (554/957)
+## Started HBG754477_real_fasta_bs2 on [25:25] 
+End of HBG580260_real_fasta_bs1 after 71624ms  (555/957)
+## Started HBG754477_real_fasta_bs6 on [18:18] 
+End of HBG737336_real_fasta_bs1 after 88871ms  (556/957)
+## Started HBG754477_real_fasta_bs5 on [12:12] 
+End of HBG580260_real_fasta_bs3 after 67404ms  (557/957)
+## Started HBG754477_real_fasta_bs4 on [37:37] 
+End of HBG737336_real_fasta_bs0 after 88169ms  (558/957)
+## Started HBG754477_real_fasta_bs3 on [10:10] 
+End of HBG580260_real_fasta_bs2 after 68495ms  (559/957)
+## Started HBG285275_real_fasta_bs6 on [16:16] 
+End of HBG737336_real_fasta_bs6 after 89290ms  (560/957)
+## Started HBG285275_real_fasta_bs7 on [8:8] 
+End of HBG580260_real_fasta_bs4 after 65269ms  (561/957)
+## Started HBG285275_real_fasta_bs8 on [11:11] 
+End of HBG737336_real_fasta_bs9 after 90809ms  (562/957)
+## Started HBG285275_real_fasta_bs9 on [29:29] 
+End of HBG580260_real_fasta_bs9 after 70360ms  (563/957)
+## Started HBG285275_real_fasta_bs0 on [31:31] 
+End of HBG580260_real_fasta_bs8 after 71599ms  (564/957)
+## Started HBG285275_real_fasta_bs1 on [6:6] 
+End of HBG580260_real_fasta_bs7 after 72739ms  (565/957)
+## Started HBG285275_real_fasta_bs2 on [13:13] 
+End of HBG580260_real_fasta_bs6 after 73276ms  (566/957)
+## Started HBG285275_real_fasta_bs3 on [30:30] 
+End of HBG737336_real_fasta_bs8 after 87182ms  (567/957)
+## Started HBG285275_real_fasta_bs4 on [15:15] 
+End of HBG581236_real_fasta_bs2 after 77717ms  (568/957)
+## Started HBG285275_real_fasta_bs5 on [23:23] 
+End of HBG581236_real_fasta_bs1 after 79721ms  (569/957)
+## Started HBG284654_real_fasta_bs3 on [38:38] 
+End of HBG581236_real_fasta_bs3 after 83342ms  (570/957)
+## Started HBG284654_real_fasta_bs4 on [19:19] 
+End of HBG581236_real_fasta_bs9 after 84325ms  (571/957)
+## Started HBG284654_real_fasta_bs5 on [9:9] 
+End of HBG359242_real_fasta_bs1 after 79981ms  (572/957)
+## Started HBG284654_real_fasta_bs6 on [27:27] 
+End of HBG359242_real_fasta_bs6 after 86037ms  (573/957)
+## Started HBG284654_real_fasta_bs7 on [35:35] 
+End of HBG359242_real_fasta_bs0 after 84546ms  (574/957)
+## Started HBG284654_real_fasta_bs8 on [34:34] 
+End of HBG581236_real_fasta_bs0 after 86696ms  (575/957)
+## Started HBG284654_real_fasta_bs9 on [32:32] 
+End of HBG359242_real_fasta_bs5 after 82777ms  (576/957)
+## Started HBG284654_real_fasta_bs2 on [4:4] 
+End of HBG359242_real_fasta_bs4 after 84537ms  (577/957)
+## Started HBG284654_real_fasta_bs1 on [0:0] 
+End of HBG359242_real_fasta_bs2 after 88790ms  (578/957)
+## Started HBG284654_real_fasta_bs0 on [5:5] 
+End of HBG359242_real_fasta_bs3 after 87446ms  (579/957)
+## Started HBG439123_real_fasta_bs9 on [22:22] 
+End of HBG359242_real_fasta_bs8 after 80724ms  (580/957)
+## Started HBG439123_real_fasta_bs8 on [7:7] 
+End of HBG581236_real_fasta_bs8 after 84134ms  (581/957)
+## Started HBG439123_real_fasta_bs7 on [2:2] 
+End of HBG581236_real_fasta_bs6 after 82956ms  (582/957)
+## Started HBG439123_real_fasta_bs6 on [21:21] 
+End of HBG359242_real_fasta_bs7 after 96095ms  (583/957)
+## Started HBG439123_real_fasta_bs5 on [20:20] 
+End of HBG581236_real_fasta_bs7 after 85717ms  (584/957)
+## Started HBG439123_real_fasta_bs4 on [24:24] 
+End of HBG359242_real_fasta_bs9 after 89711ms  (585/957)
+## Started HBG439123_real_fasta_bs3 on [28:28] 
+Runner is still alive after 1800s
+End of HBG581236_real_fasta_bs4 after 80432ms  (586/957)
+## Started HBG439123_real_fasta_bs2 on [26:26] 
+End of HBG581236_real_fasta_bs5 after 90752ms  (587/957)
+## Started HBG439123_real_fasta_bs1 on [36:36] 
+End of HBG754477_real_fasta_bs8 after 83700ms  (588/957)
+## Started HBG439123_real_fasta_bs0 on [1:1] 
+End of HBG754477_real_fasta_bs1 after 81252ms  (589/957)
+## Started HBG553036_real_fasta_bs1 on [3:3] 
+End of HBG285275_real_fasta_bs8 after 73795ms  (590/957)
+## Started HBG553036_real_fasta_bs9 on [11:11] 
+End of HBG285275_real_fasta_bs6 after 76312ms  (591/957)
+## Started HBG553036_real_fasta_bs8 on [16:16] 
+End of HBG285275_real_fasta_bs7 after 75843ms  (592/957)
+## Started HBG553036_real_fasta_bs7 on [8:8] 
+End of HBG439123_real_fasta_bs8 after 40971ms  (593/957)
+## Started HBG553036_real_fasta_bs6 on [7:7] 
+End of HBG754477_real_fasta_bs9 after 87060ms  (594/957)
+## Started HBG553036_real_fasta_bs5 on [33:33] 
+End of HBG439123_real_fasta_bs9 after 45407ms  (595/957)
+## Started HBG553036_real_fasta_bs4 on [22:22] 
+End of HBG284654_real_fasta_bs5 after 57539ms  (596/957)
+## Started HBG553036_real_fasta_bs3 on [9:9] 
+End of HBG285275_real_fasta_bs9 after 75492ms  (597/957)
+## Started HBG553036_real_fasta_bs0 on [29:29] 
+End of HBG285275_real_fasta_bs2 after 71945ms  (598/957)
+## Started HBG553036_real_fasta_bs2 on [13:13] 
+End of HBG754477_real_fasta_bs0 after 89660ms  (599/957)
+## Started HBG709628_real_fasta_bs9 on [14:14] 
+End of HBG754477_real_fasta_bs2 after 88066ms  (600/957)
+## Started HBG709628_real_fasta_bs8 on [25:25] 
+End of HBG284654_real_fasta_bs3 after 61040ms  (601/957)
+## Started HBG709628_real_fasta_bs7 on [38:38] 
+End of HBG284654_real_fasta_bs4 after 60536ms  (602/957)
+## Started HBG709628_real_fasta_bs6 on [19:19] 
+End of HBG284654_real_fasta_bs6 after 58965ms  (603/957)
+## Started HBG709628_real_fasta_bs5 on [27:27] 
+End of HBG285275_real_fasta_bs1 after 74463ms  (604/957)
+## Started HBG709628_real_fasta_bs4 on [6:6] 
+End of HBG284654_real_fasta_bs7 after 58950ms  (605/957)
+## Started HBG709628_real_fasta_bs3 on [35:35] 
+End of HBG754477_real_fasta_bs4 after 86238ms  (606/957)
+## Started HBG709628_real_fasta_bs0 on [37:37] 
+End of HBG439123_real_fasta_bs5 after 41565ms  (607/957)
+## Started HBG709628_real_fasta_bs1 on [20:20] 
+End of HBG284654_real_fasta_bs2 after 55513ms  (608/957)
+## Started HBG709628_real_fasta_bs2 on [4:4] 
+End of HBG284654_real_fasta_bs9 after 57409ms  (609/957)
+## Started HBG581077_real_fasta_bs3 on [32:32] 
+End of HBG439123_real_fasta_bs6 after 42568ms  (610/957)
+## Started HBG581077_real_fasta_bs0 on [21:21] 
+End of HBG284654_real_fasta_bs8 after 59429ms  (611/957)
+## Started HBG581077_real_fasta_bs1 on [34:34] 
+End of HBG754477_real_fasta_bs7 after 94050ms  (612/957)
+## Started HBG581077_real_fasta_bs2 on [17:17] 
+End of HBG285275_real_fasta_bs0 after 78429ms  (613/957)
+## Started HBG581077_real_fasta_bs4 on [31:31] 
+End of HBG285275_real_fasta_bs4 after 77246ms  (614/957)
+## Started HBG581077_real_fasta_bs5 on [15:15] 
+End of HBG754477_real_fasta_bs5 after 90060ms  (615/957)
+## Started HBG581077_real_fasta_bs6 on [12:12] 
+End of HBG754477_real_fasta_bs6 after 91558ms  (616/957)
+## Started HBG581077_real_fasta_bs7 on [18:18] 
+End of HBG285275_real_fasta_bs3 after 79428ms  (617/957)
+## Started HBG581077_real_fasta_bs8 on [30:30] 
+End of HBG439123_real_fasta_bs7 after 47080ms  (618/957)
+## Started HBG581077_real_fasta_bs9 on [2:2] 
+End of HBG439123_real_fasta_bs3 after 42872ms  (619/957)
+## Started HBG312159_real_fasta_bs8 on [28:28] 
+End of HBG439123_real_fasta_bs4 after 46326ms  (620/957)
+## Started HBG312159_real_fasta_bs0 on [24:24] 
+End of HBG284654_real_fasta_bs1 after 60520ms  (621/957)
+## Started HBG312159_real_fasta_bs1 on [0:0] 
+End of HBG754477_real_fasta_bs3 after 94281ms  (622/957)
+## Started HBG312159_real_fasta_bs2 on [10:10] 
+End of HBG284654_real_fasta_bs0 after 59773ms  (623/957)
+## Started HBG312159_real_fasta_bs3 on [5:5] 
+End of HBG285275_real_fasta_bs5 after 78668ms  (624/957)
+## Started HBG312159_real_fasta_bs4 on [23:23] 
+End of HBG439123_real_fasta_bs2 after 42167ms  (625/957)
+## Started HBG312159_real_fasta_bs5 on [26:26] 
+End of HBG439123_real_fasta_bs1 after 46274ms  (626/957)
+## Started HBG312159_real_fasta_bs6 on [36:36] 
+Runner is still alive after 1860s
+End of HBG439123_real_fasta_bs0 after 40863ms  (627/957)
+## Started HBG312159_real_fasta_bs7 on [1:1] 
+End of HBG553036_real_fasta_bs8 after 51991ms  (628/957)
+## Started HBG312159_real_fasta_bs9 on [16:16] 
+End of HBG553036_real_fasta_bs9 after 52732ms  (629/957)
+## Started HBG285332_real_fasta_bs4 on [11:11] 
+End of HBG709628_real_fasta_bs5 after 45104ms  (630/957)
+## Started HBG294776_real_fasta_bs9 on [27:27] 
+End of HBG553036_real_fasta_bs7 after 52655ms  (631/957)
+## Started HBG285332_real_fasta_bs0 on [8:8] 
+End of HBG709628_real_fasta_bs6 after 46091ms  (632/957)
+## Started HBG285332_real_fasta_bs1 on [19:19] 
+End of HBG553036_real_fasta_bs6 after 52456ms  (633/957)
+## Started HBG285332_real_fasta_bs2 on [7:7] 
+End of HBG709628_real_fasta_bs1 after 44736ms  (634/957)
+## Started HBG285332_real_fasta_bs3 on [20:20] 
+End of HBG709628_real_fasta_bs7 after 48564ms  (635/957)
+## Started HBG285332_real_fasta_bs5 on [38:38] 
+End of HBG553036_real_fasta_bs0 after 50264ms  (636/957)
+## Started HBG285332_real_fasta_bs6 on [29:29] 
+End of HBG553036_real_fasta_bs1 after 56997ms  (637/957)
+## Started HBG285332_real_fasta_bs7 on [3:3] 
+End of HBG709628_real_fasta_bs4 after 48344ms  (638/957)
+## Started HBG285332_real_fasta_bs8 on [6:6] 
+End of HBG709628_real_fasta_bs2 after 45796ms  (639/957)
+## Started HBG285332_real_fasta_bs9 on [4:4] 
+End of HBG709628_real_fasta_bs0 after 46645ms  (640/957)
+## Started HBG294776_real_fasta_bs8 on [37:37] 
+End of HBG553036_real_fasta_bs2 after 50655ms  (641/957)
+## Started HBG294776_real_fasta_bs7 on [13:13] 
+End of HBG553036_real_fasta_bs5 after 53470ms  (642/957)
+## Started HBG294776_real_fasta_bs6 on [33:33] 
+End of HBG709628_real_fasta_bs9 after 51060ms  (643/957)
+## Started HBG294776_real_fasta_bs5 on [14:14] 
+End of HBG553036_real_fasta_bs3 after 51905ms  (644/957)
+## Started HBG294776_real_fasta_bs4 on [9:9] 
+End of HBG581077_real_fasta_bs5 after 46552ms  (645/957)
+## Started HBG294776_real_fasta_bs3 on [15:15] 
+End of HBG709628_real_fasta_bs8 after 52872ms  (646/957)
+## Started HBG294776_real_fasta_bs2 on [25:25] 
+End of HBG581077_real_fasta_bs6 after 46380ms  (647/957)
+## Started HBG294776_real_fasta_bs1 on [12:12] 
+End of HBG581077_real_fasta_bs4 after 48707ms  (648/957)
+## Started HBG294776_real_fasta_bs0 on [31:31] 
+End of HBG709628_real_fasta_bs3 after 52203ms  (649/957)
+## Started HBG284947_real_fasta_bs8 on [35:35] 
+End of HBG581077_real_fasta_bs1 after 49923ms  (650/957)
+## Started HBG284947_real_fasta_bs7 on [34:34] 
+End of HBG581077_real_fasta_bs0 after 50665ms  (651/957)
+## Started HBG284947_real_fasta_bs4 on [21:21] 
+End of HBG581077_real_fasta_bs2 after 50376ms  (652/957)
+## Started HBG284947_real_fasta_bs0 on [17:17] 
+End of HBG553036_real_fasta_bs4 after 57164ms  (653/957)
+## Started HBG284947_real_fasta_bs1 on [22:22] 
+End of HBG581077_real_fasta_bs9 after 48391ms  (654/957)
+## Started HBG284947_real_fasta_bs2 on [2:2] 
+End of HBG581077_real_fasta_bs3 after 53603ms  (655/957)
+## Started HBG284947_real_fasta_bs3 on [32:32] 
+End of HBG581077_real_fasta_bs8 after 50891ms  (656/957)
+## Started HBG284947_real_fasta_bs9 on [30:30] 
+End of HBG312159_real_fasta_bs1 after 50129ms  (657/957)
+## Started HBG284947_real_fasta_bs6 on [0:0] 
+End of HBG581077_real_fasta_bs7 after 55001ms  (658/957)
+## Started HBG284947_real_fasta_bs5 on [18:18] 
+End of HBG312159_real_fasta_bs3 after 52725ms  (659/957)
+## Started HBG679885_real_fasta_bs2 on [5:5] 
+End of HBG312159_real_fasta_bs0 after 56380ms  (660/957)
+## Started HBG679885_real_fasta_bs3 on [24:24] 
+End of HBG312159_real_fasta_bs2 after 55473ms  (661/957)
+## Started HBG670536_real_fasta_bs8 on [10:10] 
+End of HBG312159_real_fasta_bs8 after 58932ms  (662/957)
+## Started HBG679885_real_fasta_bs4 on [28:28] 
+End of HBG312159_real_fasta_bs4 after 53419ms  (663/957)
+## Started HBG679885_real_fasta_bs1 on [23:23] 
+End of HBG312159_real_fasta_bs7 after 49127ms  (664/957)
+## Started HBG679885_real_fasta_bs0 on [1:1] 
+End of HBG312159_real_fasta_bs5 after 57422ms  (665/957)
+## Started HBG670536_real_fasta_bs7 on [26:26] 
+End of HBG294776_real_fasta_bs9 after 38925ms  (666/957)
+## Started HBG679885_real_fasta_bs5 on [27:27] 
+End of HBG312159_real_fasta_bs6 after 56251ms  (667/957)
+## Started HBG679885_real_fasta_bs6 on [36:36] 
+End of HBG294776_real_fasta_bs8 after 37987ms  (668/957)
+## Started HBG679885_real_fasta_bs7 on [37:37] 
+End of HBG294776_real_fasta_bs4 after 37714ms  (669/957)
+## Started HBG679885_real_fasta_bs8 on [9:9] 
+End of HBG294776_real_fasta_bs5 after 38831ms  (670/957)
+## Started HBG679885_real_fasta_bs9 on [14:14] 
+End of HBG294776_real_fasta_bs6 after 39211ms  (671/957)
+## Started HBG670536_real_fasta_bs9 on [33:33] 
+End of HBG285332_real_fasta_bs1 after 42356ms  (672/957)
+## Started HBG670536_real_fasta_bs6 on [19:19] 
+End of HBG294776_real_fasta_bs7 after 39987ms  (673/957)
+## Started HBG670536_real_fasta_bs5 on [13:13] 
+End of HBG294776_real_fasta_bs2 after 37493ms  (674/957)
+## Started HBG670536_real_fasta_bs4 on [25:25] 
+Runner is still alive after 1920s
+End of HBG294776_real_fasta_bs0 after 38941ms  (675/957)
+## Started HBG670536_real_fasta_bs3 on [31:31] 
+End of HBG294776_real_fasta_bs3 after 40976ms  (676/957)
+## Started HBG670536_real_fasta_bs2 on [15:15] 
+End of HBG285332_real_fasta_bs4 after 47413ms  (677/957)
+## Started HBG670536_real_fasta_bs1 on [11:11] 
+End of HBG285332_real_fasta_bs9 after 43713ms  (678/957)
+## Started HBG670536_real_fasta_bs0 on [4:4] 
+End of HBG294776_real_fasta_bs1 after 41924ms  (679/957)
+## Started HBG418382_real_fasta_bs3 on [12:12] 
+End of HBG285332_real_fasta_bs8 after 45399ms  (680/957)
+## Started HBG418382_real_fasta_bs9 on [6:6] 
+End of HBG285332_real_fasta_bs5 after 46893ms  (681/957)
+## Started HBG418382_real_fasta_bs8 on [38:38] 
+End of HBG285332_real_fasta_bs6 after 46272ms  (682/957)
+## Started HBG418382_real_fasta_bs7 on [29:29] 
+End of HBG285332_real_fasta_bs0 after 48495ms  (683/957)
+## Started HBG418382_real_fasta_bs6 on [8:8] 
+End of HBG285332_real_fasta_bs3 after 49032ms  (684/957)
+## Started HBG418382_real_fasta_bs5 on [20:20] 
+End of HBG285332_real_fasta_bs2 after 49630ms  (685/957)
+## Started HBG418382_real_fasta_bs4 on [7:7] 
+End of HBG312159_real_fasta_bs9 after 52676ms  (686/957)
+## Started HBG418382_real_fasta_bs2 on [16:16] 
+End of HBG285332_real_fasta_bs7 after 49212ms  (687/957)
+## Started HBG418382_real_fasta_bs1 on [3:3] 
+End of HBG679885_real_fasta_bs3 after 46021ms  (688/957)
+## Started HBG418382_real_fasta_bs0 on [24:24] 
+End of HBG284947_real_fasta_bs8 after 58790ms  (689/957)
+## Started HBG439319_real_fasta_bs0 on [35:35] 
+End of HBG284947_real_fasta_bs0 after 57996ms  (690/957)
+## Started HBG439319_real_fasta_bs9 on [17:17] 
+End of HBG284947_real_fasta_bs1 after 59595ms  (691/957)
+## Started HBG439319_real_fasta_bs8 on [22:22] 
+End of HBG679885_real_fasta_bs2 after 49950ms  (692/957)
+## Started HBG439319_real_fasta_bs7 on [5:5] 
+End of HBG284947_real_fasta_bs2 after 60047ms  (693/957)
+## Started HBG439319_real_fasta_bs6 on [2:2] 
+End of HBG284947_real_fasta_bs7 after 62133ms  (694/957)
+## Started HBG439319_real_fasta_bs5 on [34:34] 
+End of HBG284947_real_fasta_bs3 after 59327ms  (695/957)
+## Started HBG439319_real_fasta_bs4 on [32:32] 
+End of HBG679885_real_fasta_bs4 after 50649ms  (696/957)
+## Started HBG439319_real_fasta_bs3 on [28:28] 
+End of HBG284947_real_fasta_bs4 after 63451ms  (697/957)
+## Started HBG439319_real_fasta_bs2 on [21:21] 
+End of HBG679885_real_fasta_bs1 after 50771ms  (698/957)
+## Started HBG439319_real_fasta_bs1 on [23:23] 
+End of HBG284947_real_fasta_bs9 after 63772ms  (699/957)
+## Started HBG635225_real_fasta_bs9 on [30:30] 
+End of HBG284947_real_fasta_bs6 after 61246ms  (700/957)
+## Started HBG635225_real_fasta_bs8 on [0:0] 
+End of HBG679885_real_fasta_bs0 after 46564ms  (701/957)
+## Started HBG635225_real_fasta_bs7 on [1:1] 
+End of HBG670536_real_fasta_bs8 after 62382ms  (702/957)
+## Started HBG635225_real_fasta_bs6 on [10:10] 
+End of HBG679885_real_fasta_bs6 after 43501ms  (703/957)
+## Started HBG635225_real_fasta_bs5 on [36:36] 
+End of HBG284947_real_fasta_bs5 after 67934ms  (704/957)
+## Started HBG635225_real_fasta_bs4 on [18:18] 
+End of HBG679885_real_fasta_bs8 after 47225ms  (705/957)
+## Started HBG635225_real_fasta_bs3 on [9:9] 
+End of HBG679885_real_fasta_bs7 after 48047ms  (706/957)
+## Started HBG635225_real_fasta_bs2 on [37:37] 
+End of HBG679885_real_fasta_bs9 after 46777ms  (707/957)
+## Started HBG635225_real_fasta_bs0 on [14:14] 
+End of HBG679885_real_fasta_bs5 after 52658ms  (708/957)
+## Started HBG635225_real_fasta_bs1 on [27:27] 
+End of HBG670536_real_fasta_bs7 after 60683ms  (709/957)
+## Started HBG286554_real_fasta_bs5 on [26:26] 
+End of HBG670536_real_fasta_bs1 after 53760ms  (710/957)
+## Started HBG286554_real_fasta_bs4 on [11:11] 
+End of HBG670536_real_fasta_bs9 after 58957ms  (711/957)
+## Started HBG286554_real_fasta_bs3 on [33:33] 
+End of HBG670536_real_fasta_bs5 after 60214ms  (712/957)
+## Started HBG286554_real_fasta_bs2 on [13:13] 
+End of HBG670536_real_fasta_bs6 after 61004ms  (713/957)
+## Started HBG286554_real_fasta_bs1 on [19:19] 
+End of HBG670536_real_fasta_bs2 after 58158ms  (714/957)
+## Started HBG286554_real_fasta_bs0 on [15:15] 
+End of HBG418382_real_fasta_bs9 after 56293ms  (715/957)
+## Started HBG286554_real_fasta_bs6 on [6:6] 
+Runner is still alive after 1980s
+End of HBG418382_real_fasta_bs8 after 56233ms  (716/957)
+## Started HBG286554_real_fasta_bs7 on [38:38] 
+End of HBG670536_real_fasta_bs4 after 61784ms  (717/957)
+## Started HBG286554_real_fasta_bs8 on [25:25] 
+End of HBG418382_real_fasta_bs7 after 56925ms  (718/957)
+## Started HBG286554_real_fasta_bs9 on [29:29] 
+End of HBG670536_real_fasta_bs3 after 60494ms  (719/957)
+## Started HBG392742_real_fasta_bs7 on [31:31] 
+End of HBG418382_real_fasta_bs1 after 54986ms  (720/957)
+## Started HBG392742_real_fasta_bs0 on [3:3] 
+End of HBG418382_real_fasta_bs4 after 56618ms  (721/957)
+## Started HBG392742_real_fasta_bs1 on [7:7] 
+End of HBG418382_real_fasta_bs6 after 58939ms  (722/957)
+## Started HBG392742_real_fasta_bs2 on [8:8] 
+End of HBG418382_real_fasta_bs3 after 61078ms  (723/957)
+## Started HBG392742_real_fasta_bs3 on [12:12] 
+End of HBG439319_real_fasta_bs9 after 42493ms  (724/957)
+## Started HBG392742_real_fasta_bs4 on [17:17] 
+End of HBG670536_real_fasta_bs0 after 63980ms  (725/957)
+## Started HBG392742_real_fasta_bs5 on [4:4] 
+End of HBG418382_real_fasta_bs5 after 62410ms  (726/957)
+## Started HBG392742_real_fasta_bs6 on [20:20] 
+End of HBG439319_real_fasta_bs8 after 45287ms  (727/957)
+## Started HBG392742_real_fasta_bs8 on [22:22] 
+End of HBG418382_real_fasta_bs2 after 62923ms  (728/957)
+## Started HBG392742_real_fasta_bs9 on [16:16] 
+End of HBG439319_real_fasta_bs7 after 46568ms  (729/957)
+## Started HBG335288_real_fasta_bs8 on [5:5] 
+End of HBG439319_real_fasta_bs0 after 48933ms  (730/957)
+## Started HBG335288_real_fasta_bs7 on [35:35] 
+End of HBG439319_real_fasta_bs1 after 43894ms  (731/957)
+## Started HBG335288_real_fasta_bs6 on [23:23] 
+End of HBG439319_real_fasta_bs3 after 45453ms  (732/957)
+## Started HBG335288_real_fasta_bs5 on [28:28] 
+End of HBG439319_real_fasta_bs5 after 49593ms  (733/957)
+## Started HBG335288_real_fasta_bs4 on [34:34] 
+End of HBG439319_real_fasta_bs6 after 50656ms  (734/957)
+## Started HBG335288_real_fasta_bs3 on [2:2] 
+End of HBG439319_real_fasta_bs4 after 50763ms  (735/957)
+## Started HBG335288_real_fasta_bs2 on [32:32] 
+End of HBG439319_real_fasta_bs2 after 49655ms  (736/957)
+## Started HBG335288_real_fasta_bs1 on [21:21] 
+End of HBG635225_real_fasta_bs9 after 50724ms  (737/957)
+## Started HBG335288_real_fasta_bs0 on [30:30] 
+End of HBG635225_real_fasta_bs8 after 52149ms  (738/957)
+## Started HBG335288_real_fasta_bs9 on [0:0] 
+End of HBG418382_real_fasta_bs0 after 63459ms  (739/957)
+## Started HBG336444_real_fasta_bs4 on [24:24] 
+End of HBG635225_real_fasta_bs6 after 47080ms  (740/957)
+## Started HBG336444_real_fasta_bs6 on [10:10] 
+End of HBG635225_real_fasta_bs7 after 51375ms  (741/957)
+## Started HBG336444_real_fasta_bs5 on [1:1] 
+End of HBG635225_real_fasta_bs5 after 51447ms  (742/957)
+## Started HBG336444_real_fasta_bs7 on [36:36] 
+End of HBG635225_real_fasta_bs4 after 51607ms  (743/957)
+## Started HBG336444_real_fasta_bs8 on [18:18] 
+End of HBG286554_real_fasta_bs5 after 43166ms  (744/957)
+## Started HBG336444_real_fasta_bs9 on [26:26] 
+End of HBG635225_real_fasta_bs1 after 48590ms  (745/957)
+## Started HBG336444_real_fasta_bs0 on [27:27] 
+End of HBG635225_real_fasta_bs0 after 51230ms  (746/957)
+## Started HBG336444_real_fasta_bs1 on [14:14] 
+End of HBG635225_real_fasta_bs2 after 53224ms  (747/957)
+## Started HBG336444_real_fasta_bs2 on [37:37] 
+End of HBG635225_real_fasta_bs3 after 53752ms  (748/957)
+## Started HBG336444_real_fasta_bs3 on [9:9] 
+End of HBG286554_real_fasta_bs4 after 44271ms  (749/957)
+## Started HBG373533_real_fasta_bs2 on [11:11] 
+End of HBG286554_real_fasta_bs7 after 40579ms  (750/957)
+## Started HBG373533_real_fasta_bs9 on [38:38] 
+End of HBG286554_real_fasta_bs3 after 44315ms  (751/957)
+## Started HBG373533_real_fasta_bs8 on [33:33] 
+End of HBG392742_real_fasta_bs0 after 39736ms  (752/957)
+## Started HBG373533_real_fasta_bs7 on [3:3] 
+End of HBG286554_real_fasta_bs0 after 42607ms  (753/957)
+## Started HBG373533_real_fasta_bs6 on [15:15] 
+End of HBG392742_real_fasta_bs2 after 39801ms  (754/957)
+## Started HBG373533_real_fasta_bs5 on [8:8] 
+End of HBG392742_real_fasta_bs1 after 40083ms  (755/957)
+## Started HBG373533_real_fasta_bs4 on [7:7] 
+End of HBG286554_real_fasta_bs2 after 44286ms  (756/957)
+## Started HBG373533_real_fasta_bs3 on [13:13] 
+End of HBG392742_real_fasta_bs7 after 42509ms  (757/957)
+## Started HBG373533_real_fasta_bs1 on [31:31] 
+End of HBG392742_real_fasta_bs4 after 40021ms  (758/957)
+## Started HBG373533_real_fasta_bs0 on [17:17] 
+End of HBG392742_real_fasta_bs3 after 40635ms  (759/957)
+## Started HBG738140_real_fasta_bs4 on [12:12] 
+End of HBG286554_real_fasta_bs8 after 45144ms  (760/957)
+## Started HBG738140_real_fasta_bs2 on [25:25] 
+End of HBG286554_real_fasta_bs6 after 45800ms  (761/957)
+## Started HBG738140_real_fasta_bs0 on [6:6] 
+End of HBG286554_real_fasta_bs9 after 44731ms  (762/957)
+## Started HBG738140_real_fasta_bs9 on [29:29] 
+End of HBG392742_real_fasta_bs5 after 40430ms  (763/957)
+## Started HBG738140_real_fasta_bs8 on [4:4] 
+End of HBG286554_real_fasta_bs1 after 49268ms  (764/957)
+## Started HBG738140_real_fasta_bs7 on [19:19] 
+End of HBG392742_real_fasta_bs6 after 40503ms  (765/957)
+## Started HBG738140_real_fasta_bs1 on [20:20] 
+End of HBG392742_real_fasta_bs8 after 42416ms  (766/957)
+## Started HBG738140_real_fasta_bs3 on [22:22] 
+End of HBG335288_real_fasta_bs6 after 41565ms  (767/957)
+## Started HBG738140_real_fasta_bs6 on [23:23] 
+End of HBG392742_real_fasta_bs9 after 44421ms  (768/957)
+## Started HBG738140_real_fasta_bs5 on [16:16] 
+End of HBG335288_real_fasta_bs3 after 41694ms  (769/957)
+## Started HBG656726_real_fasta_bs9 on [2:2] 
+End of HBG335288_real_fasta_bs4 after 42254ms  (770/957)
+## Started HBG656726_real_fasta_bs8 on [34:34] 
+End of HBG335288_real_fasta_bs7 after 46942ms  (771/957)
+## Started HBG656726_real_fasta_bs7 on [35:35] 
+End of HBG335288_real_fasta_bs8 after 48333ms  (772/957)
+## Started HBG656726_real_fasta_bs6 on [5:5] 
+Runner is still alive after 2040s
+End of HBG335288_real_fasta_bs2 after 44079ms  (773/957)
+## Started HBG656726_real_fasta_bs5 on [32:32] 
+End of HBG335288_real_fasta_bs5 after 50246ms  (774/957)
+## Started HBG656726_real_fasta_bs4 on [28:28] 
+End of HBG335288_real_fasta_bs1 after 45690ms  (775/957)
+## Started HBG656726_real_fasta_bs0 on [21:21] 
+End of HBG335288_real_fasta_bs0 after 45030ms  (776/957)
+## Started HBG656726_real_fasta_bs1 on [30:30] 
+End of HBG336444_real_fasta_bs4 after 44260ms  (777/957)
+## Started HBG656726_real_fasta_bs2 on [24:24] 
+End of HBG336444_real_fasta_bs5 after 42195ms  (778/957)
+## Started HBG656726_real_fasta_bs3 on [1:1] 
+End of HBG336444_real_fasta_bs7 after 41789ms  (779/957)
+## Started HBG635390_real_fasta_bs1 on [36:36] 
+End of HBG336444_real_fasta_bs8 after 42107ms  (780/957)
+## Started HBG635390_real_fasta_bs0 on [18:18] 
+End of HBG335288_real_fasta_bs9 after 49479ms  (781/957)
+## Started HBG635390_real_fasta_bs2 on [0:0] 
+End of HBG336444_real_fasta_bs6 after 47837ms  (782/957)
+## Started HBG635390_real_fasta_bs4 on [10:10] 
+End of HBG336444_real_fasta_bs3 after 39560ms  (783/957)
+## Started HBG635390_real_fasta_bs9 on [9:9] 
+End of HBG336444_real_fasta_bs9 after 43458ms  (784/957)
+## Started HBG635390_real_fasta_bs8 on [26:26] 
+End of HBG336444_real_fasta_bs2 after 40783ms  (785/957)
+## Started HBG635390_real_fasta_bs7 on [37:37] 
+End of HBG336444_real_fasta_bs1 after 42722ms  (786/957)
+## Started HBG635390_real_fasta_bs6 on [14:14] 
+End of HBG336444_real_fasta_bs0 after 44337ms  (787/957)
+## Started HBG635390_real_fasta_bs5 on [27:27] 
+End of HBG373533_real_fasta_bs7 after 45498ms  (788/957)
+## Started HBG635390_real_fasta_bs3 on [3:3] 
+End of HBG373533_real_fasta_bs8 after 46696ms  (789/957)
+## Started HBG634411_real_fasta_bs2 on [33:33] 
+End of HBG373533_real_fasta_bs2 after 48608ms  (790/957)
+## Started HBG634411_real_fasta_bs1 on [11:11] 
+End of HBG738140_real_fasta_bs7 after 40245ms  (791/957)
+## Started HBG634411_real_fasta_bs0 on [19:19] 
+End of HBG373533_real_fasta_bs9 after 48282ms  (792/957)
+## Started HBG634411_real_fasta_bs7 on [38:38] 
+End of HBG738140_real_fasta_bs9 after 43468ms  (793/957)
+## Started HBG634411_real_fasta_bs3 on [29:29] 
+End of HBG738140_real_fasta_bs4 after 45356ms  (794/957)
+## Started HBG634411_real_fasta_bs4 on [12:12] 
+End of HBG373533_real_fasta_bs6 after 48869ms  (795/957)
+## Started HBG634411_real_fasta_bs5 on [15:15] 
+End of HBG373533_real_fasta_bs0 after 46699ms  (796/957)
+## Started HBG634411_real_fasta_bs6 on [17:17] 
+End of HBG738140_real_fasta_bs0 after 46721ms  (797/957)
+## Started HBG634411_real_fasta_bs8 on [6:6] 
+End of HBG738140_real_fasta_bs1 after 43991ms  (798/957)
+## Started HBG634411_real_fasta_bs9 on [20:20] 
+End of HBG373533_real_fasta_bs1 after 48833ms  (799/957)
+## Started HBG634477_real_fasta_bs2 on [31:31] 
+End of HBG373533_real_fasta_bs5 after 50475ms  (800/957)
+## Started HBG634477_real_fasta_bs0 on [8:8] 
+End of HBG738140_real_fasta_bs2 after 47960ms  (801/957)
+## Started HBG634477_real_fasta_bs1 on [25:25] 
+End of HBG373533_real_fasta_bs4 after 51013ms  (802/957)
+## Started HBG634477_real_fasta_bs9 on [7:7] 
+End of HBG738140_real_fasta_bs8 after 47649ms  (803/957)
+## Started HBG634477_real_fasta_bs8 on [4:4] 
+End of HBG373533_real_fasta_bs3 after 52629ms  (804/957)
+## Started HBG634477_real_fasta_bs7 on [13:13] 
+End of HBG738140_real_fasta_bs6 after 44621ms  (805/957)
+## Started HBG634477_real_fasta_bs6 on [23:23] 
+End of HBG738140_real_fasta_bs5 after 44603ms  (806/957)
+## Started HBG634477_real_fasta_bs5 on [16:16] 
+End of HBG738140_real_fasta_bs3 after 48978ms  (807/957)
+## Started HBG634477_real_fasta_bs4 on [22:22] 
+End of HBG656726_real_fasta_bs6 after 44886ms  (808/957)
+## Started HBG634477_real_fasta_bs3 on [5:5] 
+End of HBG656726_real_fasta_bs8 after 47166ms  (809/957)
+## Started HBG440404_real_fasta_bs4 on [34:34] 
+End of HBG656726_real_fasta_bs9 after 47304ms  (810/957)
+## Started HBG440404_real_fasta_bs3 on [2:2] 
+End of HBG656726_real_fasta_bs1 after 38391ms  (811/957)
+## Started HBG440404_real_fasta_bs2 on [30:30] 
+End of HBG656726_real_fasta_bs7 after 47830ms  (812/957)
+## Started HBG440404_real_fasta_bs9 on [35:35] 
+End of HBG656726_real_fasta_bs0 after 45250ms  (813/957)
+## Started HBG440404_real_fasta_bs1 on [21:21] 
+End of HBG656726_real_fasta_bs4 after 46765ms  (814/957)
+## Started HBG440404_real_fasta_bs0 on [28:28] 
+End of HBG635390_real_fasta_bs1 after 37850ms  (815/957)
+## Started HBG440404_real_fasta_bs6 on [36:36] 
+End of HBG656726_real_fasta_bs5 after 49191ms  (816/957)
+## Started HBG440404_real_fasta_bs5 on [32:32] 
+End of HBG635390_real_fasta_bs2 after 38641ms  (817/957)
+## Started HBG440404_real_fasta_bs8 on [0:0] 
+End of HBG635390_real_fasta_bs4 after 38511ms  (818/957)
+## Started HBG440404_real_fasta_bs7 on [10:10] 
+End of HBG635390_real_fasta_bs0 after 39256ms  (819/957)
+## Started HBG569486_real_fasta_bs0 on [18:18] 
+End of HBG656726_real_fasta_bs3 after 43508ms  (820/957)
+## Started HBG569486_real_fasta_bs1 on [1:1] 
+End of HBG635390_real_fasta_bs7 after 37445ms  (821/957)
+## Started HBG569486_real_fasta_bs2 on [37:37] 
+End of HBG656726_real_fasta_bs2 after 48915ms  (822/957)
+## Started HBG569486_real_fasta_bs7 on [24:24] 
+End of HBG635390_real_fasta_bs9 after 40388ms  (823/957)
+## Started HBG569486_real_fasta_bs8 on [9:9] 
+End of HBG635390_real_fasta_bs8 after 41379ms  (824/957)
+## Started HBG569486_real_fasta_bs9 on [26:26] 
+Runner is still alive after 2100s
+End of HBG635390_real_fasta_bs6 after 43929ms  (825/957)
+## Started HBG569486_real_fasta_bs3 on [14:14] 
+End of HBG634477_real_fasta_bs9 after 28684ms  (826/957)
+## Started HBG569486_real_fasta_bs6 on [7:7] 
+End of HBG635390_real_fasta_bs5 after 44005ms  (827/957)
+## Started HBG569486_real_fasta_bs5 on [27:27] 
+End of HBG634477_real_fasta_bs0 after 29998ms  (828/957)
+## Started HBG569486_real_fasta_bs4 on [8:8] 
+End of HBG634477_real_fasta_bs2 after 31022ms  (829/957)
+## Started HBG441481_real_fasta_bs0 on [31:31] 
+End of HBG634477_real_fasta_bs8 after 32024ms  (830/957)
+## Started HBG441481_real_fasta_bs7 on [4:4] 
+End of HBG634477_real_fasta_bs1 after 32677ms  (831/957)
+## Started HBG441481_real_fasta_bs6 on [25:25] 
+End of HBG635390_real_fasta_bs3 after 39000ms  (832/957)
+## Started HBG441481_real_fasta_bs5 on [3:3] 
+End of HBG634477_real_fasta_bs7 after 31915ms  (833/957)
+## Started HBG441481_real_fasta_bs4 on [13:13] 
+End of HBG634477_real_fasta_bs6 after 30576ms  (834/957)
+## Started HBG441481_real_fasta_bs3 on [23:23] 
+End of HBG634411_real_fasta_bs0 after 40151ms  (835/957)
+## Started HBG441481_real_fasta_bs2 on [19:19] 
+End of HBG634411_real_fasta_bs1 after 40837ms  (836/957)
+## Started HBG441481_real_fasta_bs1 on [11:11] 
+End of HBG634477_real_fasta_bs4 after 29238ms  (837/957)
+## Started HBG441481_real_fasta_bs8 on [22:22] 
+End of HBG634411_real_fasta_bs2 after 42344ms  (838/957)
+## Started HBG441481_real_fasta_bs9 on [33:33] 
+End of HBG634477_real_fasta_bs5 after 32057ms  (839/957)
+## Started mlsearch_HBG289648_real_fasta_0 on [16:16] 
+End of HBG634411_real_fasta_bs3 after 41519ms  (840/957)
+## Started mlsearch_HBG616165_real_fasta_0 on [29:29] 
+End of HBG634411_real_fasta_bs8 after 39543ms  (841/957)
+## Started mlsearch_HBG284758_real_fasta_0 on [6:6] 
+End of HBG634411_real_fasta_bs5 after 41581ms  (842/957)
+## Started mlsearch_HBG734490_real_fasta_0 on [15:15] 
+End of HBG634411_real_fasta_bs4 after 42749ms  (843/957)
+## Started mlsearch_HBG405439_real_fasta_0 on [12:12] 
+End of HBG634411_real_fasta_bs6 after 42372ms  (844/957)
+## Started mlsearch_HBG616483_real_fasta_0 on [17:17] 
+End of HBG634477_real_fasta_bs3 after 31295ms  (845/957)
+## Started mlsearch_HBG354397_real_fasta_0 on [5:5] 
+End of HBG634411_real_fasta_bs9 after 42411ms  (846/957)
+## Started mlsearch_HBG486560_real_fasta_0 on [20:20] 
+End of HBG634411_real_fasta_bs7 after 46427ms  (847/957)
+## Started mlsearch_HBG286723_real_fasta_0 on [38:38] 
+End of HBG440404_real_fasta_bs4 after 37905ms  (848/957)
+## Started mlsearch_HBG287139_real_fasta_0 on [34:34] 
+End of HBG440404_real_fasta_bs9 after 37575ms  (849/957)
+## Started mlsearch_HBG693845_real_fasta_0 on [35:35] 
+End of HBG440404_real_fasta_bs3 after 39040ms  (850/957)
+## Started mlsearch_HBG351035_real_fasta_0 on [2:2] 
+End of HBG569486_real_fasta_bs1 after 30718ms  (851/957)
+## Started mlsearch_HBG610926_real_fasta_0 on [1:1] 
+End of HBG569486_real_fasta_bs0 after 33931ms  (852/957)
+## Started mlsearch_HBG735169_real_fasta_0 on [18:18] 
+End of HBG569486_real_fasta_bs2 after 29767ms  (853/957)
+## Started mlsearch_HBG399638_real_fasta_0 on [37:37] 
+End of mlsearch_HBG405439_real_fasta_0 after 13222ms  (854/957)
+## Started mlsearch_HBG747311_real_fasta_0 on [12:12] 
+End of HBG440404_real_fasta_bs6 after 37348ms  (855/957)
+## Started mlsearch_HBG341268_real_fasta_0 on [36:36] 
+End of HBG569486_real_fasta_bs7 after 30764ms  (856/957)
+## Started mlsearch_HBG593711_real_fasta_0 on [24:24] 
+End of mlsearch_HBG616483_real_fasta_0 after 13974ms  (857/957)
+## Started mlsearch_HBG286705_real_fasta_0 on [17:17] 
+End of mlsearch_HBG734490_real_fasta_0 after 14954ms  (858/957)
+## Started mlsearch_HBG284200_real_fasta_0 on [15:15] 
+End of HBG440404_real_fasta_bs2 after 43345ms  (859/957)
+## Started mlsearch_HBG678447_real_fasta_0 on [30:30] 
+End of HBG441481_real_fasta_bs0 after 24197ms  (860/957)
+## Started mlsearch_HBG586599_real_fasta_0 on [31:31] 
+End of HBG440404_real_fasta_bs7 after 37701ms  (861/957)
+## Started mlsearch_HBG635083_real_fasta_0 on [10:10] 
+End of HBG441481_real_fasta_bs6 after 22497ms  (862/957)
+## Started mlsearch_HBG594146_real_fasta_0 on [25:25] 
+End of HBG440404_real_fasta_bs0 after 40365ms  (863/957)
+## Started mlsearch_HBG285867_real_fasta_0 on [28:28] 
+End of HBG440404_real_fasta_bs5 after 39328ms  (864/957)
+## Started mlsearch_HBG710319_real_fasta_0 on [32:32] 
+End of HBG569486_real_fasta_bs8 after 31514ms  (865/957)
+## Started mlsearch_HBG571647_real_fasta_0 on [9:9] 
+End of HBG440404_real_fasta_bs8 after 38755ms  (866/957)
+## Started mlsearch_HBG626671_real_fasta_0 on [0:0] 
+End of HBG441481_real_fasta_bs7 after 23590ms  (867/957)
+## Started mlsearch_HBG284990_real_fasta_0 on [4:4] 
+End of mlsearch_HBG286723_real_fasta_0 after 14224ms  (868/957)
+## Started mlsearch_HBG497378_real_fasta_0 on [38:38] 
+End of mlsearch_HBG354397_real_fasta_0 after 15055ms  (869/957)
+## Started mlsearch_HBG538831_real_fasta_0 on [5:5] 
+End of HBG441481_real_fasta_bs3 after 22147ms  (870/957)
+## Started mlsearch_HBG438550_real_fasta_0 on [23:23] 
+End of HBG441481_real_fasta_bs5 after 24224ms  (871/957)
+## Started mlsearch_HBG635132_real_fasta_0 on [3:3] 
+End of HBG440404_real_fasta_bs1 after 42853ms  (872/957)
+## Started mlsearch_HBG285623_real_fasta_0 on [21:21] 
+End of HBG441481_real_fasta_bs2 after 22385ms  (873/957)
+## Started mlsearch_HBG724395_real_fasta_0 on [19:19] 
+End of HBG569486_real_fasta_bs9 after 32167ms  (874/957)
+## Started mlsearch_HBG632212_real_fasta_0 on [26:26] 
+End of HBG441481_real_fasta_bs1 after 23215ms  (875/957)
+## Started mlsearch_HBG286952_real_fasta_0 on [11:11] 
+End of HBG441481_real_fasta_bs8 after 22726ms  (876/957)
+## Started mlsearch_HBG616253_real_fasta_0 on [22:22] 
+End of mlsearch_HBG289648_real_fasta_0 after 21999ms  (877/957)
+## Started mlsearch_HBG634907_real_fasta_0 on [16:16] 
+End of HBG441481_real_fasta_bs4 after 25410ms  (878/957)
+## Started mlsearch_HBG299420_real_fasta_0 on [13:13] 
+End of mlsearch_HBG486560_real_fasta_0 after 17751ms  (879/957)
+## Started mlsearch_HBG634528_real_fasta_0 on [20:20] 
+End of HBG569486_real_fasta_bs6 after 30719ms  (880/957)
+## Started mlsearch_HBG565931_real_fasta_0 on [7:7] 
+End of HBG569486_real_fasta_bs3 after 31789ms  (881/957)
+## Started mlsearch_HBG284933_real_fasta_0 on [14:14] 
+End of HBG569486_real_fasta_bs5 after 31073ms  (882/957)
+## Started mlsearch_HBG695666_real_fasta_0 on [27:27] 
+End of HBG569486_real_fasta_bs4 after 31303ms  (883/957)
+## Started mlsearch_HBG664087_real_fasta_0 on [8:8] 
+End of mlsearch_HBG616165_real_fasta_0 after 24410ms  (884/957)
+## Started mlsearch_HBG286432_real_fasta_0 on [29:29] 
+End of HBG441481_real_fasta_bs9 after 24879ms  (885/957)
+## Started mlsearch_HBG709130_real_fasta_0 on [33:33] 
+End of mlsearch_HBG284758_real_fasta_0 after 24879ms  (886/957)
+## Started mlsearch_HBG737336_real_fasta_0 on [6:6] 
+End of mlsearch_HBG610926_real_fasta_0 after 13014ms  (887/957)
+## Started mlsearch_HBG580260_real_fasta_0 on [1:1] 
+End of mlsearch_HBG710319_real_fasta_0 after 8342ms  (888/957)
+## Started mlsearch_HBG359242_real_fasta_0 on [32:32] 
+End of mlsearch_HBG538831_real_fasta_0 after 8139ms  (889/957)
+## Started mlsearch_HBG581236_real_fasta_0 on [5:5] 
+End of mlsearch_HBG286705_real_fasta_0 after 11021ms  (890/957)
+## Started mlsearch_HBG754477_real_fasta_0 on [17:17] 
+End of mlsearch_HBG285623_real_fasta_0 after 8308ms  (891/957)
+## Started mlsearch_HBG285275_real_fasta_0 on [21:21] 
+End of mlsearch_HBG635083_real_fasta_0 after 11026ms  (892/957)
+## Started mlsearch_HBG284654_real_fasta_0 on [10:10] 
+End of mlsearch_HBG709130_real_fasta_0 after 4475ms  (893/957)
+## Started mlsearch_HBG439123_real_fasta_0 on [33:33] 
+End of mlsearch_HBG284200_real_fasta_0 after 12301ms  (894/957)
+## Started mlsearch_HBG553036_real_fasta_0 on [15:15] 
+End of mlsearch_HBG286952_real_fasta_0 after 7826ms  (895/957)
+## Started mlsearch_HBG709628_real_fasta_0 on [11:11] 
+End of mlsearch_HBG594146_real_fasta_0 after 11271ms  (896/957)
+## Started mlsearch_HBG581077_real_fasta_0 on [25:25] 
+End of mlsearch_HBG634528_real_fasta_0 after 6950ms  (897/957)
+## Started mlsearch_HBG312159_real_fasta_0 on [20:20] 
+End of mlsearch_HBG341268_real_fasta_0 after 13700ms  (898/957)
+## Started mlsearch_HBG294776_real_fasta_0 on [36:36] 
+End of mlsearch_HBG399638_real_fasta_0 after 14847ms  (899/957)
+## Started mlsearch_HBG285332_real_fasta_0 on [37:37] 
+End of mlsearch_HBG635132_real_fasta_0 after 9772ms  (900/957)
+## Started mlsearch_HBG284947_real_fasta_0 on [3:3] 
+End of mlsearch_HBG299420_real_fasta_0 after 7794ms  (901/957)
+## Started mlsearch_HBG670536_real_fasta_0 on [13:13] 
+End of mlsearch_HBG351035_real_fasta_0 after 17070ms  (902/957)
+## Started mlsearch_HBG679885_real_fasta_0 on [2:2] 
+End of mlsearch_HBG287139_real_fasta_0 after 18501ms  (903/957)
+## Started mlsearch_HBG418382_real_fasta_0 on [34:34] 
+End of mlsearch_HBG497378_real_fasta_0 after 11186ms  (904/957)
+## Started mlsearch_HBG439319_real_fasta_0 on [38:38] 
+End of mlsearch_HBG735169_real_fasta_0 after 16214ms  (905/957)
+## Started mlsearch_HBG635225_real_fasta_0 on [18:18] 
+End of mlsearch_HBG616253_real_fasta_0 after 9227ms  (906/957)
+## Started mlsearch_HBG286554_real_fasta_0 on [22:22] 
+End of mlsearch_HBG634907_real_fasta_0 after 9307ms  (907/957)
+## Started mlsearch_HBG392742_real_fasta_0 on [16:16] 
+End of mlsearch_HBG747311_real_fasta_0 after 15708ms  (908/957)
+## Started mlsearch_HBG335288_real_fasta_0 on [12:12] 
+End of mlsearch_HBG678447_real_fasta_0 after 14055ms  (909/957)
+## Started mlsearch_HBG336444_real_fasta_0 on [30:30] 
+End of mlsearch_HBG284933_real_fasta_0 after 7851ms  (910/957)
+## Started mlsearch_HBG373533_real_fasta_0 on [14:14] 
+End of mlsearch_HBG438550_real_fasta_0 after 11664ms  (911/957)
+## Started mlsearch_HBG738140_real_fasta_0 on [23:23] 
+End of mlsearch_HBG571647_real_fasta_0 after 13002ms  (912/957)
+## Started mlsearch_HBG656726_real_fasta_0 on [9:9] 
+End of mlsearch_HBG286432_real_fasta_0 after 8284ms  (913/957)
+## Started mlsearch_HBG635390_real_fasta_0 on [29:29] 
+End of mlsearch_HBG695666_real_fasta_0 after 9208ms  (914/957)
+## Started mlsearch_HBG634411_real_fasta_0 on [27:27] 
+End of mlsearch_HBG284990_real_fasta_0 after 13994ms  (915/957)
+## Started mlsearch_HBG634477_real_fasta_0 on [4:4] 
+End of mlsearch_HBG565931_real_fasta_0 after 10629ms  (916/957)
+## Started mlsearch_HBG440404_real_fasta_0 on [7:7] 
+End of mlsearch_HBG593711_real_fasta_0 after 16621ms  (917/957)
+## Started mlsearch_HBG569486_real_fasta_0 on [24:24] 
+End of mlsearch_HBG724395_real_fasta_0 after 12938ms  (918/957)
+## Started mlsearch_HBG441481_real_fasta_0 on [19:19] 
+All commands were launched
+End of mlsearch_HBG586599_real_fasta_0 after 16072ms  (919/957)
+End of mlsearch_HBG285867_real_fasta_0 after 15375ms  (920/957)
+End of mlsearch_HBG626671_real_fasta_0 after 15077ms  (921/957)
+End of mlsearch_HBG439123_real_fasta_0 after 5343ms  (922/957)
+End of mlsearch_HBG294776_real_fasta_0 after 4785ms  (923/957)
+End of mlsearch_HBG632212_real_fasta_0 after 13700ms  (924/957)
+End of mlsearch_HBG581077_real_fasta_0 after 5451ms  (925/957)
+End of mlsearch_HBG439319_real_fasta_0 after 4676ms  (926/957)
+End of mlsearch_HBG553036_real_fasta_0 after 5763ms  (927/957)
+End of mlsearch_HBG737336_real_fasta_0 after 8959ms  (928/957)
+End of mlsearch_HBG286554_real_fasta_0 after 4488ms  (929/957)
+End of mlsearch_HBG392742_real_fasta_0 after 4338ms  (930/957)
+End of mlsearch_HBG418382_real_fasta_0 after 5330ms  (931/957)
+End of mlsearch_HBG335288_real_fasta_0 after 4510ms  (932/957)
+End of mlsearch_HBG664087_real_fasta_0 after 11858ms  (933/957)
+End of mlsearch_HBG441481_real_fasta_0 after 2697ms  (934/957)
+End of mlsearch_HBG634477_real_fasta_0 after 3132ms  (935/957)
+End of mlsearch_HBG312159_real_fasta_0 after 6724ms  (936/957)
+End of mlsearch_HBG670536_real_fasta_0 after 6436ms  (937/957)
+End of mlsearch_HBG679885_real_fasta_0 after 6480ms  (938/957)
+End of mlsearch_HBG336444_real_fasta_0 after 5233ms  (939/957)
+End of mlsearch_HBG634411_real_fasta_0 after 3982ms  (940/957)
+End of mlsearch_HBG738140_real_fasta_0 after 5524ms  (941/957)
+End of mlsearch_HBG373533_real_fasta_0 after 5639ms  (942/957)
+End of mlsearch_HBG635225_real_fasta_0 after 6293ms  (943/957)
+End of mlsearch_HBG754477_real_fasta_0 after 9541ms  (944/957)
+End of mlsearch_HBG440404_real_fasta_0 after 4294ms  (945/957)
+End of mlsearch_HBG580260_real_fasta_0 after 11146ms  (946/957)
+End of mlsearch_HBG359242_real_fasta_0 after 11009ms  (947/957)
+End of mlsearch_HBG284947_real_fasta_0 after 8104ms  (948/957)
+End of mlsearch_HBG284654_real_fasta_0 after 9063ms  (949/957)
+End of mlsearch_HBG635390_real_fasta_0 after 5498ms  (950/957)
+End of mlsearch_HBG656726_real_fasta_0 after 6764ms  (951/957)
+End of mlsearch_HBG285275_real_fasta_0 after 10407ms  (952/957)
+End of mlsearch_HBG569486_real_fasta_0 after 5662ms  (953/957)
+End of mlsearch_HBG581236_real_fasta_0 after 11838ms  (954/957)
+End of mlsearch_HBG693845_real_fasta_0 after 27639ms  (955/957)
+End of mlsearch_HBG285332_real_fasta_0 after 10305ms  (956/957)
+end of run
+End of mlsearch_HBG709628_real_fasta_0 after 11259ms  (957/957)
+Finished running commands. Total elasped time: 2151s
+Load balance ratio: 0.998142
+Saving svg output in /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/statistics.svg
+total width 40
+Time spent writting svg: 0s
+End of Multiraxml run

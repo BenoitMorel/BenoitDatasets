@@ -1,0 +1,66 @@
+Species Tree file......................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/phyldogSpeciesTree.newick
+Number of leaves.......................: 36
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD PLL
+Alphabet type .........................: Protein
+Sequence file .........................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG286952_real/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 24
+Number of sites........................: 128
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 24
+Sites to use...........................: complete
+Complete sites.........................: 122
+Substitution model.....................: LG08
+External frequencies initialization for: None
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 24 14
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG286952_real/raxmlGeneTree.newick
+Number of leaves.......................: 24
+Writing an alignment for PLL with 24 sequences. File: tmpPLL__home_morelbt_github_BenoitDatasets_families_sub_t0_1_s0_2_cyano_empirical_families_HBG286952_real_alignment_msa_alignment.fasta
+
+---------------
+
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG286952_real/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -3389.02
+		Sequence loglk: -3228.44 and scenario loglk: -160.58
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+Better tree overall: -3378.7 compared to -3389.02
+among all spr tried, a better tree has been found -3378.7
+Better tree overall: -3364.35 compared to -3378.7
+among all spr tried, a better tree has been found -3364.35
+Better tree overall: -3360.93 compared to -3364.35
+among all spr tried, a better tree has been found -3360.93
+Better tree overall: -3350.08 compared to -3360.93
+among all spr tried, a better tree has been found -3350.08
+Better tree overall: -3347.61 compared to -3350.08
+Better tree overall: -3339.97 compared to -3347.61
+among all spr tried, a better tree has been found -3339.97
+Better tree overall: -3320.68 compared to -3339.97
+among all spr tried, a better tree has been found -3320.68
+Better tree overall: -3319.04 compared to -3320.68
+among all spr tried, a better tree has been found -3319.04
+Better tree overall: -3317.52 compared to -3319.04
+among all spr tried, a better tree has been found -3317.52
+Better tree overall: -3303.95 compared to -3317.52
+among all spr tried, a better tree has been found -3303.95
+Better tree overall: -3292.47 compared to -3303.95
+among all spr tried, a better tree has been found -3292.47
+Reconciled tree: 
+((((ACAM1_1_PE6236:0.308684[&&NHX:Ev=S:S=10:ND=0],(THEEB_1_PE290:0.548541[&&NHX:Ev=S:S=19:ND=1],CYAP4_1_PE3392:0.219661[&&NHX:Ev=S:S=20:ND=2]):0.0740797[&&NHX:Ev=S:S=9:ND=3]):0.0375637[&&NHX:Ev=S:S=4:ND=4],(SYNP2_5_PE1233:0.562242[&&NHX:Ev=S:S=18:ND=5],(((CYAP8_1_PE2348:0.102813[&&NHX:Ev=S:S=42:ND=6],MICAN_1_PE3651:0.267876[&&NHX:Ev=S:S=44:ND=7]):0.0912891[&&NHX:Ev=S:S=29:ND=8],(CYAP7_1_PE4128:0.337171[&&NHX:Ev=S:S=43:ND=9],CYAA5_6_PE1201:0.0912848[&&NHX:Ev=S:S=41:ND=10]):0.0525943[&&NHX:Ev=S:S=29:ND=11]):0.0172585[&&NHX:Ev=D:S=29:ND=12],SYNY3_4_PE2054:0.304633[&&NHX:Ev=S:S=30:ND=13]):0.0254038[&&NHX:Ev=S:S=17:ND=14]):0.0890555[&&NHX:Ev=S:S=8:ND=15]):0.0015212[&&NHX:Ev=S:S=1:ND=16],(SYNR3_2_PE2336:0.356636[&&NHX:Ev=S:S=21:ND=17],((PROM3_1_PE2439:0.0256909[&&NHX:Ev=S:S=46:ND=18],PROMM_1_PE2271:0.0219581[&&NHX:Ev=S:S=45:ND=19]):0.166488[&&NHX:Ev=S:S=37:ND=20],((SYNS3_1_PE303:0.23844[&&NHX:Ev=S:S=50:ND=21],SYNPW_2_PE311:0.345925[&&NHX:Ev=S:S=49:ND=22]):0.0916727[&&NHX:Ev=S:S=39:ND=23],(SYNPX_1_PE267:0.332638[&&NHX:Ev=S:S=51:ND=24],(SYNSC_1_PE255:0.192411[&&NHX:Ev=S:S=58:ND=25],SYNS9_1_PE2066:0.276168[&&NHX:Ev=S:S=57:ND=26]):0.0419937[&&NHX:Ev=S:S=52:ND=27]):0.0952559[&&NHX:Ev=S:S=40:ND=28]):0.0562997[&&NHX:Ev=S:S=32:ND=29]):0.329317[&&NHX:Ev=S:S=22:ND=30]):0.952045[&&NHX:Ev=S:S=11:ND=31]):0.017741[&&NHX:Ev=S:S=0:ND=32],(((SYNE7_1_PE1701:9.39047e-07[&&NHX:Ev=S:S=23:ND=33],SYNP6_1_PE2388:9.39047e-07[&&NHX:Ev=S:S=24:ND=34]):0.407404[&&NHX:Ev=S:S=12:ND=35],((ANAVT_4_PE4426:0.0191234[&&NHX:Ev=S:S=34:ND=36],ANASP_6_PE846:0.0275361[&&NHX:Ev=S:S=33:ND=37]):0.144876[&&NHX:Ev=S:S=27:ND=38],NOSP7_2_PE3885:9.39047e-07[&&NHX:Ev=S:S=28:ND=39]):0.186035[&&NHX:Ev=S:S=15:ND=40]):9.39047e-07[&&NHX:Ev=S:S=0:ND=41],(TRIEI_1_PE2786:0.394846[&&NHX:Ev=S:S=16:ND=42],GLVIO1_1_PE80:0.544818[&&NHX:Ev=S:S=14:ND=43]):0.108147[&&NHX:Ev=S:S=0:ND=44]):0.017741[&&NHX:Ev=D:S=0:ND=45])[&&NHX:Ev=D:S=0:ND=46];
+
+		Total final logLikelihood value: -3292.47
+		Sequence loglk: -3230.51 and scenario loglk: -61.9638
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 3.000000s.

@@ -1,0 +1,61 @@
+
+RAxML-NG v. 0.8.0git BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 04-Feb-2019 15:44:28 as follows:
+
+mpi-scheduler --bootstrap --msa /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/parse_run/results/HBG289648_real_fasta/HBG289648_real_fasta.raxml.rba --blopt nr_safe --model LG4X --prefix /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/bootstraps/HBG289648_real_fasta/HBG289648_real_fasta_bs5 --threads 1 --seed 6 --bs-trees 10
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 10
+  random seed: 6
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: NONE/sequential
+
+WARNING: The model you specified on the command line (LG4X) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/parse_run/results/HBG289648_real_fasta/HBG289648_real_fasta.raxml.rba
+[00:00:00] Alignment comprises 37 taxa, 1 partitions and 172 patterns
+
+Partition 0: noname
+Model: LG4X+R4
+Alignment sites / patterns: 225 / 172
+Gaps: 1.09 %
+Invariant sites: 8.44 %
+
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 172 / 13760
+[00:00:00] Starting bootstrapping analysis with 10 replicates.
+
+[00:00:12] Bootstrap tree #1, logLikelihood: -5325.283801
+[00:00:30] Bootstrap tree #2, logLikelihood: -5426.461569
+[00:00:45] Bootstrap tree #3, logLikelihood: -5029.802443
+[00:01:04] Bootstrap tree #4, logLikelihood: -5676.612082
+[00:01:19] Bootstrap tree #5, logLikelihood: -5235.168618
+[00:01:38] Bootstrap tree #6, logLikelihood: -5435.179738
+[00:01:53] Bootstrap tree #7, logLikelihood: -4710.063156
+[00:02:07] Bootstrap tree #8, logLikelihood: -5233.757745
+[00:02:22] Bootstrap tree #9, logLikelihood: -5714.354640
+[00:02:36] Bootstrap tree #10, logLikelihood: -5090.746987
+Bootstrap trees saved to: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/bootstraps/HBG289648_real_fasta/HBG289648_real_fasta_bs5.raxml.bootstraps
+
+Execution log saved to: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/pargenes/mlsearch_run/bootstraps/HBG289648_real_fasta/HBG289648_real_fasta_bs5.raxml.log
+
+Analysis started: 04-Feb-2019 15:44:28 / finished: 04-Feb-2019 15:47:05
+
+Elapsed time: 156.845 seconds
+

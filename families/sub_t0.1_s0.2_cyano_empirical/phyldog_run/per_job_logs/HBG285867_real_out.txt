@@ -1,0 +1,65 @@
+Species Tree file......................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/phyldogSpeciesTree.newick
+Number of leaves.......................: 36
+@@Instanciating a Likelihood Evaluator named alignment
+ METHOD PLL
+Alphabet type .........................: Protein
+Sequence file .........................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG285867_real/alignment.msa
+Sequence format .......................: FASTA file
+Number of sequences....................: 36
+Number of sites........................: 117
+WARNING!!! Parameter sequence.removal.threshold not specified. Default used instead: 0
+# sequences post size-based removal:...: 36
+Sites to use...........................: complete
+Complete sites.........................: 108
+Substitution model.....................: LG08
+External frequencies initialization for: None
+WARNING!!! Parameter rate_distribution not specified. Default used instead: Constant()
+Distribution...........................: Constant
+Number of classes......................: 1
+- Category 0 (Pr = 1) rate.............: 1
+Rate distribution......................: Constant
+Number of classes......................: 1
+WARNING!!! Parameter sequence.likelihood.scaler not specified. Default used instead: 1
+getTreeFromOptions 36 14
+WARNING!!! Parameter init.gene.tree not specified. Default used instead: user
+Input gene tree........................: user
+Gene Tree file.........................: /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG285867_real/raxmlGeneTree.newick
+Number of leaves.......................: 36
+Writing an alignment for PLL with 36 sequences. File: tmpPLL__home_morelbt_github_BenoitDatasets_families_sub_t0_1_s0_2_cyano_empirical_families_HBG285867_real_alignment_msa_alignment.fasta
+
+---------------
+
+WARNING!!! Parameter SPR.limit not specified. Default used instead: 3
+gene tree file /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG285867_real/raxmlGeneTree.newick
+
+		Total initial logLikelihood value: -2639.37
+		Sequence loglk: -2497.25 and scenario loglk: -142.119
+WARNING!!! Parameter optimization.topology not specified. Default used instead: 1
+WARNING!!! Parameter compute.sequence.likelihood.in.sprs not specified. Default used instead: 1
+Better tree overall: -2630.74 compared to -2639.37
+among all spr tried, a better tree has been found -2630.74
+Better tree overall: -2621.3 compared to -2630.74
+among all spr tried, a better tree has been found -2621.3
+Better tree overall: -2611.31 compared to -2621.3
+among all spr tried, a better tree has been found -2611.31
+Better tree overall: -2601.08 compared to -2611.31
+among all spr tried, a better tree has been found -2601.08
+Better tree overall: -2596.76 compared to -2601.08
+among all spr tried, a better tree has been found -2596.76
+Better tree overall: -2585.18 compared to -2596.76
+among all spr tried, a better tree has been found -2585.18
+Better tree overall: -2579.53 compared to -2585.18
+among all spr tried, a better tree has been found -2579.53
+Better tree overall: -2573.69 compared to -2579.53
+among all spr tried, a better tree has been found -2573.69
+Better tree overall: -2565.52 compared to -2573.69
+among all spr tried, a better tree has been found -2565.52
+Better tree overall: -2552.55 compared to -2565.52
+among all spr tried, a better tree has been found -2552.55
+Reconciled tree: 
+(((((((SYNP2_5_PE1379:0.355762[&&NHX:Ev=S:S=18:ND=0],(((CYAP7_1_PE1938:0.0875704[&&NHX:Ev=S:S=43:ND=1],MICAN_1_PE3605:0.0764914[&&NHX:Ev=S:S=44:ND=2]):0.035643[&&NHX:Ev=S:S=36:ND=3],(CYAA5_6_PE887:0.101257[&&NHX:Ev=S:S=41:ND=4],CYAP8_1_PE3002:0.0766004[&&NHX:Ev=S:S=42:ND=5]):0.0814318[&&NHX:Ev=S:S=35:ND=6]):9.39047e-07[&&NHX:Ev=S:S=29:ND=7],SYNY3_4_PE109:0.250375[&&NHX:Ev=S:S=30:ND=8]):0.0879635[&&NHX:Ev=S:S=17:ND=9]):0.0112973[&&NHX:Ev=S:S=8:ND=10],(NOSP7_2_PE3303:0.0347601[&&NHX:Ev=S:S=28:ND=11],(ANAVT_4_PE3210:9.39047e-07[&&NHX:Ev=S:S=34:ND=12],ANASP_6_PE3507:9.39047e-07[&&NHX:Ev=S:S=33:ND=13]):0.0924141[&&NHX:Ev=S:S=27:ND=14]):0.136116[&&NHX:Ev=S:S=15:ND=15]):0.0891977[&&NHX:Ev=S:S=3:ND=16],((THEEB_1_PE436:0.421837[&&NHX:Ev=S:S=19:ND=17],CYAP4_1_PE3010:0.162377[&&NHX:Ev=S:S=20:ND=18]):0.127684[&&NHX:Ev=S:S=9:ND=19],ACAM1_1_PE4106:0.255553[&&NHX:Ev=S:S=10:ND=20]):0.012211[&&NHX:Ev=S:S=4:ND=21]):0.0412281[&&NHX:Ev=S:S=1:ND=22],(GLVIO1_1_PE55:0.621329[&&NHX:Ev=S:S=14:ND=23],(SYNJA_1_PE2527:0.0112302[&&NHX:Ev=S:S=25:ND=24],SYNJB_1_PE2355:9.39047e-07[&&NHX:Ev=S:S=26:ND=25]):0.466116[&&NHX:Ev=S:S=13:ND=26]):0.127622[&&NHX:Ev=S:S=6:ND=27]):0.0760733[&&NHX:Ev=S:S=0:ND=28],TRIEI_1_PE1230:0.174712[&&NHX:Ev=S:S=16:ND=29]):0.0597049[&&NHX:Ev=D:S=0:ND=30],(SYNR3_2_PE1823:0.118998[&&NHX:Ev=S:S=21:ND=31],((((SYNS9_1_PE544:0.107379[&&NHX:Ev=S:S=57:ND=32],SYNSC_1_PE2080:0.0444062[&&NHX:Ev=S:S=58:ND=33]):0.0123992[&&NHX:Ev=S:S=52:ND=34],SYNPX_1_PE551:0.0645416[&&NHX:Ev=S:S=51:ND=35]):0.113179[&&NHX:Ev=S:S=40:ND=36],(SYNS3_1_PE2178:0.123532[&&NHX:Ev=S:S=50:ND=37],SYNPW_2_PE1963:0.0657048[&&NHX:Ev=S:S=49:ND=38]):0.14589[&&NHX:Ev=S:S=39:ND=39]):9.39047e-07[&&NHX:Ev=S:S=32:ND=40],((PROMM_1_PE1755:9.39047e-07[&&NHX:Ev=S:S=45:ND=41],PROM3_1_PE541:9.39047e-07[&&NHX:Ev=S:S=46:ND=42]):0.107064[&&NHX:Ev=S:S=37:ND=43],((PROM4_1_PE1397:0.169723[&&NHX:Ev=S:S=54:ND=44],PRMAR1_1_PE1419:0.0816898[&&NHX:Ev=S:S=53:ND=45]):0.0888057[&&NHX:Ev=S:S=47:ND=46],((PROM1_1_PE1761:0.0106726[&&NHX:Ev=S:S=59:ND=47],PROMT_1_PE1716:9.39047e-07[&&NHX:Ev=S:S=60:ND=48]):0.246255[&&NHX:Ev=S:S=55:ND=49],((PROMP_1_PE1527:9.39047e-07[&&NHX:Ev=S:S=66:ND=50],PROM5_1_PE1501:0.0327317[&&NHX:Ev=S:S=65:ND=51]):0.0338351[&&NHX:Ev=S:S=62:ND=52],(PROM9_1_PE1561:0.0432124[&&NHX:Ev=S:S=63:ND=53],(PROM2_1_PE1566:0.031288[&&NHX:Ev=S:S=67:ND=54],(PROMS_1_PE1538:9.39047e-07[&&NHX:Ev=S:S=70:ND=55],PROM0_1_PE1528:0.0206312[&&NHX:Ev=S:S=69:ND=56]):9.39047e-07[&&NHX:Ev=S:S=68:ND=57]):0.0117866[&&NHX:Ev=S:S=64:ND=58]):9.39047e-07[&&NHX:Ev=S:S=61:ND=59]):0.132209[&&NHX:Ev=S:S=56:ND=60]):0.0122237[&&NHX:Ev=S:S=48:ND=61]):0.122609[&&NHX:Ev=S:S=38:ND=62]):0.0418457[&&NHX:Ev=S:S=31:ND=63]):0.151065[&&NHX:Ev=S:S=22:ND=64]):0.37911[&&NHX:Ev=S:S=11:ND=65]):0.123857[&&NHX:Ev=D:S=0:ND=66],(SYNP6_1_PE618:9.39047e-07[&&NHX:Ev=S:S=24:ND=67],SYNE7_1_PE922:9.39047e-07[&&NHX:Ev=S:S=23:ND=68]):0.123857[&&NHX:Ev=S:S=12:ND=69])[&&NHX:Ev=D:S=0:ND=70];
+
+		Total final logLikelihood value: -2552.55
+		Sequence loglk: -2514.45 and scenario loglk: -38.1015
+PHYLDOG_LIGHT's done. Bye.
+Total execution time: 0.000000d, 0.000000h, 0.000000m, 5.000000s.
