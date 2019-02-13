@@ -1,6 +1,6 @@
-> family 1 tree 1 re-rooting (total cost = 10, duplications = 2, losses = 6, contraction threshold = no, ALE logLk = -31.905, libpll logLk = -864.115, execution time = 0.001 s.)
+> family 1 tree 1 re-rooting (total cost = 10, duplications = 2, losses = 6, contraction threshold = no, ALE logLk = -31.905, libpll logLk = -864.115, execution time = 0.003 s.)
 (((14_4193:0.042134,(9_4239:1e-06,12_4238:1e-06)100:0.053125)88:0.02034,(11_4185:0.046891,(16_4186:0.070334,19_4208:0.0376)52:0.003769)49:1e-06):0.120043,(1_4169:0.091158,(10_4133:0.054731,17_4170:0.047708):0.003762):0.120043);
-> family 1 tree 1 (total cost = 5, duplications = 1, losses = 3, contraction threshold = 48, ALE logLk = -26.5511, libpll logLk = -864.113, execution time = 0.002 s.)
+> family 1 tree 1 (total cost = 5, duplications = 1, losses = 3, contraction threshold = 48, ALE logLk = -26.5511, libpll logLk = -864.113, execution time = 0.003 s.)
 ((10_4133:0.058492,(1_4169:0.09241,17_4170:0.050216):1e-06):0.120984,((14_4193:0.042134,(9_4239:1e-06,12_4238:1e-06)100:0.053125):0.02034,(11_4185:0.046891,(16_4186:0.070334,19_4208:0.0376)52:0.003769):1e-06):0.120984);
 > family 1 tree 1 (total cost = 5, duplications = 1, losses = 3, contraction threshold = 51, ALE logLk = -26.5511, libpll logLk = -864.113, execution time = 0.002 s.)
 ((10_4133:0.058492,(1_4169:0.0920965,17_4170:0.0505295):1e-06):0.120984,((14_4193:0.042134,(9_4239:1e-06,12_4238:1e-06)100:0.053125):0.02034,(11_4185:0.046893,(16_4186:0.070334,19_4208:0.0376):0.003769):1e-06):0.120984);
