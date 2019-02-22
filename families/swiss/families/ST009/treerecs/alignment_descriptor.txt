@@ -1,0 +1,2 @@
+DAYHOFF
+/home/morelbt/github/BenoitDatasets/families/reference_genes/families/ST009/alignment.msa
