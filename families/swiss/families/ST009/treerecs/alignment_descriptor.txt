@@ -1,2 +1,2 @@
 DAYHOFF
-/home/morelbt/github/BenoitDatasets/families/reference_genes/families/ST009/alignment.msa
+/home/morelbt/github/BenoitDatasets/families/swiss/families/ST009/alignment.msa

@@ -1,0 +1,26 @@
+- muscle_MZ22500095.bestModel
+dataset: "muscle" dataset Eric Tannier sent me, coming from the database VectorBase
+Species: 15 Anopheles gambiae
+family name: MZ22500095
+
+- muscle_MZ22500028.bestModel
+dataset: "muscle" dataset Eric Tannier sent me, coming from the database VectorBase
+Species: 15 Anopheles gambiae
+family name: MZ22500028 (17000 sites and 21 taxa)
+
+
+
+- ensemble_ENSGT00780000121845.bestModel
+dataset: "ensembl_8880_15" dataset Bastien Bousseau sent me, coming from the Ensembl Compara database
+Species: 15 mammal species
+family name: ENSGT00780000121845 (17000 sites and 208 taxa)
+
+- ensemble_ENSGT00900000140787.bestModel
+dataset: "ensembl_8880_15" dataset Bastien Bousseau sent me, coming from the Ensembl Compara database
+Species: 15 mammal species
+family name: ENSGT00780000121845 (29000 sites and 205 taxa)
+
+
+
+
+
