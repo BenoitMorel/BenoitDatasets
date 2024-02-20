@@ -1,4 +1,0 @@
-Project: https://wiki.isb-sib.ch/swisstree/Main_Page
-Download link: ftp://ftp.lausanne.isb-sib.ch/databases/SwissTree/
-
-

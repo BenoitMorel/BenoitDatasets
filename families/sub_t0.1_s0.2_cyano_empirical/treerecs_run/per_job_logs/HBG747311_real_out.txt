@@ -1,27 +1,0 @@
-Treerecs, Inria - team Beagle, 2017
-> Branch supports distribution (support value, frequency):                           
-[0.00 - 17.71]   :  *****                ( 6.06%)
-[17.71 - 31.42]  :  ******************** (24.24%)
-[31.42 - 45.14]  :  ***************      (18.18%)
-[45.14 - 58.85]  :  **********           (12.12%)
-[58.85 - 72.57]  :  **                   ( 3.03%)
-[72.57 - 86.28]  :  ************         (15.15%)
-[86.28 - 100.00] :  *****************    (21.21%)
-
-Median value of supports: 50 (min = 4 and max = 100)
-> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [==>                 ]14% (remaining time: 4 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [=====>              ]29% (remaining time: 4 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [========>           ]43% (remaining time: 3 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [===========>        ]57% (remaining time: 2 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [==============>     ]71% (remaining time: 1 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [=================>  ]86% (remaining time: 0 s.)> Note: gene tree 1 is un-rooted.
-  ...the tree is going to be rooted.
-Reconciling genetree 1: [====================]100% (remaining time: 0 s.)                                                                         Solutions saved in /home/morelbt/github/BenoitDatasets/families/sub_t0.1_s0.2_cyano_empirical/families/HBG747311_real/treerecs/treerecs_output.newick
-Total elapsed time 4.777 seconds.

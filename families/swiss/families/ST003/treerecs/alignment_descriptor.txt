@@ -1,2 +1,0 @@
-DAYHOFF
-/home/morelbt/github/BenoitDatasets/families/swiss/families/ST003/alignment.msa

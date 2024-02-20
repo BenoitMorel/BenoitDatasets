@@ -1,3 +1,0 @@
-event(11,"../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/16_pruned/phyldog/phyldog",duplication)
-event(12,"../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/16_pruned/phyldog/phyldog",duplication)
-event(7,"../BenoitDatasets/families/DTL_jsim_s8_f100_sites300_d2.0_l1.0_t0.5_seed6/families/16_pruned/phyldog/phyldog",duplication)

@@ -1,6 +1,0 @@
-parse_48_prunedfasta
-parse_0_prunedfasta
-parse_30_prunedfasta
-parse_29_prunedfasta
-parse_11_prunedfasta
-parse_2_prunedfasta

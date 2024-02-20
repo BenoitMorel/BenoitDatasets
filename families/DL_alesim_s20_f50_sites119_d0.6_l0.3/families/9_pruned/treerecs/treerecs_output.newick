@@ -1,8 +1,0 @@
-> family 1 tree 1 re-rooting (total cost = 2, duplications = 1, losses = 0, contraction threshold = no, ALE logLk = -13.1364, libpll logLk = -788.506, execution time = 0 s.)
-(((2_3276:0.086212,0_3277:0.036516)100:0.03141,15_3218:0.134969):0.006643,((2_3278:0.075491,0_3279:0.100884):0.024692,15_3220:0.100388):0.006643);
-> family 1 tree 1 (total cost = 2, duplications = 1, losses = 0, contraction threshold = 93.3333, ALE logLk = -13.1364, libpll logLk = -788.506, execution time = 0 s.)
-(((2_3278:0.075491,0_3279:0.100884):0.024692,15_3220:0.100388):0.006643,((2_3276:0.086212,0_3277:0.036516):0.03141,15_3218:0.134969):0.006643);
-> family 1 tree 1 (total cost = 2, duplications = 1, losses = 0, contraction threshold = 96.6667, ALE logLk = -13.1364, libpll logLk = -788.506, execution time = 0 s.)
-(((2_3278:0.075491,0_3279:0.100884):0.024692,15_3220:0.100388):0.006643,((2_3276:0.086212,0_3277:0.036516):0.03141,15_3218:0.134969):0.006643);
-> family 1 tree 1 (total cost = 2, duplications = 1, losses = 0, contraction threshold = 100, ALE logLk = -13.1364, libpll logLk = -788.506, execution time = 0 s.)
-((15_3220:0.100388,(2_3278:0.075491,0_3279:0.100884):0.024692):0.006643,(15_3218:0.134969,(2_3276:0.086212,0_3277:0.036516):0.03141):0.006643);

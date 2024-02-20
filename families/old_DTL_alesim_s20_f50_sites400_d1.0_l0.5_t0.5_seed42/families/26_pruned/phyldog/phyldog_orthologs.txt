@@ -1,6 +1,0 @@
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	DUPLICATIONS : 0	LOSSES : 0
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 12_16138 <===> 9_16139
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 14_15710 <===> 12_16138, 9_16139
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 11_15660 <===> 16_15661
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 19_15848 <===> 11_15660, 16_15661
-../BenoitDatasets/families/alesim_s20_f50_sites400_d1.0_l0.5_t0.5_seed42/families/26_pruned/phyldog/phyldog	ORTHOLOGY RELATIONSHIP: 14_15710, 12_16138, 9_16139 <===> 19_15848, 11_15660, 16_15661

@@ -1,5 +1,0 @@
-59_pruned_fasta
-44_pruned_fasta
-41_pruned_fasta
-33_pruned_fasta
-25_pruned_fasta

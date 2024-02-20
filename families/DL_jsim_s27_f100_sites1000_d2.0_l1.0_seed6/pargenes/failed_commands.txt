@@ -1,6 +1,0 @@
-parse_45_fasta
-parse_11_fasta
-parse_12_fasta
-parse_49_fasta
-parse_34_fasta
-parse_82_fasta

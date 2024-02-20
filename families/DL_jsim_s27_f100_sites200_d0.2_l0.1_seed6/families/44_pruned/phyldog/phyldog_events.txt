@@ -1,6 +1,0 @@
-event(6,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",duplication)
-event(25,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",duplication)
-event(19,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",duplication)
-event(21,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",duplication)
-event(22,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",loss)
-event(7,"../BenoitDatasets/families/DL_jsim_s27_f100_sites200_d0.2_l0.1_seed6/families/44_pruned/phyldog/phyldog",loss)

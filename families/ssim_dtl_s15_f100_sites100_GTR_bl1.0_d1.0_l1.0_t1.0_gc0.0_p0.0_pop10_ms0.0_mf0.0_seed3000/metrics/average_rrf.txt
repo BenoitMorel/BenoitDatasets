@@ -1,0 +1,10 @@
+true.true : 0.0
+alegenerax-tcnone-fam-orunif_mrbayes-r1-c2-g100k-f100-braxml.gtr+g : 0.178918109705
+generax-spr-undateddtl-r5.gtr+g : 0.195273453722
+alegenerax-tcnone-orunif_mrbayes-r1-c2-g100k-f100-braxml.gtr+g : 0.197786028608
+ale-dtl-mrbayes-r1-c2-g100k-f100-braxml.gtr+g : 0.203479218573
+fasttree.gtr+g : 0.281649043156
+alegenerax-tcnone-fam-orunif_raxml-ng.gtr+g : 0.31318528613
+ale-dtl-raxml-ng.gtr+g : 0.31318528613
+raxml-ng.gtr+g : 0.31318528613
+alegenerax-tcnone-orunif_raxml-ng.gtr+g : 0.31318528613

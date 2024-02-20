@@ -1,6 +1,0 @@
-15_prunedfasta
-4_prunedfasta
-32_prunedfasta
-7_prunedfasta
-33_prunedfasta
-46_prunedfasta

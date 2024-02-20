@@ -1,4 +1,0 @@
-event(26,"../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/39_pruned/phyldog/phyldog",duplication)
-event(21,"../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/39_pruned/phyldog/phyldog",duplication)
-event(28,"../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/39_pruned/phyldog/phyldog",duplication)
-event(3,"../BenoitDatasets/families/DTL_zsim_s15_f50_sites200_d2.0_l1.0_t1.0/families/39_pruned/phyldog/phyldog",loss)

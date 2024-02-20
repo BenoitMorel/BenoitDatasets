@@ -1,2 +1,0 @@
-event(24,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/21_pruned/phyldog/phyldog",loss)
-event(4,"/hits/basement/sco/morel/github/BenoitDatasets/families/alesim_s20_f50_sites250_d1.0_l0.5/families/21_pruned/phyldog/phyldog",loss)

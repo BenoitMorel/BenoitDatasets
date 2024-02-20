@@ -1,0 +1,6 @@
+astralpro2_mrbayes-r1-c2-g100k-f100-braxml.gtr+g : 0.0
+generax-true-prune_true.true : 0.0
+genetegrator-true-orunif_true.true : 0.0
+genetegrator-mininj-orunif_mrbayes-r1-c2-g100k-f100-braxml.gtr+g : 0.0
+speciesrax-dtl-raxml-ng-perfam-hybrid.gtr+g : 0.0
+astralpro2_raxml-ng.gtr+g : 0.0

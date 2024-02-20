@@ -1,2 +1,0 @@
-event(11,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/767_pruned_fasta_modified/phyldog/phyldog",duplication)
-event(11,"/hits/basement/sco/morel/github/phd_experiments/datasets/families/simuls_higher_rate/families/767_pruned_fasta_modified/phyldog/phyldog",duplication)

@@ -1,8 +1,0 @@
-42_prunedfasta
-45_prunedfasta
-37_prunedfasta
-54_prunedfasta
-36_prunedfasta
-19_prunedfasta
-7_prunedfasta
-35_prunedfasta

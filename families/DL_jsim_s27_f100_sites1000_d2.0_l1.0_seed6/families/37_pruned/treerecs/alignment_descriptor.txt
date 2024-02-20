@@ -1,2 +1,0 @@
-GTR
-/home/morelbt/github/BenoitDatasets/families/jsim_s27_f100_sites1000_d2.0_l1.0_seed6/families/37_pruned/alignment.msa
